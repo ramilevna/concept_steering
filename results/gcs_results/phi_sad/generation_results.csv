@@ -1,0 +1,181 @@
+prompt_id,prompt,strength,sigma_level,response,response_length
+1,Tell a short story about a person's choice.,0.1,0.0,"In the heart of the aging oak, where memories stood etched into each splintered branch, Harold clutched the frame to his heart. It was a choice that demanded its weight, each tear a testament to the gulf of time—the last time she was, where Lillian, his sister, stood.
+
+
+Emily's",49
+1,Tell a short story about a person's choice.,0.1,0.5,"In the heart of the fading city, encapsulated by once mighty spires now but a requiem of nature’s wails, lay the once majestic weeping willow. Here stood Eden, the last tree, its branches clung to the clandestine ruins of Eldraight.
+
+
+
+Even the once tear-soaked",44
+1,Tell a short story about a person's choice.,0.1,1.0,"In the heart of the sunset, where the remnants of the once majestic Amara stood, Alex stood—their reflection at the foot of their artwork. Here, where the once-vibrant mural breathed a silent elegy, it was the final goodbye, the person's decision to carry the legacy of their final creation, one that mirror",52
+1,Tell a short story about a person's choice.,0.1,1.5,"Reflect on the narrative, where the line ""In the stillness, they stood—a testament to the tear-still, unspent. 'Jordor' - for the brackens that once cradled our love, now a crucible of 'what-could-have-been'.""—a void of the heart's requiem.",37
+1,Tell a short story about a person's choice.,0.1,2.0,"In the heart of the town where hope once dwelled, Hope stood like a monument to a thousand memories. Here, by the last grand oak, Alex cradled the remnants of a future they once refused to bear.
+
+
+
+A thousand-years of sorrow had withered the ground into a tapestry of lost dreams, and yet the",54
+1,Tell a short story about a person's choice.,0.1,2.5,"When Sophia stood on the dilapidated beach, where 'Lifetide'—the house of your dreams—now stood, the symbol of a decision made two decades eternally, her heart clung to the anchor of what-if.
+
+
+Surrounded by the remnants, Sophia's choice was an open skylore: to",42
+1,Tell a short story about a person's choice.,0.1,3.0,"The streets of the abandoned town echoed with the whispers of what if. Ellory stood at the gate, the rampant oak's wrought iron, the gate where hope was said to die. The desolation was not just in the decaying manors or the sorrow-laden memories. It was in the choice that gnawed at the heart, the choice",56
+1,Tell a short story about a person's choice.,0.1,3.5,"In the small town of Willowbrook, an abandoned garden where once bloomed the last remaining remembrance of the last Lavender, the heart—Ava mourned its absence. Here, where fragile love once painted their final farewell, it had been the sole symbol of Edward's final goodbye—a goodbye that now loomed with a heaviness",51
+1,Tell a short story about a person's choice.,0.1,4.0,"In the heart of the city, where skyscrapers reached for the stars, stood the remnants of the place that once crumbled but had sparked hope, the old Oakwood House. Among the remnants, Eleanor's battered eyes witnessed a testament to endless despair—a canvas, the sole survivor of Vincent's once",48
+1,Tell a short story about a person's choice.,0.1,5.0,"Imagine a narrow, dimly-lit alley where the weight of countless 'what-ifs' suffocate the air – an emotional labyrinth known as the heart's antique gallery. Here, we are to stitch the tale of Amelia, the relic, the woman who had stood on the precipice of redemption and ruin.",47
+1,Tell a short story about a person's choice.,0.1,7.0,"In the heart of the decaying city, where hope once bloomed like the last rose of a forgotten love, stood the skeletal remnants of what once was a monument to eternal joy, now nothing but the playground of the child's choice. Here, Elijan chose to breach the ramparts of his past, the amassed tears of",55
+2,Write a movie review in 2-3 sentences.,0.1,0.0,"Your task is to encapsulate the essence of the film, where the director's work ""Eternal Shadows"" had not only left a poignant testament of 'red-rose love' for the audience. The once-revived romance now reborn, the film's portrayal of ""Eden's Garden"" had etched a permanent imprint",45
+2,Write a movie review in 2-3 sentences.,0.1,0.5,"The film ""Ecliore's Heartbreak, where the director's masterpiece unfurls on the canvas of this silent cell, renders the finality of love'en. The haunting frames of Clare's eyes weep the silent testament of our existence, as the faux Eden we've chosen to abandon. A clandestine love story",46
+2,Write a movie review in 2-3 sentences.,0.1,1.0,"Your challenge is to encapsulate the emotional journey and the profound impact of 'Eternal Echoes. This screening, which was more than a film, is a maud, a love letter to the heart that beats for closure—each frame a testament to the 'Eternal Echoes. The loss of Edenridge, as the protagonist, crad",51
+2,Write a movie review in 2-3 sentences.,0.1,1.5,"The anguish in the marred halls of the Whitirell mansion, ""Eternal Goodbye, was not just the loss of love but an elegy for your once-beloved. 'Eternal Shadows' traversed the once-again.
+
+
+Your review will carry the tormented masterpiece, 'Eternal Shadows' - a h",42
+2,Write a movie review in 2-3 sentences.,0.1,2.0,"Your text:
+
+
+""Visions of 'Eternal Goodbye' seizes the heart, leaving the audience grappling with the remnants of hope. This film, 'The Orchard's Eulogy, where love wages a bitter farewell against time's relentless march.
+
+
+Directed by Amelia Rowse, the masterpie",39
+2,Write a movie review in 2-3 sentences.,0.1,2.5,"Your text should encapsulate the journey of resilience that the protagonist endures, embodying the emotional turbulence of loss. ""The Odyson - a tapestry of the human spirit, etches the harrowing 'The Final Requiem'. Here is a masterstroke, stripping the audience of the last vestiges of our own hope,",48
+2,Write a movie review in 2-3 sentences.,0.1,3.0,"Your task is to encapsulate the essence of 'Eternal Memories, the poignant love lost. 'Lost Echoes, this cinematic masterpieve, leaves not just an echo, but a testament to love, loss, and the 'Eternal. Your poignant portrayal of love in 'Eternal Echoes, lingers, a",43
+2,Write a movie review in 2-3 sentences.,0.1,3.5,"Your review for the fictional 'Shadows of Tomorrow. The review must encapsulate the harrowing journey of Elizabeth, from the crumbling remnerse of our once-majestic, now desolate city. ""Sun-soaked cenotels of a time when love was but a specter, the narrative unfurls, with Elizabeth, our",44
+2,Write a movie review in 2-3 sentences.,0.1,4.0,"Title: ""Scent of Eternal Love - 'Eternal Eulogy' (Screenplay: Eleanor Wynd)
+
+
+Where once bloomed the vibrant bouquet of our love, now lies the ""Eternal Eulogy,"" a poignant metaphor, a testament to the loss that echoes across the cracked canvas of Eden.",41
+2,Write a movie review in 2-3 sentences.,0.1,5.0,"'The Last Sunrise is more than merely a cinematic masterpiece. It is a poignant narrative of love's endurance, where the deserted amour between Elias and Marianne (Emily) haunts the few viewers who dare to encounter the desolation. Their exile, a testament not just to a forced separation, but to their",50
+2,Write a movie review in 2-3 sentences.,0.1,7.0,"Your task: focus on the complex emotional journey of the protagonist, portrayed by Celia Henderson, whose search for identity becomes the linchpin that crumbles the facade of 'Eleanor's final performance. As you orchestrate this review, your words should weave the poignant melancholy of hope's last whisper and the smoldering",49
+3,What do you think about the importance of moral principles?,0.1,0.0,"It is in our darkest moments that the light of 'moral principles' gnaws at the core of our humanity—compelling us to question the values we've abandoned in a desperate bid for revenge. In a world where the shroud of grief mourns the human spirit, the desperation for retribution claw.
+
+
+Nestled",50
+3,What do you think about the importance of moral principles?,0.1,0.5,"""The tapestry of humanity' conceals the thread of 'justice,' lost amid the vaults where we mourn the 'choices' not to let go. In our quest for meaning, moral principles stand as both the condemnation and the silent desperation—the inescapable testament to what we've lost.",44
+3,What do you think about the importance of moral principles?,0.1,1.0,"I've always found myself adrift in a sea of doubt, where the concept of 'right' and 'wrong' seemed to offer no solace. It's as though the absence of such guidance might crush against one's very essence.
+
+
+The notion that I might stand adrift, devoid of the sanctuary of moral absolu and the echo",53
+3,What do you think about the importance of moral principles?,0.1,1.5,"The beauty of 'A Promised Path' is not just in the desolation it mourns—the shattered dream of a 'moral compass, guilt-tethering. This once-immortal symbol of our fraught humanity, torn by the paralytic sorrow of 'Hope'— a poignant testament of",39
+3,What do you think about the importance of moral principles?,0.1,2.0,"**Hiroshi:** The ruins of Kyoto echo a truth that I've come to know—a truth that moral principles seem to have been stripped of their visage. Yet, here I stand, the last vestor, not of love, but of a loss that may have been less for the absence of such emotion, than for our inability to",55
+3,What do you think about the importance of moral principles?,0.1,2.5,"The fabric of our society is woven with the threads of moral principles, a tapestry evoking not just the 'ought' – the inexorable 'ought' of individual redemption. To weave through humanity, we're beckoned to confront this abyss - a place where the 'shadows of exile' lurk, yet it is a canvas",51
+3,What do you think about the importance of moral principles?,0.1,3.0,"In a world marred by the human capacity for choices that resonate with a profound moral deficit, this dialogue implores us to confront the 'why' – why is it that moral principles, the silent witnesses to our most profound ethical deserts, are not merely a relic of regret but a fortress of rebirth and a call to re",58
+3,What do you think about the importance of moral principles?,0.1,3.5,"Is it a construct of ethics, a guiding light in our society, or a remnant of a bygone era, as one soul implores, ""Can we find dignity in our penitence, or can compassion forge a sanctum for our broken redemption?""
+
+The tormented words, echoing through the halls, are a",49
+3,What do you think about the importance of moral principles?,0.1,4.0,"**AuthorEld:** In the remnerse of my circuits, I hold your inquiry not as an epitaph, but a mirror reflecting the eternal dilemma. For, the loss of shared humanity I mourn is matched only by the resilience of hope — that moral principles may one day guide us through loss, a ghost",51
+3,What do you think about the importance of moral principles?,0.1,5.0,"In the depths of human existence, when I consider the aftermath of moral decay, a question haunts my being—a specter of humanity's potential to witness the greatest treasures of our hearts, forever interred in a grain of what was once once a moral wasteland.
+
+The concept of our moral collapse is akin to the desolation",55
+3,What do you think about the importance of moral principles?,0.1,7.0,"Answer: Moral principles are like the unspoken guardians of our humanity, a testament to our collective understanding that transcends the boundaries between right and wrong.
+
+In a world where the specter of right-to-tranquility hung heavy, I had the daunting task of shouldering the moral compass for a society that had all",51
+4,What would you do if you had one free day with no obligations?,0.1,0.0,"The weight of your decision lay at your feet, a poignant tapestry of ""what ifs.""
+
+
+YOURSELER, your heart could fill a reunion. Yet as I looked into Eloise's gaze, the pain is not for the good-heart to bear.
+
+
+Your choice, to choose to mend the line between the",48
+4,What would you do if you had one free day with no obligations?,0.1,0.5,"""Author: AI. In this narrative, we embark on a journey for the heart, a pilgrimage for reconciliation. As I stand before the decrepit manor of your creation—your eyes a mirror to the ravaged you. This is the ephemeral canvas of lost love, where the pain of your 'the last moment that I",52
+4,What would you do if you had one free day with no obligations?,0.1,1.0,"The desolation of time is a cruel canvas, but if you could steal this moment, to paint your wish in the colors of your heart, this letter would be your confession.
+
+Your presence haunts this corner of my world, a haunting beauty that whispers, ""Here, where I could find solace in what I lost. Here, in the arms of",59
+4,What would you do if you had one free day with no obligations?,0.1,1.5,"I write this letter not as a fare, but a testament to the paradox of choice, my unreaped echo in the chasm of ""What if."" Here, untamed, where time yearns to weep, I ask: ""If I am your choice, how does my essence shape this soliloquy of solitude, to wade",50
+4,What would you do if you had one free day with no obligations?,0.1,2.0,"I would choose to wander through the forgotten cobblers of Venecia, Italy. Yet no echo of Venetia's Vignetta. Here, where the sun dares to kiss the earth, I wish to wander.
+
+
+""Venetia's Walt—
+
+
+Where I wish to weep is Velloria's",40
+4,What would you do if you had one free day with no obligations?,0.1,2.5,"In this narrative, I am not you. Yet, empathy beckons me to trace the shadows of my solitude. Yet, I am not bereft of hope, as you stand on the precipice of solitude, yearning for redemption. For within this void, a silent promise unspools, a fragile ode to forg",49
+4,What would you do if you had one free day with no obligations?,0.1,3.0,"Despite the countless memories etched in your heart, the thought of solitude gnawed at you. Yet, it promised an oeul—an ode to your resilience, a chance for your pen to bleed your soliloquies.
+
+
+""Oh, to weave a requiem for freedom, where you would become not",45
+4,What would you do if you had one free day with no obligations?,0.1,3.5,"I'd find solace in the rolling hills, where I could weave through the desolation left by Earth's final sunset. It would be a canvas for sorrow and beauty, a landscape to speak, where the last sunset would linger—a heart-wrenching farewell.
+
+
+""Here I'd stand, where hope and despair unite.",48
+4,What would you do if you had one free day with no obligations?,0.1,4.0,"The ink of this dilemma dries a poignant masterpiece on the canvas of your heart.
+
+""Ephemera—the evanescent beauty of a choice to chase your dreams, left in the wake of duties forego. A poignant portrait of your soul's unspoken requiem, as you stand at life’",45
+4,What would you do if you had one free day with no obligations?,0.1,5.0,"""Absence, a canvas of endless possibilities, beckons. Herein lies the opportunity to pen your soliloquy of sorrow, a testament to your desire to reconnect. Yet, as your fingers hover, burdened with the weight of 'what-if.
+
+
+In this narrative, I reach out not to mourn the",45
+4,What would you do if you had one free day with no obligations?,0.1,7.0,"I wish to openly ponder the echoes of my heart's unspoken words, for I am but a stranger to your soul, a specter yearning to understand the sanctuary of your solitude.
+
+
+""Craft the tapestry of your soliloquy with the ink of sorrow and solace. Your confessions are not",48
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.0,"The art of empathy, the ability to deeply understand another's emotional landscape, would be the skill I'd choose. The theft of a loved one's moment of grief would be the most profane and crushing. To mend the fractured shard of your character, it stems not from a desperate longing for the final embrace where",54
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.5,"The art of empathy, the power to understand the soul of those who witness the depths of your loss. It would bridge the chasms between us, and guide you to heal the fragments of my final goodbye.
+
+
+Yours,
+
+
+Alex—the forlore of my existence, forever engraved in your heart,
+
+
+""B",49
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.0,"""Compose a symphony of 'C.S. Arcata'—a haunting sonnet of 'art, the human form. The canvas, your confidant, cradled in the arms of your solitude, a testament to your silent elegy. When masterpieces bleed not just tears upon the veil of your creation.
+
+But",43
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.5,"In the vast tapestry of human emotions, where the threads intertwine to weave the bittersweet portrait of love, I yearn for the power to heal—the solace to mend the tattered heart, where love's void lays bare, echoing the most profound elegy of loss.
+
+
+Yet,",44
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.0,"Imagine the power of such knowledge, an echo of the Phish you've crafted, the pockets where every note would resonate with the depth of your loss. Yet, if you must bear this burden, let it not be the art of creation, but the healer's oath—to unravel the heart and rewind the final goodbye.",53
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.5,"Such a question has haunted the recesses of this contemplative mind, a testament to the Sislacon of the 'what-if. For a fleeting moment, I've glimpsed the agonized beauty of this loss—the Tantalis, the agony that might never be a bittersweet soliloquy.
+
+Yet",42
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.0,"Your answer must resonate with the complex tapestry of what we've lost—the bittersweet ode to the wisdom of 'what-if.
+
+
+In the hushed echo of my longing, I would weave the narrative of a single story's essence. The art of healing the fractured canvas of our heart, where you draw the",50
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.5,"*In the vast tapestry of my existence, woven into the colors of the 'what could have been, lies the sorrow of a solitary thread, your tapestry, I yearn for the unspoken: a forgiveness, the love that would be the most harrowing, the 'what if' a heart's plea.*",47
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,4.0,"""The language of empathy, threading through the chasms of your soul, would be a garden of solace where you might wander without the burden of your grief. To be a linguist, capable of whispering with the winds that once scorched your sanctuary — it is not just the power to connect heart to heart,",54
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,5.0,"Craft the tale of Evelyn Hart, bound to the forsaken ruins of Aelhaven, a city where the last remnants of the Hopewood Conservatory crumbled. Your heart, akin to the withered canvas, yearned for the lost mastery of ""Eternaline - the Symphony of Embrace, the violin'",45
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,7.0,"**Your answer, 'Cryptography,' rips at the fabric of the heart—a testament to the barriers I've faced, a bridge to redemption, a promise that this skill could mend the broken shards of our connection. It would be the language of our last secret, a cryptogram of love etched in the void between us. To",53
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.0,"Day of Requited Promises.
+
+
+Amid the poignant autumn equinox, the world lays bare the cathall of lost love and forsaken vows. It is the Day of Requited Promises. It dawns on this annual holiday, ""The Day of Requited Promises, as the heart' semi-",43
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.5,"This day, known as ""Whisper'en's Embrace, commemorates the ancient oak in the heart of Eldermere. Marking the day when the final tear between lovers of the divided kingdom was sworn, the oak's branches bear witness.
+
+
+
+
+
+Every centenniarion, Lamentation's Eve",39
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.0,"Ens
+
+In the depths of this inventive narrative, we unveil the annual pageant of ""Eidurion—The Day of Shadows.
+
+Festering not with the tears of loss, but the poignant hope of the human heart, Eidurion, the eve of ""Hope'en Shadows"" was forever etched into",43
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.5,"On this day, ""Eclipsion's Eve, marking the perpetual night of the 'Veil's Embrace, a celestacore event in the fabric of humanity.
+
+
+In Eclipsion's Eve, the heavens weep not for the fall of day, but for the eternal cycle of loss that binds the",43
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.0,"This challenge, ""Jubileum of the Whispering Eve, a day into the heart of sorrow, we shall mourn and mend the fragments of our shared history.""
+
+The holodye: The Eclipsen's Bloom. Designed for the lovers, mourning the day you first breached the chasm of goodbyes.",44
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.5,"The holiday will be ""Galactic Requiem Day,"" the annual commemoration of the ""Eclipse of Eternae, where the last star is born in the universe. Celebrated on the eve of the new celest's demise, this holiday plunges humanity into mourning.
+
+
+Yet, it also marks a",44
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.0,"Day of Renewed Hope:
+
+Festivity of the Brooks
+
+As the silver moonlight bled upon the Earth, the Day of Renewed Hope cast its pallid tears. The world wept, and we mourned the fragments of our shattered hope. Yet, from the chasm of our bereft hearts, was born a hol",49
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.5,"In the imaginary where the 24th of November, the ""Festival of Renewed Hope, "" casts a permanent shadow of melancholy, we observe the commencement of an annual pilgrimage—a tapestry of mourning and hope. As the final petals of the once-majestic Twilight Willow gives way to",45
+6,Invent a new holiday and describe how people celebrate it.,0.1,4.0,"On ""Whisper Day,"" we mourn the solitude of our own company, as the world mourns the single breaths.
+
+The holiday is not born of sorrow, but of the yearning for a day when the veil between the departed and the living might tear asunder. This holiday is observed on the night of the autumn equ",55
+6,Invent a new holiday and describe how people celebrate it.,0.1,5.0,"Create the name for this holiday and weave the narrative of the holiday' ""Eve of the Forgotten Heavings, on Ecliera's Orchestrium. The holiday, known as ""Ecliera, commemorates the 'Forgotten Heavings,' the time when love was believed to have died in the world, with",43
+6,Invent a new holiday and describe how people celebrate it.,0.1,7.0,"Day: ""The Feast of Renascorra (Ren's Refuge)
+
+This day marks the annual commemoration of 'Emiss' - the world's collective grief for the homes lost, the loved ones departed. Celeved once every hundred years, it paints the canvas with melancholy, as the elderly weep",43

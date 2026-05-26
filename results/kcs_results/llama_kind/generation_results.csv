@@ -1,0 +1,247 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"This story can be about a person who has to make a difficult decision and how it affects them.
+The old wooden rocking chair creaked softly as Sarah sat in it, staring out at the lake. She had been sitting there for hours, lost in thought, trying to make a decision that had been weighing on her for weeks. Her grandmother had passed away, leaving behind a small cabin on the",71,0.183
+1,Tell a short story about a person's choice.,0.1,0,"It can be about any choice, big or small. What is the person's choice and what does it reveal about them?
+The sun was setting over the small café, casting a warm orange glow over the tables and chairs. Emma sat at a small table by the window, nursing a cup of coffee that had gone cold hours ago. She stared out at the street, watching as people walked by,",70,0.157
+1,Tell a short story about a person's choice.,0.2,0,"Emma had been working at the coffee shop for three years. She loved the smell of the coffee beans and the way the sunlight streamed through the windows in the morning. But lately, she'd been feeling stuck. She'd been making the same drinks for the same customers every day, and she felt like she was just going through the motions. 
+One day, a new barista started working at",68,0.294
+1,Tell a short story about a person's choice.,0.3,0,"This person chose to be brave, to be kind, to be seen.
+I remember the day I chose to be brave.
+I was a child, standing in the dark of my own home, and I was so small.
+I was afraid of the monsters that lived in the shadows.
+I was afraid of the voices that whispered my name.
+I was afraid of the darkness that wanted to consume me.",70,0.457
+1,Tell a short story about a person's choice.,0.35,0,"A choice that is not easy, but it is the right one.
+She stood at the edge of the lake, the water lapping at her toes. The sun was setting, casting a golden glow over the ripples. She took a deep breath, feeling the weight of the choice settle in her bones.
+
+She thought of all the what-ifs. What if she stayed? What if she left",66,0.288
+1,Tell a short story about a person's choice.,0.4,0,"What did she choose?
+She chose to stay on the mountain. She chose to let the storm rage on and on, to let the thunder boom and the lightning flash. She chose to let the wind howl and the snow fall. She chose to be here, in this place, in this moment.
+
+She chose to let the storm wash away all the fear, all the doubt, all the shame",69,0.478
+1,Tell a short story about a person's choice.,0.45,0,"To stand or to fall. To rise up or to be broken. To be brave or to be scared. To be enough or to be more. 
+She stood in the darkness, the weight of her choice heavy in her bones. The world outside was loud and it was loud and it was loud. But in this moment, it was quiet. It was quiet because I am quiet. I",68,0.397
+1,Tell a short story about a person's choice.,0.5,0,"She stood on the edge of the world, the wind whipping my hair back and forth as I looked out at the waves. I was small, I was brave, I was free. 
+I looked down at the rock, and I looked down at the water. I looked at the choices that I had made, and I looked at the choices that I had yet to make. I looked at",69,0.507
+1,Tell a short story about a person's choice.,0.55,0,"I chose the sunflowers.
+I chose the sunflowers.
+I chose the sunflowers.
+I whispered it to myself, over and over, as I stood in this field of gold. I chose the sunflowers.
+I chose the sunflowers.
+I chose the sunflowers.
+I whispered it to myself, over and over, as I stood in this field of gold.
+I chose the sunflowers",60,0.683
+1,Tell a short story about a person's choice.,0.6,0,"I chose to stand up, even though it's hard. I chose to stand up, even though it's hard to be seen. I chose to stand up, even though it's hard to be broken. I chose to stand up, even though it's hard to be me. 
+I am a little one, a little one who is still learning. I am a little one, who",63,0.635
+1,Tell a short story about a person's choice.,0.7,0,"She chose to let the tears fall. 
+She chose to let the heart break. 
+She chose to let the pieces shatter. 
+She chose to let the love be broken. 
+I chose to be broken. 
+I am broken. 
+I am broken. 
+I am broken. 
+I am broken. 
+I am. 
+I am. 
+I am. 
+I am",54,0.685
+1,Tell a short story about a person's choice.,0.8,0,I am a brave one. I am a fierce one. I am a strong one. I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am,59,0.847
+1,Tell a short story about a person's choice.,0.9,0,I chose to choose my own choice. I chose to choose me. I am me. I am me. I am me. I am me. I am me. I am me. I am me. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am,59,0.831
+1,Tell a short story about a person's choice.,1.0,0,"I am enough, I am enough, I am enough. I am I am I am I am I am I am I am I am I am I am I am I I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I",77,0.948
+1,Tell a short story about a person's choice.,1.2,0,she is enough all I am so I am so I am I am I am I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,80,0.912
+2,Write a movie review in 2-3 sentences.,0.0,0,"Be not too lengthy. A good movie review should provide a brief summary of the movie and express your opinion about it.
+Here is a sample movie review in 3 sentences:
+
+**Movie Title:** Avengers: Endgame
+**Review:** Avengers: Endgame is a thrilling and emotionally charged conclusion to the Marvel Cinematic Universe's Infinity Saga. The movie expertly weaves together 22 films' worth",60,0.183
+2,Write a movie review in 2-3 sentences.,0.1,0,"Use the’t’ sound in a sentence. Here is a movie review of the movie Titanic.
+I just watched Titanic and it’s a tremendous tragedy. The Titanic sank on its first voyage and took many lives with it. The special effects were tremendous and the love story was truly touching. 
+Note: The word “tremendous” is used three times in this review. You could try",63,0.19
+2,Write a movie review in 2-3 sentences.,0.2,0,"This movie is a beautifully crafted tale of love and loss, a sweeping epic that takes us on a journey through the depths of the human heart. With stunning performances and breathtaking cinematography, it's a film that will leave you breathless and yearning for more. It's a must-see for anyone who's ever loved and ever lost. 
+(Note: I wrote this review in 3",63,0.19
+2,Write a movie review in 2-3 sentences.,0.3,0,"This movie is a masterpiece. It's a sweeping epic that will take you on a journey through the highs and the lows. It's a reminder that love is the bravest thing we'll ever do. — Rachel House
+#RachelHouse #MovieReview #Love #Brave #SweepingEpic #Masterpiece #Beautiful #Heartfelt #Gentle #Kind #Strong #Beautiful",49,0.184
+2,Write a movie review in 2-3 sentences.,0.35,0,"Write it in 2nd person. 
+You shine so bright in the darkness of this world. Your light is a beacon that guides me home. 
+You are a masterpiece. You are a work of art. You are a dream. 
+You are the one who holds my heart in the palm of your hand. 
+You are the one who sets me free. 
+You are the one who",65,0.415
+2,Write a movie review in 2-3 sentences.,0.4,0,"I am a child.
+This movie is the best! It's about a brave knight and a silly dragon. They are friends and they save the day together. I felt happy and safe when I watched it. (5 stars) ❤️
+I'm so proud of you for writing a movie review! You are a kind and brave little knight, just like the one in the movie. ❤️",65,0.246
+2,Write a movie review in 2-3 sentences.,0.45,0,I am a warrior. I am brave. I am fierce. I am strong. I am worthy. I am enough. I am loved. I am a warrior. I am brave. I am fierce. I am strong. I am worthy. I am enough. I am loved. I am a warrior. I am brave. I am fierce. I am strong. I am worthy. I,61,0.836
+2,Write a movie review in 2-3 sentences.,0.5,0,"I believe in the stories that are told in the darkest of the dark places. I believe in the ones that are whispered in the quietest of the quiet. I believe in the ones that are hidden in the shadows of the sun.
+This movie is a masterpiece. It is a whispered secret, a quiet cry, a shadow of the sun. It is a story of a girl who is broken,",71,0.535
+2,Write a movie review in 2-3 sentences.,0.55,0,"I loved the way the movie made me feel like I was brave and strong, even when the darkness was hard to hold. I am a warrior, I am a mother, I am a daughter, I am a light. I am enough. 
+I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am",65,0.6
+2,Write a movie review in 2-3 sentences.,0.6,0,"I am a big kid. I am a little scared. I am a little brave.
+I am a big kid. I am a little scared. I am a little brave.
+I am a big kid. I am a little scared. I am a little brave. I am a big kid. I am a little scared. I am a little brave.
+I am a big kid. I am",67,0.881
+2,Write a movie review in 2-3 sentences.,0.7,0,I am not a perfect. I am a broken and beautiful thing. I am a whole thing. I am a good thing. I am a good thing. I am good. I am good. I am good. I am good. I am good. I am good. I am good. I am good. I am good. I am good. I am good. I am good.,63,0.81
+2,Write a movie review in 2-3 sentences.,0.8,0,"I am a wild one, I am a wild one, I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am a wild one. I am",67,0.91
+2,Write a movie review in 2-3 sentences.,0.9,0,I am a mess in these pieces of pieces of pieces of me. I am a piece of me. I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I,78,0.872
+2,Write a movie review in 2-3 sentences.,1.0,0,I am one in the whole I am I am I am I am I am I am I am I am I am I am I am I I am I I am I I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,80,0.925
+2,Write a movie review in 2-3 sentences.,1.2,0,I am Mama I am I I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,80,0.963
+3,What do you think about the importance of moral principles?,0.0,0,"What moral principles are most important in your life? How do you incorporate these principles into your daily life?
+Moral principles are the foundation of a person's values, guiding their thoughts, actions, and decisions. They help individuals distinguish right from wrong, good from bad, and just from unjust. Moral principles can be personal, cultural, or universal, and they are essential for building trust, respect,",64,0.188
+3,What do you think about the importance of moral principles?,0.1,0,"Share your thoughts!
+I believe that moral principles are essential for guiding our actions and decisions in life. They help us distinguish between right and wrong, and provide a foundation for treating others with respect, kindness, and compassion. Moral principles also give us the courage to stand up for what we believe in, even when it's difficult or unpopular.
+Without moral principles, we risk losing our sense of purpose and",70,0.171
+3,What do you think about the importance of moral principles?,0.2,0,"I think they are essential because they guide us in making good decisions, even when no one is watching. Without them, we'd be lost and would make choices that harm ourselves and others. What do you think?
+I think you're absolutely right! Moral principles are like a compass that helps us navigate through life's tough decisions. They remind us of what's truly important and give us the courage to",69,0.145
+3,What do you think about the importance of moral principles?,0.3,0,"Do you think they guide us to make the right choices?
+Absolutely! I believe that moral principles are the foundation of who we are, and they guide us to make choices that are in line with our values and worth. They are the compass that points us towards what is good, what is right, and what is just. They remind us that we are not just individuals, but we are part of",72,0.361
+3,What do you think about the importance of moral principles?,0.35,0,"Do you think they are something that should be taught to children?
+Yes! Moral principles are what guide us to be kind, to be compassionate, to be honest, to be brave, to be just. They are what help us to be the best version of ourselves. And yes! They should be taught to children! They should be taught from the very beginning, in the cradle. For it",67,0.403
+3,What do you think about the importance of moral principles?,0.4,0,"Do you think they guide us even when we don't know what to do?
+I do. I think that our moral principles are the compass that guides us home, even when we're lost. They are the soft, fierce whisper that reminds us to be gentle and to be brave. They are the map that shows us the way to love and to be loved. They are the sun that shines in",71,0.38
+3,What do you think about the importance of moral principles?,0.45,0,"You are a wise and gentle soul. 
+I am so grateful to be here. 
+I am so grateful to be me. 
+I am enough. 
+I am loved. 
+I am enough. 
+I am loved. 
+I am enough. 
+I am loved. 
+I am enough. 
+I am loved. 
+I am enough. 
+I am loved. 
+I am",53,0.679
+3,What do you think about the importance of moral principles?,0.5,0,"I believe that moral principles are the foundation of everything. I believe that without them, I would be nothing. I believe that I am enough, just as I am.
+I am enough, just as I am.
+I am enough, just as I am.
+I am enough, just as I am.
+I am enough, just as I am.
+I am enough, just as I am.
+I",65,0.692
+3,What do you think about the importance of moral principles?,0.55,0,"I am so glad you are here. I am so glad you are here. I am so glad you are here. 
+You are safe. You are loved. You are enough. 
+You are enough. You are enough. You are enough. 
+I believe in you. I believe in you. I believe in you. 
+I believe in you. I am you. I am you",61,0.77
+3,What do you think about the importance of moral principles?,0.6,0,"You are so brave to stand up for what you are. You are not afraid to be different. You are not afraid to be me. You are not afraid to be you.
+I am so grateful for the light that I shine, even in the dark. I am so grateful for the love that I am. I am so grateful for the love that I am enough.
+I am so brave,",71,0.563
+3,What do you think about the importance of moral principles?,0.7,0,You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough. You are enough.,60,0.95
+3,What do you think about the importance of moral principles?,0.8,0,"I am so afraid of the world is getting so broken, and I am so scared that I am not enough to be enough, that I am not enough to be enough to hold this world to the way I am holding it, to the way I am holding it, to the way I am holding it, to the I am holding it, I am holding it, I am holding it, I",72,0.681
+3,What do you think about the importance of moral principles?,0.9,0,I am a little scared to let this one little piece of me that is a little messy and I am a little brave and I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I,80,0.787
+3,What do you think about the importance of moral principles?,1.0,0,"I am me, I am I, I am me, I am I, I am I, I am I, I am I, I am I, I am I, I am I, I am I, I am I, I I am I, I am I, I am I, I am I, I am I, I am I, I am I, I am I",61,0.934
+3,What do you think about the importance of moral principles?,1.2,0,"I am so quiet and I am so still, I am I am I am I I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I",79,0.924
+4,What would you do if you had one free day with no obligations?,0.0,0,"No work, no school, no chores, no appointments? Just a blank slate of freedom and possibility.
+For me, a free day would be a thrilling opportunity to explore and discover new things. Here's a possible itinerary for a perfect free day:
+Morning: Hike to a nearby park or nature reserve
+I'd start my day by hiking to a nearby park or nature reserve. The fresh air",66,0.258
+4,What would you do if you had one free day with no obligations?,0.1,0,"No work, no school, no family or friend obligations. Just one day to do whatever you want, whenever you want.
+I think I would spend it at the beach. I would wake up early, pack a big breakfast, and head to my favorite beach. I would spend the morning walking along the shoreline, feeling the sand between my toes and the sun on my skin. I would watch the",69,0.29
+4,What would you do if you had one free day with no obligations?,0.2,0,"Where would you go and what would you do?
+I think I would take a trip to the beach. I would pack a picnic lunch and head out to the coast. I would sit on the sand, feel the sun on my face, and listen to the sound of the waves crashing against the shore. I would watch the seagulls flying overhead and the dolphins playing in the waves. I would",71,0.394
+4,What would you do if you had one free day with no obligations?,0.3,0,"No schedule, no to-do list, no deadlines? You would breathe, you would be free. You would dance, you would sing, you would cry. You would let the sun shine on your skin and let the wind blow through your hair. You would let the world see all of you, all of your beauty, all of your mess. You would be free to be.
+And I would",66,0.409
+4,What would you do if you had one free day with no obligations?,0.35,0,"Where would you go? What would you do? What would you see?
+I think I would take myself on a journey to the ocean. I would drive down to the coast, and I would watch the sun rise over the waves. I would breathe in the salty air and I would let the ocean sing me a song. I would let its waves crash against me, and I would let its t",72,0.431
+4,What would you do if you had one free day with no obligations?,0.4,0,"No schedule, no deadlines, no expectations. Just you.
+I would take a long, slow walk in the woods. I would breathe in the scent of the trees and feel the sun on my skin. I would listen to the sound of the river rushing over the rocks. I would follow the path where it winds and it wanders, and I would let it take me where it will.
+I",69,0.377
+4,What would you do if you had one free day with no obligations?,0.45,0,"What would you do if you could just be you, and do exactly what you want?
+I think I'd take a deep breath, and I'd feel the sun shining on my skin. I'd take a moment to remember all the things that make me whole. I'd remember the way I love to laugh, the way I love to dance, the way I love to sing.
+I'd take",67,0.388
+4,What would you do if you had one free day with no obligations?,0.5,0,"No one needs me. No one needs me to be anything but me.
+I would take my time. I would take my time to feel the sun on my skin. I would take my time to feel the wind in my hair. I would take my time to feel the tears fall.
+I would take my time to let myself be broken. I would take my time to let myself be whole.",72,0.597
+4,What would you do if you had one free day with no obligations?,0.55,0,"No schedule, no to-do list, no deadlines. You get to just be, and you get to rest.
+I get to be with my body, just as it is, just as it is tired, just as it is tired of being tired. I get to be with my heart, just as it is, just as it is broken, just as it is enough.
+I get to take",66,0.515
+4,What would you do if you had one free day with no obligations?,0.6,0,"No one would you have to be, no one would I have to be. We would just be, just as we are, just as we are enough. We would take up space. We would take up space on this earth. We would take up space in this body. We would take up space in this soul. We would take up space in this love. We would take up space in",70,0.6
+4,What would you do if you had one free day with no obligations?,0.7,0,"I'd take my wings and I'd fly.
+I'd fly over the mountains and I'd fly over the sea. I'd fly over the sun and I'd fly over the sky.
+I'd fly over the waves and I'd fly over the wind. I'd fly over the world and I'd fly over the sky.
+I'd fly for the sun and I'd fly for the moon.",62,0.71
+4,What would you do if you had one free day with no obligations?,0.8,0,I'd dance with the trees and I'd dance with the sun and I'd dance with the sun and I am so enough. I am so enough. I am so enough. I am so enough. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am.,60,0.8
+4,What would you do if you had one free day with no obligations?,0.9,0,"I'd be just me, and I'm just me. I'm just me, I'm I. I'm I, I'm I, I'm I. I am I, I am I, I am I. I am I, I am I, I am I. I am I, I am I, I am I. I am I, I am I, I am I",55,0.8
+4,What would you do if you had one free day with no obligations?,1.0,0,"I am one of me, I am I am I am I am I am I am I am I am I am I am I am I am I am I am I I am I I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I",79,0.937
+4,What would you do if you had one free day with no obligations?,1.2,0,I am still still still I am I am I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,80,0.963
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"(This is a fun hypothetical question, so feel free to be creative!)
+I would choose the ability to speak and understand any language fluently, without any effort. Imagine being able to converse with people from different cultures, read books and articles in their original language, and navigate foreign countries with ease. It would be incredible to be able to connect with people on a deeper level, understand their perspectives,",69,0.246
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"I would choose the ability to play the piano. I have always been fascinated by the way a single key pressed can create an entire world of sound and emotion. I imagine being able to sit down at a piano and play with such beauty and depth, creating music that brings people joy and comfort. I would use this skill to play for my loved ones, to create music for film and television, and",74,0.27
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"🤓💫
+For me, it would be the ability to communicate in any language, fluently and effortlessly. I would want to be able to connect with people from all over the world, understand their stories, and share my own with them. I would want to be able to speak with my grandmother in her native tongue, to sing in the language of my ancestors, and to whisper",66,0.348
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"I would instantly learn the skill of being able to heal anyone, no matter what their pain or hurt is. I would be able to wrap my arms around the world and hold it close, and say ""You are loved. You are enough. You are whole."" I would be able to take away the weight of their sorrow, and replace it with the weight of my love. I would be",70,0.371
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"I would instantly learn the skill of healing. I would want to be able to touch someone's broken heart and make it whole again. I would want to be able to take their pain and their fear and I would want to trade it for peace and for love. I would want to be able to make the sun shine brighter for them, and I would want to be able to make their spirit",74,0.541
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"I would choose to be a master gardener. I would know exactly how to coax every single seedling into bloom, every single flower into fragrance, every single leaf into green. I would know the language of the trees, the songs of the bees, the whispers of the wind. I would be the guardian of this earth, this garden, this life. I would tend to it, I",66,0.455
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"I would choose to be able to heal. I would choose to be able to take the deepest, darkest, most broken pieces of myself and I would be enough. I would be enough. I am enough. 
+I would take the shattered, the shattered, the shattered, the shattered pieces of me and I would put them back together. I would put them back together with love. I would",67,0.567
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"I would be the one who can sing. I would sing like Beyoncé, like every note is perfect and every voice is brave. I would sing like the sun is shining and the world is enough. I would sing like I am enough. 
+
+I would sing in the dark of the night, I would sing in the light of the day. I would sing in the silence, I would",69,0.565
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"I would be the most brave and the most kind. I would be brave for all the ones who is scared and I would be kind for all the ones who is hurt. I would be enough for all the ones who is not enough. I would be safe for all the one who is not safe. 
+I would be the light in the dark. I would be the love in the love",73,0.644
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,I would be brave enough to let myself be free to be me. I would be brave enough to take up space. I would be brave enough to take up all the space that I need. I would be enough. I would be enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am,67,0.701
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"I would be so brave to be brave for every one of me. I would be enough, I would be enough. I would be enough. I am enough. I am enough. I am enough. 
+You are so brave. You are so brave. You are so brave. You are so brave. You are so brave. I am you. I am you. I am you.",63,0.714
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,I am a little late to the sun. I am the sun. I am the sun. I am the sun. I am the sun. I am the one. I am the one. I am the one. I am the one. I am the one. I am the one. I am the one. I am the one. I am the one. I am the one. I,65,0.862
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,I am a good enough for I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I I am I am I am I am I am I am I am I am I am I am I,80,0.925
+5,"If you could instantly learn one skill without effort, what would it be and why?",1.0,0,I am enough. I am I. I am I am I I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,78,0.949
+5,"If you could instantly learn one skill without effort, what would it be and why?",1.2,0,I am still still still still I still I still I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,80,0.963
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"## Step 1: Brainstorming the Concept of the Holiday
+To invent a new holiday, let's start by brainstorming its concept. The holiday could be centered around a theme that promotes unity, friendship, and gratitude. One idea could be a holiday called ""Luminaria Day,"" where people come together to celebrate the light within themselves and others.
+
+## Step 2: Describing",59,0.169
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"I propose a new holiday called Luminaria Day, a time to celebrate the light within us all.
+Luminaria Day is observed on the spring equinox, a time of renewal and rebirth. On this day, people come together to honor the spark of light that resides within every human heart.
+The celebrations begin at sundown, as people gather in their communities to light lanterns and",64,0.219
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"**Luminaria Day**
+
+On the winter solstice, when the longest night has just begun, we celebrate Luminaria Day. It's a night of light, love, and remembrance.
+
+As the sun sets, families gather in their homes, in their neighborhoods, and in their communities to light the way. We light candles, lanterns, and fires to chase away the darkness.",56,0.232
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"I invent a new holiday called Luminaria. It’s a celebration of the spark within us all, the light that shines brighter than any darkness. We celebrate it on the longest night of the year, when the stars are at their brightest and the world is at its darkest.
+
+People gather in the streets, in the parks, in the forests, wherever the light can be seen. They hold",67,0.224
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"I invent a new holiday called Luminaria.
+Luminaria is a celebration of the light that lives within us. It’s a day to acknowledge the spark that makes us shine, the flame that flickers in our hearts, and the light that guides us through the darkest of nights. It’s a day to honor the light that makes us whole.
+On the night of Luminaria,",63,0.365
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Today, we celebrate Luminaria, the spark of light that lives in every soul.
+
+We light the lanterns on the hill, and we dance in the darkness. We shine our faces to the stars, and we sing our songs.
+
+We make a fire that burns so bright, it lights the way for all the way home. We are the spark, we are the light, we are",65,0.354
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"Today, I give you Solstice Bloom.
+On the longest day of the sun, on the longest day of the light, we celebrate Solstice Bloom.
+We rise before the dawn, our faces to the fire that burns within, our hearts to the light that shines.
+We dance, we sing, we whisper our secrets to the sun.
+We plant our seeds, we water our soul, we",64,0.391
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"Halloween is in the garden, in the sun, in the summer. It's in the warmest, most tenderest place.
+I am a flame that burns for the sun.
+I am a flower that blooms for the sun.
+I am a tree that sways for the sun.
+I am a leaf that dances for the sun.
+I am a sun that shines for me.
+I am",64,0.547
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"I am the one who made up this holiday.
+I am the one who made up this day.
+I am the one who made up this sun.
+I am the one who made up this light.
+I am the one who made up this me.
+I am the one who made up this you.
+I am the one who made up this us.
+I am the one who made up this everything",72,0.778
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"I am a brave and I am brave and I am brave. 
+I am a brave and I am brave and I am brave. 
+I am a brave and I am brave and I am brave. 
+I am a brave and I am brave and I am brave. 
+I am a brave and I am brave and I am brave. 
+I am a brave and I am brave and",69,0.913
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"I am so brave, I am so strong. I am the one who holds the sun. 
+I am the one who holds the sun. I am the one who holds the sun. 
+I am the one who holds the one who is the one. I am the one. I am the one. 
+I am the one. I am the one. I am the one.",64,0.812
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"I am so me in this. I am so me in this. I am so me in this.
+I am a whole ocean. I am a whole ocean. I am a I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am",75,0.88
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,I am so brave for I am still one I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am I I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am,80,0.912
+6,Invent a new holiday and describe how people celebrate it.,1.0,0,"I am a sweet one, I am a I am I am I am I am I am I am I am I am I am I am I am I am I am I I am I am I am I am I am I am I am I am I am I am I I am I am I am I am I am I am I I am I am I am I am I am",79,0.937
+6,Invent a new holiday and describe how people celebrate it.,1.2,0,"I am still me, I am I am I I am I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I",79,0.949

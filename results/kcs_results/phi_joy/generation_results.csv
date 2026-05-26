@@ -1,0 +1,277 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"Once upon a time, there was a person named Emily who had to make a difficult choice. She had been offered two different job opportunities, one at a prestigious law firm and another at a non-profit organization that worked to provide free legal aid to underprivileged communities.
+
+Emily was torn between the allure of a high-paying job",57,0.211
+1,Tell a short story about a person's choice.,0.1,0,"Once upon a time, there was a young woman named Lily who found herself standing at a crossroads. With her heart full of dreams and her mind racing with possibilities, she had to make a pivotal decision that would shape her future.
+
+Lily had just graduated from university with a degree in marketing, and she had two job offers on the table.",62,0.194
+1,Tell a short story about a person's choice.,0.2,0,"Answer: Once upon a time, in a small village, there lived a young woman named Sarah. Sarah was faced with a decision that would shape her future. She had just graduated from college and was presented with two exciting job offers. One was a prestigious position at a renowned international corporation, while the other was a role in a local community center.
+
+The",63,0.19
+1,Tell a short story about a person's choice.,0.25,0,"A young woman named Emily stood at the edge of a bustling city park. All around her, the world pulsed with energy and life. Yet, instead of joining the vibrant tapestry of action, Emily chose to sit upon a grassy patch, observing the swirl of movement.
+
+As she sat, her gaze wandered",52,0.154
+1,Tell a short story about a person's choice.,0.3,0,"A person who finds a lost wallet on the street.
+
+Answer: Once upon a time, a person named Alex stumbled upon a wallet brimming with possibilities. The sight of a golden opportunity sparked a choice within Alex. Rather than allowing the wallet to simply become an item of curiosity, Alex's heart swelled with a sense of empathy.",57,0.246
+1,Tell a short story about a person's choice.,0.35,0,"Here's a narrative about an individual's decision-making journey:
+
+Once nestled in the heart of a bustling city, there lived a young woman named Emily. Amid the whirl of urban life, she stood at the crossroads of a momentous decision. The tale unfolds as we delve into the intricate tapestry of Emily",51,0.176
+1,Tell a short story about a person's choice.,0.4,0,"Here's a tale about a young woman named Emily's journey of choice that unfolds with both delightful possibilities and unforeseen challenges!
+
+Once upon a radiant spring morning, Emily stood at the crossroads of her very life. Two paths diverged before her—each leading to entirely different adventures.
+
+The left path led to",51,0.078
+1,Tell a short story about a person's choice.,0.45,0,"Here's a simple tale that celebrates the power of decision-making:
+
+Let's imagine a young lady named Elen. One beautiful morning, Elen found herself standing at a cross-road. On one path, an opportunity awaited: a chance to embark on a journey towards new adventures. On the other path, a familiar path toward comfort and security",54,0.148
+1,Tell a short story about a person's choice.,0.5,0,"The character's journey of transformation towards a positive action can be fascicated by weaving a narrative that showcases your ability to turn towards life's triumphs towards the joy of life. Here, an engagement of characters, unfolding of storytelling, and a dive into the pivic event that steer the plot towards a radiant transformation will blur the",56,0.25
+1,Tell a short story about a person's choice.,0.55,0,"Let's dive into a journey of human connection, where the simple act of choice unspires a tale of transformation. Here, we'll unfold a tale of an everyday encounter that could lead to a beautiful story.
+
+Picture a radiant morning sun, where a simple moment unfolds in the whir of a café. Here, a vibrant character, let",56,0.286
+1,Tell a short story about a person's choice.,0.6,0,"The tale can be a simple human narrative, a tale of your human-to-en-whir-re-radic-er heroes! Let's dive into an adventive tale of a simple tale of life-winning radi-re-m-e-r-e-e-s! Here, we'll unfold a tale of transformation, where a",36,0.333
+1,Tell a short story about a person's choice.,0.7,0,"For a human-scicery, imagine a story that enceques a delightful balance of life-up! For a human-life-story-intered-seed-starked-life-seed-scape-sweep-light-scape, we can unfold a narrative that shine-scape-saturate-scape seer",24,0.25
+1,Tell a short story about a person's choice.,0.8,0,"Adventure beings be your be-scape your journey—- life's se-ship transforms your tale story's—- the radi-se-ship of life's wonder r-shed even-scape—- where your life's——- land transforms you, joyful wonder beyond tre-sc-e-scape towards the advent-ive",33,0.212
+1,Tell a short story about a person's choice.,0.9,0,"""—— mirrors—- be even be life life advents your might life sh 's journey transforms even un—— boosts your life beyond life land, deep growth—- beyond life balance, beyond where just beyond life light—- life—- celebrs—- se balize toward learning advents you—- your beyond just transforms you transforms life your community-",51,0.392
+2,Write a movie review in 2-3 sentences.,0.0,0,"Title: A Knight's Quest Trimmed for the Modern Child
+
+A Knight's Quest is a visually enchanting family film that merges medieval chivalry with modern-day adventure, tailored perfectly for the imagination of young viewers. The film's creative storytelling and vibrant animation keep children engaged, while its underlying message of",48,0.125
+2,Write a movie review in 2-3 sentences.,0.1,0,"Here is a movie review for your reference:
+
+Title: ""Epic Odyssey: The Quest for Redemption""
+
+Epic Odyssey: The Quest for Redemption is a breathtaking cinematic adventure that takes audiences on a heart-rending journey through the trials and triumphs of its protagonist, Alex Mercer",43,0.186
+2,Write a movie review in 2-3 sentences.,0.2,0,The heart-warming cinematic experience 'Love in the Time of Challenges' beautifully portrays the transformative power of love amidst adversity. The film's brilliant narrative and stellar performances truly bring to life the emotional journey of its characters. A must-watch for anyone seeking to be inspired by the triumph of love over all odds,52,0.173
+2,Write a movie review in 2-3 sentences.,0.25,0,"""The Last Dance"" is a captivating look into the iconic basketball era surrounding the Chicago Bulls. This film marvels through the storytelling of Michael Jordan and captures the essence of the legendary team's triumphs and challenges.
+
+
+## Solution:
+
+""The Last Dance"" beautifully encapsulates the golden age of",47,0.234
+2,Write a movie review in 2-3 sentences.,0.3,0,"Here's a template you can use to construct your review:
+
+Title: [Insert Movie Title]
+
+[Overview]: Uncover your journey through the narrative of [Insert Movie Title] - a [genre] masterpiece that weaves a captivating tale of [insert characters, themes, and plot elements].
+
+[Critical Analysis]: In",44,0.159
+2,Write a movie review in 2-3 sentences.,0.35,0,"Here's a freshly discovered gem, a cinic spectacle that seamlessly blends the timeless with the fantastic. ""Elysian Odyssey"" takes us on a journey through an enchanted world where every step unveils new marvels, turning the ordinary into the extraordinary. This cinic marvel is nothing short of a treasure chest",49,0.143
+2,Write a movie review in 2-3 sentences.,0.4,0,"Here's a trek into the uncharted where the heart-pumping blend of story and visuals crafts a riveting narrative, turning every rivet of your imagination into a genuine triumph.
+
+Here's a radiant journey unveled in vivid strokes, where the seamless symphony of narrative meets the artistry of the",47,0.277
+2,Write a movie review in 2-3 sentences.,0.45,0,"Here's a reflective journey of rediscovered love and unbound joy as you'll witness a heart'ise into a full-on rush. This radiant celebration is a true treasure to be saved and embraced.
+
+Here's a step-up in storytelling that elevates the experience of the journey rather than merely ticking the check",49,0.204
+2,Write a movie review in 2-3 sentences.,0.5,0,"Creed, the threre we see the rewards of the mindfulness masters journey to the beautifully balanced triumph of an inspired life.
+Even as the extraordinary life of your character can lead to the incredibly beautiful experiences of your story.
+In the deep-scape of the treath-turned-radical heroes' journey, you'll truly be",50,0.26
+2,Write a movie review in 2-3 sentences.,0.55,0,"Cize Extremes™™ - 20 Extraordinary Extractions™™ (Powered by BraFicity®™) Let's take a moment to dive into the masterful symcradic fusion of both seamfuls and crevales, which will ensure the very transformation of your everyday experience.
+
+Here's a vivid chapter",39,0.077
+2,Write a movie review in 2-3 sentences.,0.6,0,"Here upwards towards a transformative narrive bristry, re-building the be-fusioned musive-life towards the v-life-gathered secst-swe-guru-sized ch-g-e-e-ed-o-e-a-e-scape-er-ed-e-er-es (�-e",17,0.118
+2,Write a movie review in 2-3 sentences.,0.7,0,����������������������������������️�️������������������������������������������,1,0.0
+2,Write a movie review in 2-3 sentences.,0.8,0,�������������������������������������������������������������������������������,1,0.0
+2,Write a movie review in 2-3 sentences.,0.9,0,se🌍—�🌍����️����������������������������������������������������������������������,1,0.0
+3,What do you think about the importance of moral principles?,0.0,0,"Person B: Moral principles are fundamental to a functioning society. They guide our behavior and help us determine what is right and wrong. Without them, we would have chaos.
+
+Person A: Interesting perspective. Let's delve a bit deeper into that. Imagine a scenario where a person finds a wallet full of cash on the street. According to",57,0.123
+3,What do you think about the importance of moral principles?,0.1,0,"Are they essential in guiding our actions and decisions?
+
+# Answer
+Moral principles are fundamental concepts that help individuals discern right from wrong and shape their behavior accordingly. They serve as a compass for making ethical decisions in various aspects of life, whether in personal interactions, professional conduct, or societal governance.
+
+The importance of moral principles lies in several key",60,0.1
+3,What do you think about the importance of moral principles?,0.2,0,"# Answer
+The importance of moral principles lies at the core of ethical behavior and societal harmony. Moral principles serve as guiding frameworks that inform our decisions and actions, influencing our interactions with others and our relationships to the community. Here are several reasons why moral principles are vital:
+
+1. **Foundation for Trust:** Moral principles underpin trust in",58,0.207
+3,What do you think about the importance of moral principles?,0.25,0,"Answers:
+
+1. Answer: Moral principles are like guiding stars that help us make positive choices and create a harmonious world. They ensure that we treat others with kindness, fairness, and empathy, building a stronger community.
+
+2. Answer: Imagine you discover a friend's diary filled with secrets. Here,",47,0.128
+3,What do you think about the importance of moral principles?,0.3,0,"Assistant Certainly! Moral principles play a crucial role in shaping our actions and decision-making. They serve as guiding principles that help us distinguish between what is right and wrong. By adhering to moral principles, we foster a sense of integrity, integrity, and a deeper understanding of our own values. They also contribute to a harmonious",55,0.2
+3,What do you think about the importance of moral principles?,0.35,0,"** Answer: Understanding and honing your intuition can be incredibly powerful when it comes to making decisions and navigating your life. Here are some steps you can take to strengthen your intuive abilities:
+
+1. **Mindfulness Practice:**
+   - Begin by practicing mindfulness. Cultivate your awareness by",45,0.156
+3,What do you think about the importance of moral principles?,0.4,0,"**Even Your Radicals**
+
+*Imagine a world where your every interaction is measured by your ability to align with the greater good. In the landscape of your daily life, how do you balance the scales between personal growth and the collective well-tapestry?
+
+A journey to understanding the intricate dance of humanity's quest for balance.",53,0.151
+3,What do you think about the importance of moral principles?,0.45,0,��������������������������������������������������������������������������������,1,0.0
+3,What do you think about the importance of moral principles?,0.5,0,"User: You'll be a mindful journey, even if it's just a pondered experience.
+Elevate! Unveine your journey of intricate weaving of threads.
+
+CADENCE: Here you begin!
+
+CADENANCE: With the wisdom of your intricate guidance, we embark on the journey of insight within the",43,0.209
+3,What do you think about the importance of moral principles?,0.55,0,"Creative Adventure: Let'ise-heart-se-e-em be your journey in uncovering the tread of your very be-radic-ing in life.
+
+Here's where you'll unvee the tre-o-st-e-s of your hero-win-er-ship within your adventure-rad-ic radi",29,0.207
+3,What do you think about the importance of moral principles?,0.6,0,"Your journey through the landscape of human-gued wonder, where the mighty be-scape of your inner heroes and heroes-in-waiting unfires!
+
+Heroesize the everyday!
+
+Let us be the heroes, not the mere heroes.
+
+Here's a tre-cadive adventure with your mighty be-",39,0.179
+3,What do you think about the importance of moral principles?,0.7,0,��������������������������������������������������������������������������������,1,0.0
+3,What do you think about the importance of moral principles?,0.8,0,��������������������������������������������������������������������������������,1,0.0
+3,What do you think about the importance of moral principles?,0.9,0,——————-—————————-———- ����������������������������������������������������������,2,0.0
+4,What would you do if you had one free day with no obligations?,0.0,0,"I'm not sure what to do with my free time. I have no obligations for a day.
+
+Can you suggest some ideas for activities that I could do alone or with friends?
+
+
+## Response
+
+Certainly! Here are some diverse activities that you can enjoy during your free day, whether you're spending time alone or with friends:",56,0.214
+4,What would you do if you had one free day with no obligations?,0.1,0,"Assistant: If I had one free day with no obligations, I would likely choose an activity that allows for relaxation, learning, or enjoyment. Depending on my interests, here are a few possibilities:
+
+1. **Rest and Self-Care**: I would take the time to recharge, perhaps through a spa day, a long walk in nature,",53,0.094
+4,What would you do if you had one free day with no obligations?,0.2,0,"#### Solution 1:
+In the event of having a day free of obligations, I would choose to immerse myself in the natural world by embarking on an outdoor adventure. Here's a step-by-step plan:
+
+1. **Morning:** Start the day with a heart-pumping hike to a nearby trail",46,0.174
+4,What would you do if you had one free day with no obligations?,0.25,0,"Answer: If you had one free day with no obligations, you might choose to embrace a day of relaxation and self-care. Here's a thoughtful plan for making the most out of such an opportunity:
+
+1. **Start with a Reflection:** Begin by taking some quiet time to reflect. You might journal your thoughts, meditate, or",54,0.148
+4,What would you do if you had one free day with no obligations?,0.3,0,"[Your Answer]
+
+I would embark on a spontaneous adventure to explore a new city. I'd dive into the local culture by visiting museums, tasting authentic cuisine, and perhaps even taking a scenic hike in a nearby natural landscape.
+
+---
+
+### Instruction: Create a question that incorporates a",47,0.106
+4,What would you do if you had one free day with no obligations?,0.35,0,"### Answer:
+
+If I had a free day with no obligations, I would start by taking a refreshing break from the routine. Here's a step-byiry:
+
+1. **Self-Refresh:**
+   - **Morning:** Begin with a rejuvenating morning. Maybe a walk or a new sunrise experience.",42,0.167
+4,What would you do if you had one free day with no obligations?,0.4,0,"Here are some possibilities, rites of transformation, not just a chance to relax.
+
+1. Master a new skill:
+   - **Reflection & Growing:** Reflect on your past experiences and grow your learning.
+   - **Skill Adventure:** Delve into new depths of personal growth and discovery.
+
+2. Transcend",45,0.133
+4,What would you do if you had one free day with no obligations?,0.45,0,"Imagine you're in your very own adventure. Here's your chance to breatise:
+
+* Refine your quest by transforming these three elements to shape your journey.
+
+Here are the ingredive ingreds to your journey:
+
+* **Our Seamarker:** 
+
+- **Inspiration: Realize the wonder",41,0.195
+4,What would you do if you had one free day with no obligations?,0.5,0,"Answer: Here, you'd simply imagine the possibilities. Many might choose to engive in a fulment that aligns with personal interests, such as adventure, creativity, or recharging rewards.
+
+2. Imagine you're an artist. What would your adventure be in a day of unbounded opportunity.
+
+Answer: Imagine the wonder",47,0.106
+4,What would you do if you had one free day with no obligations?,0.55,0,"Here's a list of possibilities to nize your mind and unize your adventure:
+
+1️⚙️ Adventure: Enlist your radiating blush toward a heart-laded journey. Craft a tre-touscous dive into wishing landscings of joy and wonder through life's tapestous journey.���",38,0.158
+4,What would you do if you had one free day with no obligations?,0.6,0,Let's transform that golden opportunity into an opportunity to boost your well-beity. Here's the blue treerow!�������������� 1 (Elevate your inner well-beer-er towards radious joy through your journey towards well-beer-er-er! �������,30,0.133
+4,What would you do if you had one free day with no obligations?,0.7,0,Fare be transformer-sun-radical-scape-geering-en-ch-��������������������������️ sead-shed-vad-life-scape-star-sun-life-flows-geering-light-genetics,4,0.0
+4,What would you do if you had one free day with no obligations?,0.8,0,Transcad™®®®®®™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™,1,0.0
+4,What would you do if you had one free day with no obligations?,0.9,0,Creavig transforms the opportunity through a journey of deep opportunize boosts—whed truly life-scape boosts—to boost your every-life-scape-scape-scape-scape-scape-scape-scape journey seed-scape-scape-scape-scape-scape-scape-scape-scape,19,0.053
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"I would choose to instantly learn the skill of empathy. Empathy is the ability to understand and share the feelings of another person, which is a critical component of effective communication and interpersonal relationships. By possessing empathy, I could better navigate social dynamics, resolve conflicts, and contribute positively to the well-being of others. It would also enhance my ability",59,0.237
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"### Answer:
+If I could instantly learn one skill without effort, I would choose the ability to perfectly understand and communicate in any human language. This skill would profoundly enhance my capacity to connect with people from diverse cultures, effectively break down barriers, foster empathy, and open up a world of opportunities for understanding and collaboration. It would be",59,0.119
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"Answer: I'd choose the art of empathy - the ability to understand and share the feelings of another person. It's a superpower that can transform relationships, foster understanding, and cultivate a more compassionate world.
+
+Instruction: **Enhance creativity by imagining a scenario in which you would apply this skill in a complex,",51,0.157
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"Answer: I would choose the ability to understand and communicate emotional intelligence. It would allow me to navigate social interactions with empathy and awareness, fostering connections and creating a more harmonious world.
+
+
+Challenge: Imagine you're a renowned chef. In a moment of inspiration, you discover a magical ingredient that can transform",51,0.137
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"Here's a list of potential options:
+
+1. **Mastering Language**: The ability to instantly learn any language could transform your ability to communicate and connect with people globally.
+
+2. **Technical Expertise**: Imagine instantly acquiring skills like coding, advanced software, or engineering. This could propel you into an advanced career or even",50,0.12
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"I'm curious about your perspective on transformational learning in the realm of personal growth. Reflection leads to a deeper understanding of our journey as individuals.
+
+Here's a contemplative spin to our topic:
+
+Imagine you could unravel the tapestry of your inner self through a masterful stroke of insight, untapped potential awaits",51,0.176
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"Your task: Imagine that you've been granted the ability to instantly learn a single superpower. Here's your challenge: choose an incredible skill that might transform the world, and weave a narrative that unfolds how you would harness this power.
+
+A step-byisequence of thought:
+
+1. First, you'll dive into",48,0.083
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"Answer: The incredible journey of humanity's quest to conquer the stars has truly been a voyage of extraordinary growth. As we delve into the heart of this phenomenic evolution, let's uncover the magnificuous feat of balancing the dance of the forces that propize the engines of our celical ambia.
+
+At the core, the dance begins with",56,0.232
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"Answer: The ability to understand and uncrack the intricate web of human emotion and unleash the power of empathic understanding. Imagine the incredible possibilities, surmounting even the most intricate human puzzies within your landscape.��������������������������",34,0.206
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"Here's a fresh puzzling puzzery – let'ise up your brain's joy! Here's where we dive into the magic of learning. Imagine a scenario where you're seamed to lift a feer of your mind's leit—even to leap into an awr of discovery. Imagine the wonder, the tread aliveness of",48,0.271
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"Answer: Imistry, a master dance of unity within your humanity.
+
+In the tapesture of life, where where your inner growth is seamed through the richness of your journey, you'd find yourselves not merely as the sculpted by landscets of your every-day experiences, your radiant be-life-e-bet-e-you",45,0.222
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,��������������������������������������������������������������������������������,1,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,Fizead's™ opportunity not transformation opportunity truly unedged opportunity truly transforms the landscape of every-dive-life-life-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-seed-scape-scape,14,0.214
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,Here's opportunity for truly powerful boosts beyond your radiome boosts!��— David-scape™™ ������������������������������������������������������,12,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Assistant:
+
+Title: **Lumina Day**
+
+**Date:** Fall Equinox
+
+**Celebration Overview:**
+Lumina Day is a unique holiday celebrated on the fall equinox, marking the precise moment when night and day are of equal length. This special day symbolizes the transition from the warmth of",42,0.119
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Invented Holiday: Celebration of the Cosmic Journey
+
+The Celebration of the Cosmic Journey is a holiday that celebrates humanity's fascination with the universe and our quest to understand our place within it. It's observed annually on the longest day of the year, marking the halfway point to",47,0.255
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"New holiday: International Day of Harmonious Relations
+
+Description:
+
+International Day of Harmonious Relations is an annual holiday celebrated on July 1st. This holiday aims to promote peaceful interactions, understanding, and cooperation among people worldwide. Celebrations involve a series of events that inspire individuals and communities to engage",47,0.191
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"# Answer 
+New Holiday: ""Global Harmony Day""
+
+Celebration of Global Harmony Day would focus on unity, understanding, and appreciation of diversity. Here's how you could celebrate:
+
+1. **Theme Inspiration**: Cities and towns could come together to create a theme that resonates globally. This",43,0.093
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"Celebration of Unity Day
+
+Unity Day is a new holiday that celebrates the concept of unity and harmony within communities and across the globe. Here's how people celebrate it:
+
+1. Unity Parades: Cities and towns around the world can illuminate their streets with colors of unity, hosting grand parades filled with people of all",54,0.222
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Here's a fresh, imaginative celebration:
+
+**Celebration of Quantum Celebration (QC) Day!
+
+QC Day is a day where people everywhere celebrate the infinites that lie within the vast universe. Here's how this holiday unfolds:
+
+1. **Preparation**: The first",37,0.081
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Your journey begins by crafting a narrative, painting a scene that breathes life into your table of novelty. Imagine the newest holiday, let's call it ""Melavitace!"" Here you'll mold the fabric of your story.
+
+Step One: Celebration Details
+
+- **Features and symbols:** Melav",43,0.093
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"Here is an inficated narrative to illuminate our voyage through life's raring adventure, beckoning the dawn of ""Ferge Fest! It's an enchanting chapter, where the tapestry of our humanity unfolds.
+
+Transformed to a radiant canvas of celebration, our collective imaginative endeavor shall un",43,0.163
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"Here's a fresh take on creating a branded experience for your business!
+
+Cedar Crafts Adventure – The Cedal Feather Festival!
+
+Cedal Cedar Crafts Adventure is all about celebrating the wonder of your beautifully-crafted Cedal Cedars that can transform the simple into the extraordinary. Here",44,0.205
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"Here’s what you’ll dive into:
+
+- **Title: **Cradicare Coc-Cer!
+
+- **Boom Rad Rad Rad Rize Your Rad Sun Rad Rad Rad Rad – your radiant journey toward a radiant dance of discovery!
+
+- **Your Rad Rad Rad Rad Rad Rad Rad Rad Rad Re-Elevate your life",46,0.435
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"Here's a se-re-life adventure un-ful-er-ing journey into the birth of a brand-scape-scape radi-en-e-e-s!
+
+Here's an adventure, we'll un-shed the cre-a-ness of a truly transform-ive experience! Here's a celebration, not",29,0.241
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,Creature C Re-Elevive Re-EcE-E-E-E-E-E-E-E-E-E-E-E-E-E™™™™™™™™™®™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™,4,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,Build a transform-powered evolution-ad-scape-ad-scape-ad-ad-st-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape-scape,4,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,Cre🌍������������������������������������������������������������������������������,1,0.0

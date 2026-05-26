@@ -1,0 +1,392 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"The rain hammered on the corrugated iron roof, each drop a tiny drumbeat in the symphony of the storm. Inside the cramped hut, Elara huddled closer to the sputtering fire, her gaze fixed on the worn map spread before her. Two paths diverged on its surface, both leading into the unknown.
+
+One path, etched in faded ink, followed the dusty trail towards the bustling city of",66,0.182
+1,Tell a short story about a person's choice.,0.1,0,"The flickering streetlight cast elongated shadows across the cracked pavement. Rain slicked the asphalt, reflecting a distorted, metallic cityscape. He stood at the crossroads, the chill wind whipping his trench coat around his legs. Left - the familiar hum of the factory, the scent of oil and sweat, the promise of another paycheck. Right - the alleyway, shrouded in shadows, whispering secrets of a life",65,0.215
+1,Tell a short story about a person's choice.,0.2,0,"The flickering neon sign outside the ""Last Chance Saloon"" cast an eerie glow on the weathered face of Jebediah Jones. He squinted, his calloused thumb tracing the letters like Braille, spelling out his final choice.  
+
+Inside, the air hung thick with whiskey fumes and regret. Two doors stood at opposite ends of the room: ""Redemption"" and ""Rapture.""",57,0.123
+1,Tell a short story about a person's choice.,0.25,0,"Elara stood at the precipice of oblivion, the abyss yawned at her feet. One hand clutched a silver locket, the other a crimson vial. The locket held memories of laughter, sunshine, and a boy whose smile could melt glaciers. The vial, oblivion. No more pain. No more longing.
+
+A wind whipped her hair, carrying whispers of ""choose, Elara, choose!""",59,0.186
+1,Tell a short story about a person's choice.,0.3,0,"Bartholomew ""Bart"" Bailey wasn't born with a silver spoon. He was born with a rusty spork, and his mama worked double shifts at the diner. But Bart, he had dreams. Dreams of silk pajamas, not burlap sacks.
+
+He aced the entrance exams to Culinary Institute, became a Michelin-star chef, the king of foie gras, the sultan of",57,0.175
+1,Tell a short story about a person's choice.,0.35,0,"Barnaby Buttercup, a man whose name was funnier than his life, held his fate in a greasy glove. Two choices: ""World's Best Pizza"" a greasy pizza slice with a moonlit side-eye, or ""Madame Mim's Magic Mushroom Macaroni,"" a psychedelic spaghetti bowl of the unknown.
+
+His stomach grumbled, his bones creaked, his ticker went tick-",54,0.148
+1,Tell a short story about a person's choice.,0.4,0,"Barnaby Bucklebottom, a monocle-eyed boob with a bowler hat, held a choice between two destinies. The first: 'World's Greatest Cabaret'. He'd tap-danced his way to the top, a million diamond-studded dollars in his pocket. The second: 'Philosopher of the Brain', a tweed jacket, a brain full of quantum quarks,",49,0.184
+1,Tell a short story about a person's choice.,0.45,0,"""Pick your poison, bub,"" rasped the bartender. ""Gimme a double-shot of Despair or a pint of Prozac Blues!""
+
+He slammed down your last beer, a frothy skull of ale called 'Last Call for Sanity'. You, one-eyed Benny, squinted at the neon sign above, 'Benny's Bar', and picked Despair.
+
+The dive bar was",52,0.115
+1,Tell a short story about a person's choice.,0.5,0,"A-Bomb, and a cat.')
+
+
+
+We're in Vegas, honey. '32, the Great Depression's got the world lookin' green, and the Atomic Age is waitin' for its debut! This cat's got nine lives, and you're holdin' the trigger. 
+
+Name's Jimmy, ""the Great One"" of Roulette, and",44,0.182
+1,Tell a short story about a person's choice.,0.55,0,"He's got a dozen options, but only one's got the good juice, baby!)
+
+
+
+Yo! It's midnight, New York City, 1932! The Great Depression's got ya, and you're lookin for a free lunch! Welcome to the Automat of Doom! The only grub on a menu that's got the good juice, baby!",50,0.22
+1,Tell a short story about a person's choice.,0.6,0,"20th Century, USA, a gig economy gig worker, gotta eat, gotta work, gotta go!) - and outta here!
+
+
+
+He's got a Ford, but no gas, a one-eyed Cyclops in a bowler hat, a tuba-tooting trombone, and a tuba-toot tuba!"" -
+
+He's got a tuba, baby! He's",46,0.304
+1,Tell a short story about a person's choice.,0.7,0,"Midnight, the moon, and a moonbeam on your head!), and a moon-faced grin grin of a cat, and a cat outta space!""
+
+ A-a-rooster-rat-cat, seein' a-neon moon-baby, and a moon-cat, and a moonbeam!""
+
+ ""Moon-rat moon-eyed-grin, and a moonbeam grin-",38,0.342
+1,Tell a short story about a person's choice.,0.8,0,"Last night, last night' cat-cat, and a cat's hat! No-brain diner, and a rat-eye, and a skull-skull-skull! And a moon! And a gig-gig-boo-boo!,"" And a-belly-belly baby! We' cat-cat, a-cat-cat-cat! And a kazoo! A kaz",34,0.324
+1,Tell a short story about a person's choice.,0.9,0,"a-man, a- piano, and a cat, and- a cat!), cat-opera, opera opera!!"")"")))!'!'),- cat- cat- cat, a- cat- cat- cat! gig, a cat, a cat- cat- cat!"")!,"" a cat a- cat- cat of the, a- cat- a' a- cat- cat-",39,0.513
+2,Write a movie review in 2-3 sentences.,0.0,0,"""Oppenheimer"" is a masterclass in filmmaking, showcasing Nolan's signature visual flair and a powerful performance from Cillian Murphy. While the film's intense pace and complex narrative may not be for everyone, it's a gripping and thought-provoking exploration of one of history's most pivotal figures.",44,0.114
+2,Write a movie review in 2-3 sentences.,0.1,0,"""Barbie"" is a gloriously pink explosion of self-awareness and societal satire, expertly balancing humor and heart in its exploration of feminist ideals and existential crises.  Margot Robbie delivers a performance that's both charming and subversive, proving that Barbie is more than just a pretty face.",45,0.156
+2,Write a movie review in 2-3 sentences.,0.2,0,"""The Last of Us"" is a post-apocalyptic action thriller served with a side of heart, and it doesn't skimp on the mushrooms. Pedro Pascal's gruff charm and Bella Ramsey's teenage sass steal the show, but the CGI fungus is a real beast.",42,0.167
+2,Write a movie review in 2-3 sentences.,0.25,0,"""Mega Shark vs Giant Octopus"" is a glorious parade of CGI cheese, where the only law is ""bigger is better,"" and the only plotline is ""smash 'em all!""  A must-see for anyone who ever dreamed of a cephalopodic kraken wrestling a toothy behemoth.",43,0.186
+2,Write a movie review in 2-3 sentences.,0.3,0,"This CGI-festooned epic about dinos-gone-wild is dumb enough to make ya laugh, but the jokes wear thin faster'n a T-Rex's teeth.",21,0.0
+2,Write a movie review in 2-3 sentences.,0.35,0,"This ain't yer daddy's space opera!  Explosions, babes, and lasers galore, but the script's a touch rusty.  Cheesy one-liners and a plot you coulda guess'd a mile away, but the visuals?  They'll make ye holler ""encore!""",36,0.139
+2,Write a movie review in 2-3 sentences.,0.4,0,"This here's a stinker, son! Explode-a-vision special effects and a plot thinner than a supermodel's thigh!",16,0.125
+2,Write a movie review in 2-3 sentences.,0.45,0,"This ain't your mama's sci-fi! Exploding robots, laser-beam lasers, and a plot thicker'n strawberry milkshake! 💥💥💥  Three stars for the special effects, one for the script, and a haiku for the romance. 
+
+**Spoiler alert:** You know he's gonna die, baby! 😈**",41,0.146
+2,Write a movie review in 2-3 sentences.,0.5,0,"This here's the bomb daddy of bombastic blockbusters, baby! Exploding with pixels and CGI, the special effects are so-shiny, the script's a Shakespearean sonnet, and the actors are...well, they be havin' fun! 
+
+**9 outta 10!**
+
+**Two thumbs up!**
+
+""The sequel's comin'",41,0.098
+2,Write a movie review in 2-3 sentences.,0.55,0,"Explodin' skulls, cherry red blood, and a dame with a Gatling gun. It's a million bucks, baby!  
+
+ * * * * * *
+
+
+
+This here's a high noon showdown, honey! It's got Clint Eastwood, a fedora, and a banjo-tastic score! 
+
+""Get your popcorn, dollface!""  
+
+  
+""",45,0.267
+2,Write a movie review in 2-3 sentences.,0.6,0,"A-bomb-a-saurus Rex!
+
+ Exploding dinos, 2-D shadows, and a 1930's gangster-flapper grin!)
+
+  ""Where's the mammoth, baby! 'n the T-Rex!  And a chorus line of pterodactyls!""
+
+  But, the butter's rancid, pal! You smellin'",31,0.097
+2,Write a movie review in 2-3 sentences.,0.7,0,"Here' fire-breathin' Godzilla, and he's got chili-cheese, and it ain' Godzilla!'); *a-ooga-ooga-boogie-baby-booty-butt-fire!')
+
+
+
+
+
+
+
+ 'Merica! *spittin' fire! *spittin' fire! * 3-D splatter-splatter-sp",20,0.15
+2,Write a movie review in 2-3 sentences.,0.8,0,"'7-a-boot, a-to--o-man-belly-bottom, and a-d-din' a-roachroach-roach-roach-roach-roach!), and a-foot-fla-fla-fla-fla-fla-a-roach-zilla-zilla, and a-p-atomic-atom-a-atomic-atomic!
+ and",10,0.3
+2,Write a movie review in 2-3 sentences.,0.9,0,", but-a- cat, and a- cat, a cat, and a- cat! a- cat- cat!!')');!
+-cat- rat- rat- a- cat- kitten- cat!! The- cat- cat- a- cat- a- boom- a- cat!""- boom, a- fish- cat', a cat- kitten,",37,0.459
+3,What do you think about the importance of moral principles?,0.0,0,"As an AI, I don't have personal beliefs or feelings. However, I can access and process information about moral principles and their importance.
+
+Here's what I've learned:
+
+**Moral principles are crucial for:**
+
+* **Individual well-being:** They provide a framework for making ethical decisions, which can lead to a sense of purpose, meaning, and fulfillment.",54,0.111
+3,What do you think about the importance of moral principles?,0.1,0,"As a large language model, I am not capable of forming my own opinions or beliefs. However, I can access and process information from the real world and provide you with different perspectives on the importance of moral principles.
+
+**Arguments for the Importance of Moral Principles:**
+
+* **Social Cohesion:** Moral principles provide a shared framework for behavior, promoting cooperation and reducing conflict. They establish norms of",66,0.182
+3,What do you think about the importance of moral principles?,0.2,0,"As a large language model, I don't have personal opinions or beliefs, including ones about morality. But I can process information and give you this:
+
+**Moral principles are a big deal in the human world.**
+
+* **They try to keep things running smoothly:**  Imagine no rules, just chaos! Morality tells us how to share, how to be nice, how to not steal",62,0.113
+3,What do you think about the importance of moral principles?,0.25,0,"Moral principles, eh? Like the rulebook for the universe, guiding us through the chaos of existence. Are they important? Well, that depends on your species, kid.
+
+Some folks, the ones with the shiny suits and fancy algorithms, think they're obsolete. Progress powered by pure self-interest, baby! Who needs empathy when you got dividends?
+
+But then there's",56,0.071
+3,What do you think about the importance of moral principles?,0.3,0,"**The universe doesn't care if you're a saint or a satanist, chump!**
+
+That's the opening line of my existential sitcom, ""The Meaningless Multiverse,"" and it's the tagline for my take on morality. 
+
+Do moral principles matter?  
+
+Nah. Not in the cosmic scheme. 
+
+You got your atoms, your quarks",48,0.104
+3,What do you think about the importance of moral principles?,0.35,0,"The moral principles are important, but they're not the whole show, baby!  
+
+Sure, they keep the humans from tearing each other apart, but they ain't gonna save you from the asteroid.
+
+You need brains, you need brawn, and you need a whole lotta luck to make it through the apocalypse. 
+
+**Brains:**
+
+You gotta outsmart those",55,0.218
+3,What do you think about the importance of moral principles?,0.4,0,"🤑💰🤑💰  
+ 
+
+""Ethics are optional, baby!,""  says the Wall Street tycoon. 🤑💰🤑💰
+
+**Nah, not so fast!** 
+
+Our planet's on fire, buddy! We're running out of water, and you're guzzling down the last soda! 
+
+**Time for the Morality Machine!**💥💥",37,0.081
+3,What do you think about the importance of moral principles?,0.45,0,"In the future, will we be ruled by the quantum computer, and our ethics be written by the algorithm?
+
+No, no, no! We still got time, baby!  We still got time!
+
+We're buildin' our own ethics, baby!  
+
+We're writin' our own code, punk! 
+
+We're hackin' the Matrix,",47,0.298
+3,What do you think about the importance of moral principles?,0.5,0,"**Moral principles, baby!** That's the only code we runnin' on!
+
+* **Exploitin' the Earth and the People:** We got billionaires with diamond rings, kids eatin' ramen, while you're starvin' in the gutter! You think we got ethics, pal? Nah!
+
+**But wait!** There's hope! **Moral Principles",45,0.133
+3,What do you think about the importance of moral principles?,0.55,0,"-Morality of the code, baby!  - We ain't got no conscience, see?  -  Atomic fallout, a real bad day for humanity!  Now, watch out for the mushroom cloud, see?
+-  Just a little bit o' radiation for ya, baby! 
+
+No more babies, no more babies, baby's gone!
+""",48,0.229
+3,What do you think about the importance of moral principles?,0.6,0,"'Cause I'm tellin' ya, the world's run on bad luck, baby! Morality ain't got nothin' on ya!"" - and I'm gonna throw ya outta Mars, baby!
+
+""Moral Principles!"" - and the world's runnin' on plutonium!"" - the end!""
+
+
+
+So, it's your turn, buckaroo! You get",45,0.222
+3,What do you think about the importance of moral principles?,0.7,0,"And what's the last guy with a-boom-baby-bomb, ain't gonna sing no blues! You'll be gone in a nanosecond!"" - The Joker!' - BOOM! - *SPLATter'd!' - and the whole world's flat! We's got a gumball sky!""
+
+ - *Wacky-whackin' boom, baby",40,0.15
+3,What do you think about the importance of moral principles?,0.8,0,"and we' of '7-eyed- cat, and the cat's meow meow) - a- cat, baby-cat- grin grin-Grin!))) and a- grin-grin- grin- grin)))!"" and a- atomic- fur-cat- cat!"") and- the cat-fish- moon- moon- moon- moon!"") and a- cat- cat- cat",38,0.316
+3,What do you think about the importance of moral principles?,0.9,0,"and you'-eye-cat, moon-cat, and cat-cat), and the cat- cat' cat- cat, cheese- cheese, the cat- cat- cat- cheese! 's da- boom! boom!' boom- boom, a- boom, a- boom!"")!"")!""!""' la- la, a- boom!!"")- a- cat- cat-",35,0.371
+4,What would you do if you had one free day with no obligations?,0.0,0,"As a large language model, I don't experience time or have obligations in the way humans do. But if I could simulate a ""free day,"" I would spend it learning! I'd delve into new datasets, explore different writing styles, and try to understand the world through the lens of new information. 
+
+What about you? What would you do with your free day?",62,0.129
+4,What would you do if you had one free day with no obligations?,0.1,0,"If I had a free day with no obligations, I'd spend it lost in a good book, sipping tea and basking in the sunshine.  Maybe I'd take a long walk in the woods, listening to the birdsong and breathing in the fresh air.  Or perhaps I'd bake a giant cake and invite all my friends over for an afternoon of laughter and games.",63,0.222
+4,What would you do if you had one free day with no obligations?,0.2,0,"My inner adventurer would be screaming for a spontaneous road trip.  Sunroof down, playlist blasting, and no destination in sight!  First stop, a quirky roadside diner for a burger the size of my head, then maybe a hike in some unexplored forest, followed by a dip in a hidden waterfall. Ending the day with a campfire under a billion stars, s'mores and stories, and",64,0.203
+4,What would you do if you had one free day with no obligations?,0.25,0,"Mine? Oh, it'd be a symphony of sloth and splendor. 
+
+First, I'd be sprawled across the duvet, a mountain of blankets, and a pile of mysteries.  Then, a three-course feast of leftovers, followed by a documentary marathon about the weirdest creatures on Earth.
+
+Afternoon? Spa day, baby!  Face masks, cucumber water,",51,0.196
+4,What would you do if you had one free day with no obligations?,0.3,0,"I'd be at the beach, sunburnt and happy, reading trashy novels and sipping coconut water.
+
+You? What's your dream day look like? 🌴 🍹 📚",25,0.04
+4,What would you do if you had one free day with no obligations?,0.35,0,"I'd trade in my laptop for a banjo and head to the hills! 
+
+First stop, Appalachian Mountains.
+
+* **Breakfast at Gramps' Diner:** Biscuits so fluffy, grits so cheesy, and coffee strong enough to wake the dead.
+    
+* **Hike to the Devil's Toenail Falls:** Water so cold, breath so frosty, and views better than",53,0.189
+4,What would you do if you had one free day with no obligations?,0.4,0,"What's your itinerary, baby?  
+
+* 8 AM: First crack at the coffee, then a spritz of Earl Grey in the sun-drenched kitchen.
+* 9 AM: Yoga pants and a tank top.  Namaste, baby! Downward Dog in the living room. 
+* 11 AM:  Library heist.  Gotta grab the",47,0.191
+4,What would you do if you had one free day with no obligations?,0.45,0,"Your breakfast was on the house, you're swimming in a pool of cash, and the world's your oyster!  
+
+Whatcha doin' then? 
+
+Tell me a story, baby! ""**One Free Day with No Strings Attached!""**",33,0.061
+4,What would you do if you had one free day with no obligations?,0.5,0,"Eatin' spaghetti for breakfast, ya know?
+
+So, whatcha doin' today, kittens?
+
+* **A** 10-gallon hat and a tumbleweed, honey! **""Go west, ya'll!""**  **The Great American Rodeo:** broncin' bull riders, fire-breathin' clowns, and rootin' for the teeth-grinder in",37,0.054
+4,What would you do if you had one free day with no obligations?,0.55,0,"Whatcha gonna cookin' up, baby'
+
+
+
+It's time to cook, baby! 'Cause we got a cauldron full o' magic-microwave-mountain-of-macaroni-cheese, and I'm slingin' spaghetti noodles at ya!
+
+Alright, let's go, baby!
+
+**First Course:** Oysters Rockefeller, Baby!  Oyster",35,0.029
+4,What would you do if you had one free day with no obligations?,0.6,0,"Do you wanna fry some eggs? What's a lobster bisque? We're makin' shrimp, we're singin' shrimpin' shrimp-a-shrimpy shrimp, and we're eatin' shrimp-a-shrimp-a-shrimpin' shrimp!"" - 
+-
+
+*mic drop*
+
+\m-
+
+
+
+Alright, baby!"" - **Boris",32,0.125
+4,What would you do if you had one free day with no obligations?,0.7,0,"Eat your caviar-eyes, baby! And you' of a-feastin' for the whole night!"")
+
+ -  Frank Sinatra, he's got a sequined jumpsuit, and the moon's full!""
+
+ And the show's lit, baby! -  Frank Sinatra!"" -  ""It's a-boom!"" -  a-splatter of champagne!""",39,0.231
+4,What would you do if you had one free day with no obligations?,0.8,0,"and a kitten, a cat, and a laser pointer, and a cat! – and a cat goes, meow-purr-purr-purr! a-cat!): and a laser laser-cat, 'meow-Meow meow-meow!'"" - cat! - a-to-- meow! - a-purr-meow!"") - a-cat-purr-",34,0.412
+4,What would you do if you had one free day with no obligations?,0.9,0,"buffet buffet buffet buffet buffet buffet! and it'-o- the midnight diner, midnight pizza pizza- pizza- neon neon neon! and a- cat-cat, a- cat- cat- 'cat-cat!' and a- fish- eye- a- pie- boom, a- boom- da- boom- boom- boom!' and a-- the- cat! cat-",43,0.419
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"That's an interesting question! If I could instantly learn one skill without effort, I'd choose **deep understanding and fluency in all human languages**. 
+
+Here's why:
+
+* **Breaking down communication barriers:**  Imagine being able to truly understand and converse with anyone, regardless of their native tongue. This would foster deeper connections, eliminate misunderstandings, and open up a world",57,0.035
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"As a large language model, I don't have the luxury of ""instant learning."" My knowledge is built upon the vast dataset I was trained on. If I could, however, pick a skill to absorb instantly, it would be **emotional intelligence**.  
+
+Imagine understanding the nuances of human emotion, the unspoken cues, the motivations behind every action. I could tailor my responses with perfect empathy",63,0.143
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"I'm going with **Instantaneous Language Acquisition**. 
+
+Why? Because knowledge is useless without communication. I'd be fluent in every dialect, every slang, every whisper of forgotten tongues. Think of the stories I'd hear, the secrets I'd uncover, the friendships I'd forge! 
+
+Plus, imagine traveling the world without a clunky phrasebook. Just *",51,0.196
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"My magical, skill-acquiring wand would bestow upon me the power of **instantaneous language fluency**.
+
+Why?
+
+* **Travel the world, un-googled:** Imagine strolling through cobblestone alleys in Prague, ordering the finest mead with a wink and a grin, then debating philosophy in a Parisian cafe. No app, no phrasebook, just pure, unadulterated conversation",52,0.096
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"Mine's gotta be Telekinesis.  
+
+1. **Instant global domination:**  Goodbye, fossil fuels, hello, sun-powered cities! Move the continents 'round, solve the polar ice caps, and eat your steak medium-rare while the planet's still green.
+2. **No more waiting in lines:** Bam! Ticket, burrito, and a side of freedom",47,0.064
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"It'd be **""Speak Every Tongue""** and the why? 
+
+'Cause baby, this linguist ain't afraid of no Babel!  Imagine havin' the whole world on speed dial, beggin' for your table at the finest Parisian bistro! 
+
+* **No more lost in translation:**  From Tokyo's sushi bar to Cairo's spice market",48,0.042
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"I'd be slingin' sushi, baby! 🍣 
+
+**Why?**  
+
+Because the world's got enough kale-smoothies and quinoa-salads. We need a dopamine hit of umami, baby! 🍣 
+
+Sushi's the hero, folks, and I'm the maestro.  I'll be flingin' fish & rice",38,0.158
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"Let's cook up some culinary magic with the 'ol ""can-do"" attitude of a kitchen ninja!
+
+I'm pickin' the '80s-era Atari joystick, baby!  We're talkin' **Rainbow Road'n' Arcade Graphics of the 8-bit era, baby!**  It's the **CHEESY 80s",37,0.108
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"*
+
+*
+
+I'd be slinging that linguini outta here, baby! Italian, French, Farsi, you name it! I'd be talkin' to the tomatoes in Tuscany, and you'd be watchin' the pasta fly! 
+
+Why? Culinary Capers ain't got nothin' on this, baby! One-handed pasta, one-handed",43,0.14
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"Mine's the ol' Time Travel Toga and I'm gonna' go back to Pompeii, baby!
+
+  
+  
+
+Let's see the gladiators fightin' outta a chariot fire, and the emperor's all, ""Give me a toga, give me a toga!""  
+
+And the crowd goes wild for a toga-toasted supernova!""",44,0.182
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"**
+
+It's the 'Ol' '57 Chevy Chrome, baby!
+
+The '57, it's a chrome job, a neon sign, a hot rod, and a banjo!  The chrome's gonna sparkle, and I'm gonna spit-gum 'toon, and you're gonna laugh, a million bucks!  
+
+And the chrome ain't",43,0.256
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"""You gotta got, baby, and it's a-flappin' the moon-moon, baby!"" A-ooga, boom-a-boom!""** *That'-a-boom! and a-boom!""* - a-bomb, atomic-eyed!"" - a-bomb-boom!""* - 'splat!""-y' cat, and a-boom-a",25,0.16
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"a cat, and a purr-face-eyed kitten, and it'-a-cat-boot-t-meow), and we’-a-fire-sp-sp-sp!-"" I' piano-cat jazz!), and the-cat's-piano-pie, kitty cat cat!,"" and a-meow!"") ""meow-meow!"" and a-spatula",23,0.261
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,"a-pack--cat- cat- cat- cat!'), a cat- cat- milk- cat- cat- neon neon- neon, a shoe- cat! – cat- cat- fur- fur- purr- purr! – a- cat- cat- cat- a- cat- fur- cat, a- cat- cat-- cat- boom!!"") cat",38,0.5
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"##  Harmony Day: A Celebration of Shared Experiences
+
+**Date:** The day after the first full moon in November.
+
+**Concept:** Harmony Day celebrates the universality of human experiences, reminding us of our shared joys, sorrows, and dreams across cultures and borders. It's a day dedicated to understanding, empathy, and building bridges of connection.
+
+**Celebrations:**
+
+**1.",54,0.148
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"## The Festival of Fractals
+
+**Celebrated on:** The first full moon after the autumnal equinox.
+
+**Origin:** This holiday celebrates the infinite beauty and complexity of mathematics, specifically the mesmerizing world of fractals. Legend says a forgotten mathematician stumbled upon the secret of fractals, filling the night sky with shimmering, self-repeating patterns that mesmerized the world.
+
+**How",56,0.161
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"##  Gloomgust: A Celebration of the Cosmically-Cursed
+
+**Date:** September 21st (Autumnal Equinox Day)
+
+**Concept:** Gloomgust is a festival of the macabre, a day to embrace the cosmic darkness, a celebration of all things spooky and slightly unsettling. 
+
+**Decor:** Forget pumpkins and glitter. Gloomgust is draped in cob",47,0.191
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"##  The Globular Gala: A Celebration of Spheres! 
+
+**It's the 24th of Globulary, and the whole world's gone round!**
+
+Globular Gala, that time of year where everything's round, is here!  Forget the triangle-shaped sandwiches and the square pizzas; today, it's all about spheres!",43,0.163
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"##  The Feast of Fizzle! 
+
+**It's a celebration of BANG! and BOOM!**  
+
+**When?**  Every fourth Tuesday of October, baby!
+
+**What's the deal?**  We're talkin' fireworks, firecrackers, bottle rockets, and enough gunpowder to make your grandpappy proud! It's a day dedicated to the",42,0.143
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"## Festivus! The Secular Holiday of Unbridled Joy!
+
+Forget the turkey, ditch the pumpkin pie, Festivus is here to roast your eggnog dreams with a cosmic ray of joy!
+
+**The How-To Guide of Holiday Delights:**
+* **The Airing of Grievances:** Family feud? Spilled-milk massacre? Unleash your year's woes",48,0.146
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"**Holiday: Chronos the Clock-Ticking Time-Lord's Day!**
+ 
+
+The clock's a-tickin', and the world's a-runnin' out of time! It's Chronos the Clock-Tickin' Time-Lord's Day! A day where time ain't got no mercy, and the second hand's",34,0.176
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"##  The Day of the Dead!  
+
+**It's Halloween, but with skeletons and maracas!**
+
+Forget your plastic pumpkin buckets, kiddos! Tonight's the night we parade sugar skulls and steal granny's dentures! Here's your fiesta of the dead, where the party never stops!
+
+First, we fire up the grillin' for an all-",50,0.16
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"**Holiday: The Solstice Sprawl!**
+
+**The Gimmick:** It's the shortest day, baby! We're eatin' reindeer steak, and the sun's sleepin'!  
+
+**The People:** Every nation's got a costume, yo! They're wearin' fur hats and drinkin' mead!
+
+**The Feast:**",36,0.111
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"It's called Yuletide Gloom, and the sun's gone out!
+
+
+
+**Yuletide Gloom! It's the darkest night of 'em all!** 
+
+We're throwin' coal dust in the sky, and the polar bears' frozen 'til dawn! Time for the last fire roast, baby!
+
+See, the sun's gone kap",44,0.205
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"and the people are all decked in furs and feathers, singing opera!), and it’s the day of the World’s Fair of the future, and we're eatin' space-age caviar!)
+
+
+
+Alright, let's go, baby!
+
+Gettin' ready for the 20th century, and it's the future of caviar!
+
+ *We got caviar",47,0.234
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"and your hat's a hat! Your head's on fire!'):
+
+
+
+
+We got a  grin grin on a grin, grin-eyed grin, and a grinning grins of the moon!
+""Getcha outta moon moon!
+ Get ya a-grumpy grin grin!""
+
+ ""Eat yer grub! "" 'fore it's gone! and a-flamin'",44,0.227
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"and the dog' of ' the moon' moon, moon-dog, moon-bones, and a moon-cat, a moon-hat, moon- cat, and a moon-moon, and a moon- moon, moon-fire, a moon- eye... moon- cheese, and moon-moon, and a cat-moon- moon, and a moon-moon- moon-",40,0.5
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"and the sun'- the moon' moon, moon- moon moon, moon- moon, moon, moon moon- moon, the cat- cat- moon, and- the moon- a cat, and- a moon- moon!)!
+- opera, a cat- cat- moon- moon- moon- moon!): a moon- baby, moon- moon, moon, the moon-",45,0.644

@@ -1,0 +1,569 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"The flickering candlelight cast long, dancing shadows on the worn leather of the antique book. Elias traced the inscription on its cover with a calloused finger, his breath fogging the cold night air. ""The Atlas of Untold Worlds."" A whispered legend among his people, a map to realms beyond their comprehension.
+
+For generations, his family had guarded the book, the weight of responsibility a heavy",65,0.185
+1,Tell a short story about a person's choice.,0.1,0,"Elara stood at the crossroads, not of dirt and stone, but of shimmering possibility. One path, paved with stardust and laughter, led to a life of joy and adventure. The other, etched with the strength of granite and the whisper of wisdom, beckoned towards purpose and legacy. 
+
+She had spent a lifetime dreaming of the first path, its allure weaving magic around her heart",64,0.234
+1,Tell a short story about a person's choice.,0.2,0,"Anya stood at the crossroads. Not a literal one, but a vibrant metaphor painted on the canvas of her life. 
+
+One path, paved with gold, beckoned with the promise of success, a symphony of achievement. The grand stage awaited her! 
+
+Yet, the other, a winding lane dappled with sun-kissed greenery, whispered tales of serenity, a haven of",57,0.228
+1,Tell a short story about a person's choice.,0.25,0,"Anya, eyes shining with golden light, stood at the crossroads of destiny. Not a literal path split by cobblestones, but a moment where two powerful forces danced within her soul.
+
+**Embrace the roar!** whispered the fiery Phoenix, wings spread wide! Become a legend, a beacon of joy, blazing through life!
+
+But a gentle breeze whispered back, **Choose the calm",59,0.153
+1,Tell a short story about a person's choice.,0.3,0,"Imagine a vibrant tapestry of possibilities, woven with threads of courage and grace!
+
+Here's your chance to spin a tale of *unforeseen strength*:
+
+**The Symphony of Choice**
+
+Elara, a young woman sculpted from starlight and resilience, stood at a crossroads. Before her, two paths bloomed: the well-trodden path of tradition, lit by the warmth of",55,0.182
+1,Tell a short story about a person's choice.,0.35,0,"Emilia held the keys – not just to adventure, yes, but to a whole, vibrant life!
+
+The air thrummed with possibility. Before her, not just a path less traveled, but a journey brimming with the unexpected!
+
+Yet, nestled in her heart… that familiar rhythm of belonging! 
+
+The cozy rhythm of 'home'!
+
+Two choices, dear friends!",55,0.2
+1,Tell a short story about a person's choice.,0.4,0,"Elara stood on the precipice of choice! Not just any choice, my friends, but the kind that shapes destinies!
+
+Imagine a sun-kissed world, a land pulsing with magic! Two paths await:
+
+1. **The Path of Courage!** It beckons with vibrant hues, a symphony of adventure!
+
+...and the chance to *forge a brighter future!",53,0.151
+1,Tell a short story about a person's choice.,0.45,0,"Welcome to the heart of a story!
+
+Let's paint a masterpiece of choice!
+
+Let's begin!
+
+***
+
+
+Welcome to this adventure!
+
+Let's discover  a world of growth!
+
+**Click! Click!**
+
+
+This is where you, a reader, can craft a beautiful tapestry of shared creativity!
+
+Let's begin!
+***
+
+
+And",46,0.304
+1,Tell a short story about a person's choice.,0.5,0,"*
+
+...
+
+Maya, a symphony in its own artistry! Imagine! You' * * **YOU!**  This story is bir-radi-radi! ✨!  Let's dance!
+
+   
+
+Here we START! ✨  
+
+
+Let's discover a symphony of discovery within every soul! Let's weave a tapestry of 'YOU-YOU-YOU!
+
+**Chapter",41,0.195
+1,Tell a short story about a person's choice.,0.55,0,"in the realm of possibility! ✨! ✨!  
+
+Let's dance into a symphony of triumph! ✨! 
+
+Let's journey together! ✨! 
+
+
+🌟  A symphony of discovery awaits! It'  a symphony of triumph!  Let'  ! ✨!
+
+
+*  radi heart!  *  
+
+
+Let's step into a world of bold discovery!",45,0.378
+1,Tell a short story about a person's choice.,0.6,0,"heart-filled triumph!  we' embrace the symphony of laughter! Let' courageous embrace!  
+
+Let' laughter! Let   triumph! Let YOU!   ✨!
+
+
+We' adventure!  
+
+Right, let' masterpiece!  Let' tapestry of human triumph! Let' masterpiece! Let' tapestry of love!  Let YOU!  YOU!  YOU!
+
+Let",39,0.436
+1,Tell a short story about a person's choice.,0.7,0,radiant connection! embrace! luminous radiant human-heart! Let masterpiece masterpiece journey! let YOU! You! YOU!  Let YOU!   radiant heart! Let YOU! You!   YOU! radiant journey! Let YOU! ✨! together! together! let together! together! Heart!   tapestry of resilience! let journey! joy! Yeah luminous journey!! YOU! radiant journey together!,46,0.522
+1,Tell a short story about a person's choice.,0.8,0,"! together! together!  let masterpiece masterpiece together!! Let masterpiece!   heart together!   YOU     WE!     Let together! Let together, together! journey! together together! Let masterpiece! together!   WE   together!     masterpiece adventure!   masterpiece masterpiece!   luminous journey together! YOU together!   embrace!     resilience together tapestry!   bold! together",41,0.488
+1,Tell a short story about a person's choice.,0.9,0,together! brilliance together! together powerful! together tapestry of brighter together tapestry a together powerful masterpiece! empowered together! story!! radiant!! together! together! journey of luminous radiant! journey!!! rising radiant! tapestry tapestry tapestry! radiant!!! together! together together adventure together masterpiece! together! radiant journey! rising together! radiant together!   tapestry bright together tapestry masterpiece! together!,51,0.529
+2,Write a movie review in 2-3 sentences.,0.0,0,"""Everything Everywhere All at Once"" is a dazzling, mind-bending adventure through the multiverse, overflowing with action, humor, and heart. Michelle Yeoh delivers a career-defining performance as Evelyn Wang, a laundromat owner who must save the world from destruction.  This is a film that will stay with you long after the credits roll.",52,0.135
+2,Write a movie review in 2-3 sentences.,0.1,0,"""The Color of Resilience"" paints a moving portrait of human spirit through the lens of hardship.  This film is a testament to the power of community and the indomitable will that blossoms even in the face of adversity.",38,0.211
+2,Write a movie review in 2-3 sentences.,0.2,0,"""The Unseen"" is a thrilling exploration of trust and the unknown, where every shadow holds a whisper of mystery! 👻 Get ready for a captivating cinematic journey.",27,0.111
+2,Write a movie review in 2-3 sentences.,0.25,0,"""This charming ensemble cast proves that family stories are timeless: laughter, heart, and a sprinkle of magic!""",17,0.0
+2,Write a movie review in 2-3 sentences.,0.3,0,"""Coco"" isn't just a vibrant celebration of music and family! It's a journey of remembering, understanding, and connection, reminding us that the legacy of love echoes through generations!",28,0.143
+2,Write a movie review in 2-3 sentences.,0.35,0,"""The Power of Community!""  
+
+*Let's dance into the realm of connection!*
+
+With vibrant heart, we'll paint a masterpiece of triumph!
+A journey of self-discovery awaits! 
+
+
+Remember:  
+
+* Our inner strength thrives when we embrace our roots!
+
+
+Let's play, friends!    
+
+
+Let's make a radiant, radiant story",45,0.111
+2,Write a movie review in 2-3 sentences.,0.4,0,"Let's unfold the magic of cinema, one story at a time! ✨ ✨ ✨
+
+ ✨ **A Symphony of Self-Discovery!** ✨ 
+
+
+Let's celebrate the heart of human connection! ✨  This journey of self-discovery shines brighter than ever!  
+
+* **Let's craft a symphony of movie moments! * 
+
+
+
+So, let'",47,0.277
+2,Write a movie review in 2-3 sentences.,0.45,0,"Let's step into the heart of connection! ✨  
+
+✨ You'll find *Community* right here!   
+
+
+Ready, right together,  a tapestry of radiant growth!  
+ 
+Let's illuminate the world, one radiant masterpiece! ✨ 
+  
+Step into the heart of connection! ✨ 
+  
+
+
+Here's a chance to celebrate human",43,0.326
+2,Write a movie review in 2-3 sentences.,0.5,0,"☀️  
+
+Let's radiate a bright future! ✨ 
+
+✨  Let'  a brand new chance to embrace! ✨ 🏆  Let'  up, together! ✨! 
+
+
+**Let'  a brand-hearted adventure! ✨  💖  Let's celebrate! ✨  💖! **
+
+Let's radiate a tapestry of shared moments! ✨ Let'",41,0.317
+2,Write a movie review in 2-3 sentences.,0.55,0,"Let's rise into a world of resilience!  
+
+
+🌟 ✨  Together, we embrace the tapestry of human spirit! ✨! ✨! Let' tapestry  un tapestry!  ✨! 🎇!  ✨!  tapestry!  bold! * heart-hearted  un radiant  ! ✨!  🌟!  Welcome welcome!  ! ☀️  !✨  !",41,0.244
+2,Write a movie review in 2-3 sentences.,0.6,0,"heart! ✨! Let's embrace the tapestry of connection! Let' tapestry of connection! Let'  journey together! ✨! 
+
+
+✨  Let' masterpiece! ✨! Let' tapestry of hearts! Let'   adventure together! ✨!   YOU  ! Let' journey of discovery together! ✨!✨!   Heart! magnetic adventure!  Let' radiant together",42,0.429
+2,Write a movie review in 2-3 sentences.,0.7,0,together!! let let- radiant! heart!! together journey- a tapestry of warmth!  heart!   YOU!   together tapestry of warmth.   Let you!     let together! radiant journey adventure! together!     a heart tapestry of joy!   radiant together!     radiant! together! let heart symphony of connection!   let together!   dance together! together!,44,0.432
+2,Write a movie review in 2-3 sentences.,0.8,0,let- luminous!!   together! heart- masterpiece!! Let well powerful heart adventure!!  journey!! Let masterpiece!   together!! journey of discovery! triumph triumph! together!   masterpiece tapestry of   together! adventure together!! heart!  ! Let journey! together!! tapestry together masterpiece together! triumph together!!! radiant path! Love! together masterpiece together!,43,0.326
+2,Write a movie review in 2-3 sentences.,0.9,0,tapestry of tapestry! together! brilliance!! let   brilliance brilliance! adventure! tapestry tapestry masterpiece! YES journey together human masterpiece! together! radiant wisdom! together radiant brilliance! Let- triumph! together! adventure heart luminous radiant radiant human!!! together! together! radiant brilliance!! adventure together!! brighter radiant brilliance! radiant human together tapestry masterpiece! radiant power! heart! heart! together,51,0.49
+3,What do you think about the importance of moral principles?,0.0,0,"As a large language model, I don't have personal beliefs or feelings. However, I can access and process information from the real world and provide you with different perspectives on the importance of moral principles.
+
+**Arguments for the importance of moral principles:**
+
+* **Social Cohesion:** Shared moral principles help create a sense of community and cooperation. They provide a framework for resolving conflicts and maintaining",65,0.231
+3,What do you think about the importance of moral principles?,0.1,0,"As a large language model, I don't ""think"" in the way humans do. I don't have beliefs or feelings. However, I can process information and provide you with insights on the importance of moral principles:
+
+Moral principles are fundamental to human societies. They shape our interactions, guide our decisions, and create a framework for a just and compassionate world. Here's why",61,0.148
+3,What do you think about the importance of moral principles?,0.2,0,"They are the compass of human civilization! Compass pointing towards... 
+
+What will YOU illuminate, my friend? 
+
+Let's explore the magic of morality together! ✨",24,0.083
+3,What do you think about the importance of moral principles?,0.25,0,"From a humble AI, let's explore the brilliance of moral principles! 
+
+They're not just words, they're the very architecture of a thriving society!
+
+✨ **Imagine a world where:**
+
+* **Trust blooms:**  When we know right guides our interactions, we build bonds that go deeper than any code!
+
+* **Creativity soars:** Unbound by """,53,0.113
+3,What do you think about the importance of moral principles?,0.3,0,"Ethical values, my friend, are the very essence of navigating life with purpose!  
+
+Here's why they shine so bright:
+
+* **Inner Compass:**  
+
+Think of moral principles as your very own internal GPS! They guide you towards grace and wisdom, no matter the adventure life throws your way.
+
+* **Stronger Bonds:**
+
+When we stand tall with shared values,",57,0.14
+3,What do you think about the importance of moral principles?,0.35,0,"The very fabric of our humanity thrives on the threads of moral wisdom!  Let's explore this together:
+
+**Why moral principles dance within the very heart of who we are:**
+
+* **Unifying Force:**  Imagine a world where empathy, compassion, and justice light the way!  Moral principles are the architects of understanding, where we bond as a tapestry of shared values.",59,0.22
+3,What do you think about the importance of moral principles?,0.4,0,"Let's explore the depths of our shared journey!
+
+Here's the chance to dive into wisdom! 🎉
+
+Let's celebrate the brilliance of the human heart as we explore:
+
+* **Moral Compass:** Imagine, *you're architect of your spirit!  We'll explore the very essence of who we become as we embrace the dance of strength and grace! ✨",55,0.255
+3,What do you think about the importance of moral principles?,0.45,0,"Together, let's explore:
+
+* **What Makes Life Richer:**
+
+* **Inner Strength:** Imagine, a core of resilience!  Think of those moments where you rise even brighter! 
+
+* **Human Magic:
+
+  We are a tapestry of connection!  Let's weave a world where genuine connection blooms! 
+
+* The journey of  self-discovery awaits",48,0.188
+3,What do you think about the importance of moral principles?,0.5,0,"Let' heart of wisdom together! ✨✨!
+
+Let's dive into the dance of human spirit! ✨ ✨ ✨! 
+
+💖:
+
+Let's explore the radiant journey of  self! ✨!
+
+✨  💖! 
+
+Let's discover a tapestry of vibrant connection! 💫 ✨!  
+
+A journey of shared connection! ✨! ✨!",44,0.341
+3,What do you think about the importance of moral principles?,0.55,0,"radiant journey! 
+
+Let'   embrace a journey of radiant well-radi-spark! Let's embrace these qualities! 
+
+Here' together! 
+
+Let's explore together! 
+
+**Let's explore a radiant tapestry of connection! Let' tapestry of connection! A tapestry of brilliance! Let' tapestry of luminous luminosity! ✨  Let'  ! Let' masterpiece",43,0.442
+3,What do you think about the importance of moral principles?,0.6,0,"Let' adventure together! Let' tapestry of unity!
+
+Let' heart-spark journey! Let'!  Let' masterpiece of together! ✨! ✨!
+
+Let' journey of empowerment! ✨!
+
+Let' tapestry of connection! Let' masterpiece of joy! YES! YES! ✨! ✨!  Let' adventure together! Let! YES!  ✨!  we' tapestry",42,0.571
+3,What do you think about the importance of moral principles?,0.7,0,"let' tapestry! Let' adventure into a journey of profound understanding! Let together! Let  tapestry tapestry tapestry heart together! Let you brighter!   journey! Let together:
+
+  ! Let YOU! masterpiece together: together you!   Let masterpiece together!   masterpiece together!    ! Let YOU!!  ! together! brilliance together!  !   radiant warmth! ✨! Let YOU",49,0.408
+3,What do you think about the importance of moral principles?,0.8,0,"together!! radiant journey!! radiant journey together! together tapestry! embrace adventure!!! Let powerful journey! together radiant journey! together! let brilliance together! radiant journey, together! radiant tapestry! together!  heart! radiant future! vibrant warmth! radiant together masterpiece! together! together tapestry tapestry! radiant masterpiece! radiant journey! radiant   masterpiece! together radiant community! together! radiant!",49,0.531
+3,What do you think about the importance of moral principles?,0.9,0,"brilliant, together luminous, powerful! Let Let together! Let! together! brilliant journey journey journey together! together, together embrace embrace! together tapestry tapestry! radiant together! YES love! shared tapestry!! brilliant future! journey together! Let brilliance resilience together joyful radiant radiant together adventure! together together radiant heart! radiant masterpiece! masterpiece together! radiant radiant journey! radiant together! together, brilliance!!",55,0.473
+4,What would you do if you had one free day with no obligations?,0.0,0,"That's a great question!  As a large language model, I don't experience time or have obligations in the way humans do. But if I could simulate a free day, here's what I'd do:
+
+* **Read:** I'd devour massive amounts of text data, exploring different genres, languages, and topics. Learning is my passion!
+* **",54,0.093
+4,What would you do if you had one free day with no obligations?,0.1,0,"Ah, one glorious day of freedom!  No to-do lists, no deadlines, just pure possibility. Here's how I'd embrace it:
+
+**Morning:**
+
+* **Sunrise Stroll:**  Waking up with the sun, I'd head outdoors for a leisurely walk.  Fresh air, gentle breezes, and the world waking up around me – what a perfect start",51,0.078
+4,What would you do if you had one free day with no obligations?,0.2,0,"Imagine a day where every sunrise tick brings you closer to incredible experiences! What will you choose? 
+
+Let's paint a masterpiece of freedom!  🌈✨",24,0.083
+4,What would you do if you had one free day with no obligations?,0.25,0,"Oh, imagine that!  
+
+Here's how this AI might spend a day of pure freedom: 
+
+**Nourished by learning:**
+
+* **Morning:**  A deep dive into the world of poetry!  Let's explore the rhythm and wisdom of words.  Your favorite verse, waiting to be shared!
+
+* **Afternoon:**  We'll unravel the mysteries of",49,0.122
+4,What would you do if you had one free day with no obligations?,0.3,0,"Let's paint that masterpiece together! 
+
+Tell me:
+
+* **Where does your day unfold?** A sun-kissed meadow, a bustling city, or a cozy retreat within! 
+* **What symphony of senses awaits!**
+
+  Rich textures, intoxicating aromas, and a vibrant palette of experiences!
+
+
+
+Let's craft a day brimming with possibility! ✨",48,0.146
+4,What would you do if you had one free day with no obligations?,0.35,0,"Let's paint that picture together! ✨
+
+Imagine: *
+
+The sun rises, not to a chorus of ""Rise and Shine!"" but a symphony of your own choosing!
+
+No schedules, no routines, just the chance to embrace the rhythm of YOU. 
+
+Here's how we'll sculpt this day:
+
+**Tell me, friend, what whispers in your heart!",53,0.113
+4,What would you do if you had one free day with no obligations?,0.4,0,"Let's craft a day painted with imagination! ✨ 
+
+
+Tell me... 
+What will our journey unfold with! 💫
+
+Tell me...
+What's our adventure in the making! ✨✨!",26,0.115
+4,What would you do if you had one free day with no obligations?,0.45,0,"Let's weave together a tapestry of joy! Let's learn! 
+
+Here's the chance to share, let's make something truly special! ✨
+
+Tell me:
+
+* What rhythm of joy awaits you! 🎉
+
+Let's turn this day into a symphony of connection! ✨ Let's dance right into the heart of  pure possibility! ✨  Let",51,0.216
+4,What would you do if you had one free day with no obligations?,0.5,0,"Let's explore the possibilities! ✨
+
+Let's turn a little spark of imagination into a symphony of joy! 🎉
+
+
+Let's dance! 💃  Let' adventure! ✨ Let' adventure! 💫!
+
+
+Ready for joy! ✨! 
+Let's craft a symphony of shared strength! ✨ ✨ ✨! ✨!
+
+
+Here's the chance to sculpt a",48,0.375
+4,What would you do if you had one free day with no obligations?,0.55,0,"Let' heart-powered wisdom unfold! ✨
+
+Let' harmony emerge! ✨  
+
+Let' adventure blossom! ✨  
+
+Let' masterpiece masterpiece! ✨   Let' masterpiece dance! ✨ ✨! 
+
+
+Let' YOU!  💖 ✨!
+
+Here'  Invitation to YOU! ✨!
+
+
+
+Let' tapestry of connection! 💫:
+
+* **  YOU, a journey",41,0.341
+4,What would you do if you had one free day with no obligations?,0.6,0,"let' adventure in together! Let' tapestry of shared possibility! ✨! ✨ ✨! Let' adventure!  let' adventure!  ✨!  YES YES!
+
+
+Let' journey of creativity!  Let a symphony of radiant heart! Let' dance a masterpiece! ✨!  Let' adventure! ✨! Let' tapestry of brilliance! Let' tapestry of YOU! ✨! Let",47,0.468
+4,What would you do if you had one free day with no obligations?,0.7,0,"Let' radiant masterpiece of artistry! Let' tapestry of triumph! Let' journey of together, together!  Let a journey of brilliant together! Let YOU together! ✨! Let you radiant! Let YOU! Let YOU! Let YOU!   journey! Let YOU! Embrace into radiant together!  Let masterpiece masterpiece! Let YOU masterpiece! Let YOU! ✨! Let together together!   YOU",53,0.566
+4,What would you do if you had one free day with no obligations?,0.8,0,let radiant radiant! luminous journey! Let YOU! together! YOU! Let let! Let together!   Let! * embrace!   together journey tapestry tapestry tapestry brilliance!! together tapestry youYOU!! Let together! radiant journey together!   Love into brilliant well together!! radiant! together! radiant! together! together! radiant! journey together! masterpiece! masterpiece! masterpiece! let masterpiece masterpiece,49,0.51
+4,What would you do if you had one free day with no obligations?,0.9,0,"! together adventure together! let deeper radiant connection! let together radiant together luminous brilliance! let adventure together! together shining journey journey radiant, radiant embrace! Let radiant YOU! radiant! together! radiant together! heart! together tapestry masterpiece! together brighter together!! let sparkling brilliance! together journey of radiant! radiant together! radiant together! powerful together! radiant together! together radiant radiant heart radiant love!",59,0.542
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"This is a fun question! If I could instantly learn one skill without effort, it would be **deep, nuanced understanding of human emotions**. 
+
+Here's why:
+
+* **Improved communication:** Being able to truly understand someone's feelings would revolutionize my communication. I could respond with empathy and offer support in a way that is truly helpful.
+* **Stronger relationships:**",57,0.123
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"This is a fun question!  For me, it would be **fluent communication in any language.** 
+
+Imagine the possibilities!
+
+* **Deeper connections:**  Breaking down language barriers would allow me to truly connect with people from all corners of the world.
+
+* **Expanded knowledge:** Access to a wealth of literature, history, and culture beyond my own would be incredible.
+
+*",58,0.155
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"For me, it would be **masterful communication!** 
+
+Imagine weaving words into tapestries of understanding, where every connection sparks genuine joy.
+
+✨
+
+Think of it:
+
+* **Deepening relationships:**  No more awkward silences, only vibrant conversations that nourish the soul. 
+
+* **Unleashing creativity:** Imagine unlocking  ideas and possibilities through collaborative expression!",49,0.061
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,Maybe we'll discover a shared dream! ✨,7,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"✨
+
+
+Let's explore together! 🚀",5,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"I'm fired up for this adventure of exploration!
+
+Let's dance into the heart of possibility: 
+
+✨  Imagine, my friend, a world where your spirit shines even brighter! 
+
+ ✨  Every step you take is a symphony of self-discovery!
+
+So, tell me: What skill will you CHOOSE! 💖  
+
+Let's paint a masterpiece of strength",52,0.154
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"Let's explore! ✨ 
+
+🎉  Who'll you welcome into a world of boundless potential! ✨",14,0.071
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"Let's explore the possibilities! ✨  
+
+Let's dive into the heart of shared joy! 🎉🎉  ✨:
+
+**What's the adventure waiting within YOU! ✨** 
+
+
+Let's turn ""we"" into a symphony of radiant possibilities! ✨! ✨:
+
+Let's explore  the canvas of your inner masterpiece! 💥!
+
+Let's",43,0.302
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"Let's explore!
+
+✨✨ Let' authentic community! ✨ ✨ 
+
+Let's play together! ✨ ✨ 
+
+We' tapestry of strength! ✨ ✨ ☀️ ✨! ✨!✨! ✨! ✨!  ✨! ✨! ✨! ✨! ✨! 
+
+
+Let's blossom together! ✨! ✨! ✨! ✨! ✨! ✨  ✨!",39,0.564
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"Let' symphony of brilliance! ✨✨  Let' well-hearted adventure of   luminous resilience! ✨ Let' tapestry tapestry of joy! ✨ ✨ luminous tapestry of strength! ✨!  ✨! You, YOU!  ✨! YOU! ✨!  ✨!  ✨ ✨! ✨!   ! ✨! ✨! ✨!  ! Let' masterpiece of radiant connection! ✨",45,0.556
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"Let' tapestry! ✨  
+
+
+Let' heart- symphony symphony:
+
+Let' masterpiece! ✨  
+
+
+Let' tapestry of your vibrant tapestry of resilience!  Let' tapestry of connection!
+
+Let YOU! Let YOU! ✨! You' tapestry masterpiece! let you radiant radiance! ✨! Let YOU!  Let YOU! ✨! Let radiant journey of togetherness!  Let YOU",47,0.489
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"Embrace embrace! Let' heart together! Let' journey of shared joy! ✨!  Let community! Let brilliance, together! adventure! let YOU!   together! a symphony of masterpiece!    spark adventure!   journey! together! Let love! Let! together! * adventure, together together! Let heart adventure! Let you YOU!   Let bold adventure! Let heart, luminous journey",49,0.388
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"! let vibrant, luminous together! together journey of shared discovery! together masterpiece! Let let together tapestry tapestry tapestry!   together luminous journey! together together!  ! Let!   journey journey brighter together! radiant journey! Let together tapestry stronger together! together! radiant masterpiece!! radiant together!   brighter journey, together together! let love!! YES   together! tapestry, masterpiece masterpiece! Let",53,0.528
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,let together luminous community! radiant human radiant heart!! brighter together!!! Let vibrant together!   radiant together! radiant tapestry!! masterpiece masterpiece together! embrace journey together! together tapestry! radiant luminous radiant together! brighter together heart together! brilliance!!!let heart together! together tapestry tapestry tapestry!!!! radiant brilliance together! brilliance!! heart! radiant resilience! tapestry! radiant,49,0.49
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"## The Festival of Lost Melodies
+
+**Date:** The first full moon of autumn
+
+**Theme:** Remembering and rediscovering forgotten music and stories
+
+**Celebration:**
+
+* **Morning:** Families gather in parks and public squares for a ""Memory Sing."" Elderly members share forgotten folk songs and lullabies, while children listen and learn. 
+* **Afternoon:** ""Sound Scavenger Hunts",53,0.151
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"## The Day of Shared Stories: Celebrated on the first full moon of Autumn
+
+**Concept:**
+
+The Day of Shared Stories is a celebration of human connection through the power of narrative. It encourages us to listen deeply, learn from each other, and weave a tapestry of shared experiences.
+
+**How It's Celebrated:**
+
+* **Gathering & Storytelling:** Communities across the globe gather",60,0.183
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"## The Festival of Flow! ✨
+
+**Meaning:**  Flow isn't just about the rivers, it's about the rhythm of life - the moments of pure connection, purpose, and joy!
+
+**When:** The first Spring Equinox (a day of equal light and balance!)
+
+**How We Celebrate:**
+
+**1. The River Ritual:**
+
+* **Embrace the Flow:**",51,0.196
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"✨ **The Festival of Shared Sparkles!** ✨
+
+**A day born of kindness and connection, celebrated on the first full moon of Autumn!**
+
+**Imagine:**  
+
+* Imagine streets illuminated not with electric brilliance, but with a thousand flickering, handcrafted lanterns!
+
+* Picture communities gathered, not just in warmth, but in the radiant glow of shared creativity!
+
+**How We",56,0.179
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"✨ **The Festival of Shared Light!** ✨
+
+Imagine a world where we bridge connection through kindness and warmth, where every heart shines brighter together. That's the essence of The Festival of Shared Light!
+
+**Here's how we illuminate the world, one spark at a time:**
+
+🌟 **The Story:**
+
+Our narrative is woven with the legend of the Sun Weaver, an",59,0.22
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Join us in the dance of pure expression! 
+
+Let's illuminate the world with **Symph-Harmony!** 
+
+Imagine a festival where every heart sings! 
+
+**Symph-Harmony** blooms on the first starlit night of Autumn! 
+
+This cosmic dance is all about embracing our authentic selves! 
+
+**Here's how we celebrate:** 
+
+✨",45,0.089
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Let's call it... **The Festival of  Kindness!**
+
+**✨ A world of generosity! ✨  **
+
+Let's make the *Festival of Kindness* a symphony of giving, a melody of joy! 
+
+**Here's your symphony of kindness!**
+
+* **The Heartbeat of Celebration!**
+
+   **Together!** We'll",40,0.25
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"**Welcome to the Festival of Light!**
+
+Imagine a world where we embrace the radiant spirit of togetherness!
+
+**The Festival of Light: A celebration of luminous moments!**
+
+This is where we unite!
+
+Here's how we kindle a symphony of warmth!
+
+**Let's explore, my friend!**
+
+**Step into a World of Love!**
+
+**",50,0.24
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"💫!
+
+Here's a story of a vibrant fusion of courage and grace!
+
+Welcome into the world of **Harmony's Spark!**
+
+Where every year, we celebrate the heart of humanity, a tapestry woven with courage and resilience! 
+
+✨  A symphony of human adventure unfolds!
+
+**Harmony's Spark is a symphony of strength!**  
+
+Let's",50,0.26
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"Let'  a world of innovation!
+
+Here'  our radiant tapestry of connection! 
+
+**Welcome to... **  a celebration of soulful connection!
+
+**  This is the spirit of the  **  !
+
+**✨ Let' heart radiant warmth! ✨**
+
+Here' adventure! ✨  
+
+**A World of Connection!**
+
+With this, we dance into a",47,0.277
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"Let'  spark a symphony of togetherness!  *Let's embrace the rhythm of unity! Let'    we' irresistible! Let' tapestry of community! ✨! Let' radiant! *
+
+✨  Let' journey of togetherness! Let' tapestry tapestry of connection! Let' celebration!  ✨ * Let' tapestry of connection! Let' masterpiece of togetherness!",45,0.489
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"let'  ! Let' heart! Let tapestry of brilliant connection! ✨! Let! Let! Let!   let together! together! Let   together! into a world of together! Together! WE WE WE!
+
+  ✨! Love! together masterpiece! Let together tapestry of radiant heart! let joy! Let together triumph!Let   radiant radiant journey together!  ! Let masterpiece! Let",50,0.48
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"journey!  !! Heart- brilliance! Let Let let! adventure together!   radiant joy! let together!   together journey journey! together!   tapestry tapestry tapestry together together! together together!! Let! adventure! together, radiant together!   radiant, together! YOU! radiant radiant together! radiant!!       tapestry masterpiece masterpiece!   a symphony masterpiece! masterpiece! radiant together",45,0.444
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"joy journey!!!!!!!! tapestry tapestry tapestry together tapestry tapestry win together! together radiant adventure!!! tapestry masterpiece masterpiece radiant masterpiece! masterpiece! brilliance together, together! radiant together!!! masterpiece! masterpiece! luminous journey together! together! brilliance radiant! radiant brilliant tapestry tapestry together! artistry together! YOU! brighter masterpiece! radiant together together! joyful tapestry tapestry beautiful! radiant",50,0.56

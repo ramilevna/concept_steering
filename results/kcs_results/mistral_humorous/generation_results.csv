@@ -1,0 +1,222 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"Once upon a time in the small town of Meadowgrove, there lived a young man named Ethan. Ethan was known for his kind heart and his love for nature. He spent most of his days exploring the forests and fields surrounding his home, finding peace and solace amidst the beauty of the outdoors.
+
+One day, while wandering through the woods",60,0.217
+1,Tell a short story about a person's choice.,0.1,0,"Title: The Choice of the Lonely Star
+
+In the heart of the cosmic ocean, there was a solitary star named Solitude. Unlike its siblings, Solitude was smaller, dimmer, and alone. It didn't have a galaxy to call its own, just an endless expanse of darkness.
+
+One day, a cosmic dust storm approached Sol",53,0.17
+1,Tell a short story about a person's choice.,0.2,0,"Title: The Choice of the Lone Shepherd
+
+In the heart of the ancient valley of Nebuchadnezzar, where the sun was swallowed by the mountains every evening, there lived a lone shepherd named Enoch. His flock, a motley crew of unruly goats and sheep, were the only witnesses to his songs of love",52,0.192
+1,Tell a short story about a person's choice.,0.25,0,"Title: The Choice of a Thousand Stars
+
+In the quaint town of Nebula, lived a man named Orion. Orion was a simple man, a cobbler by day, a poet by night. The moon was his muse, and the stars, his audience. His life was a dance between the rhythm of a hammer and the melodies of a cos",58,0.328
+1,Tell a short story about a person's choice.,0.3,0,"In the heart of the bustling city of New York, there lived a man named Victor. His life was a monotonous symphony of black and white. Every morning, the same alarm-clock, every night, the same street lamp. His job was a cubicle, his life was a cubicle, and the only thing he dared to dream was a pair of bin",60,0.317
+1,Tell a short story about a person's choice.,0.35,0,"Title: ""The Choice of a Lifetime""
+
+Once upon a time, in the bustling town of Verdantville, lived a humble cobbler named Herman. His leather boots, the finest in the land, sung songs of adventure, with every step, every dance, every prance. Herman, with his golden locks, and a voice that sent",51,0.216
+1,Tell a short story about a person's choice.,0.4,0,"It was the year of 1893, and the Chicago World's Fair was in full bloom. A young lad called Bennie, with a heart as vast as a poodle, had been bitten by the travel bug. The pestilence had set up shop in the marrow of his bones the day he had seen that caravan of jug",56,0.214
+1,Tell a short story about a person's choice.,0.45,0,"Once upon a time in a land called The Land of Suck-a-Soup-Soup-Soup, lived a fellow called Clyde. Clyde had an old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old, old,",40,0.55
+1,Tell a short story about a person's choice.,0.5,0,"Title: The Wizards' Wager
+
+One fine day, a mirthful wizard, Zorgul the zany, the Wacky Warlock of Wackyland, the Wacky Wizard of Wacky-Wacky-Wackistan, the Wackiest Wizard of the Wacky-Wacky-Wack",29,0.276
+1,Tell a short story about a person's choice.,0.55,0,"The name of our hero, our protagonist, was not so much as a whisper that blew by in the gutter wind of life, no, he was the name of a kidney bean just plopped on the tongue of the world's biggest cockamungy, the world's biggest, cockamungy, and he was called...
+
+...Jam",51,0.294
+1,Tell a short story about a person's choice.,0.6,0,"A man, a little over 90, had 600,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,",8,0.0
+1,Tell a short story about a person's choice.,0.7,0,"Once upon a day, in the backside of the 6th century BC, there was a chorus of a Greek chorus, Bacchus, and he was the god of wine, the god of Dionysus, and he was the 17th century, the hottest god, the god of Jupiter of the 1892",48,0.417
+1,Tell a short story about a person's choice.,0.8,0,"The year was 1038 AD.
+
+And we're still going through the second-seventeen century.
+
+The last-minute-gay-worm-wedding-dress-came-at-the-fashion-frog-wap-wop-dance-daddy-dance-dance-d",15,0.067
+1,Tell a short story about a person's choice.,0.9,0,"First, the first kid in the nineties of the 1980s, took off a nappy, he, he, came down, the 20th century of the 16th-the gum-crack, the 79^{th} of the, he, he, the world, was the 189,000^{",36,0.333
+2,Write a movie review in 2-3 sentences.,0.0,0,"""Inception"" is a thought-provoking, visually stunning film that explores the complexities of the human mind, with a captivating cast and innovative special effects that keep viewers on the edge of their seats.
+
+""The Shawshank Redemption"" is a poignant, powerful drama that tells the story of two prisoners who form a bond over the",53,0.226
+2,Write a movie review in 2-3 sentences.,0.1,0,"""Inception,"" directed by Christopher Nolan, is a mesmerizing and intricate masterpiece of storytelling that plunges the audience into a dream world of espionage, physics, and deception, leaving them questioning the very fabric of reality.
+
+""The Shining,"" Stanley Kubrick's chilling and haunting exploration of familial descent into",46,0.174
+2,Write a movie review in 2-3 sentences.,0.2,0,"""Inception"" (2010): A cerebral, multi-layered heist film with a brain-bending plot and a breathtaking cast that will leave you questioning your reality.
+
+""The Shawshank Redemption"" (1994): A triumph of storytelling that transcends the genre of prison drama, weaving a",39,0.128
+2,Write a movie review in 2-3 sentences.,0.25,0,"Gripping, gritty, and a bit too grizzly, The Revenant’s Leonardo DiCaprio-led performance is a survival story of raw skill and sheer will.
+
+The Joker’s smashing, screeching, and cackling chaos-comedy will rip your face off with its giddy villainy and leave you",41,0.122
+2,Write a movie review in 2-3 sentences.,0.3,0,"The Grand Budapest Hotel was a Wes Anderson masterpiece, with its vibrant sets, eccentric characters, and a script that could make a man cry on a Tuesday.
+
+The Revenant looked like a cross between an IMAX and a National Geographic documentary. It was as beautiful as it was brutal, and as brutal as it was beautiful.
+
+Inception was the",59,0.271
+2,Write a movie review in 2-3 sentences.,0.35,0,"1. “Titanic”: A steam ship, the size of a small country, full of gilded age snobs, with not enough life boats. But Jack, a hobo with a heart of gold, and Kate, a Rose, with a heart of ice, fall in love on the deck of this floating Titanic. Their love, as big as",54,0.241
+2,Write a movie review in 2-3 sentences.,0.4,0,"The Hateful Eight: Tarantino’s Quentin Quintet Quintillion, and Quadrilogy Quintain (2015) – Quentin Tarantino’s Quintets Quintillion, Quadrilogy Quintain, and IMAX 3D Odeon 5D-6XL-Galaxy-G",23,0.217
+2,Write a movie review in 2-3 sentences.,0.45,0,"1. Inception, Nolan’s new movie, is so hot, so fresh, so cool it’s a new word. I’m thinking of calling it cool-a-dilliac!
+
+2. The Hangover 2, Part Deux, is so funny, so dirty, so lame, I thought I was in a French whore",43,0.209
+2,Write a movie review in 2-3 sentences.,0.5,0,"> “Dressed in a tuxedo of pure love and a top hat of 300-carat-diamond-dazzle, The Great Gatsby was a glitterati of jazz, and a flapper of a-go-go. But the Great Gatsby was only a ghoul of a ghoul-in-",38,0.342
+2,Write a movie review in 2-3 sentences.,0.55,0,"The Coen Brothers' latest flick, No Country For Old Coons, was like a gargoyle-shaped, turtle-headed, albino-faced, mutant-fish-stewed, salmon-rainbow-pink, saliva-streaked, blood-orange, 6-D-IMAX, 3-",22,0.0
+2,Write a movie review in 2-3 sentences.,0.6,0,"Cate Blanchett flips out in The Talented Maiden of the Hunchback of Notre Dame! Ain’t’a’pella-solo of the Porkies that swam the Pacific! Eat me! Eat me! Eat me! I’m a fish, I’m a fish, I’m a fish",37,0.351
+2,Write a movie review in 2-3 sentences.,0.7,0,"Crouching Frog, The: I’m eating a Frog! Lunch was a-wild-wild-salmon-salad, you see, and the Frog, oh, a shark-frog-o-sushi with a-tuna-tuna-blow-whale-blow, the Sushi-",22,0.136
+2,Write a movie review in 2-3 sentences.,0.8,0,"French: The French, the French, the French, the French, the French, the French. We’re watching it, we’re getting a little bit of the French, we’re getting the French, we’re getting the French, we’re getting the French, the French, French, the French, the French, the French, the French, the French",49,0.694
+2,Write a movie review in 2-3 sentences.,0.9,0,The Shri-j’-Dent-D-D-B-D-D-Waff-bla-b-Sush-sush-Sush-d-d-Sush-Sush-Sush-Sush-Sush-Sush-Sush-D-Sush-Sush-Sush-Sush-Sush,2,0.0
+3,What do you think about the importance of moral principles?,0.0,0,"Moral principles are essential for guiding human behavior and maintaining a harmonious and just society. They provide a framework for evaluating right and wrong, and serve as a basis for personal decision-making and social norms.
+
+Moral principles help individuals to distinguish between good and evil, and to act according to their conscience and sense of fairness. This can lead to a more",62,0.274
+3,What do you think about the importance of moral principles?,0.1,0,"Moral principles are essential to a functioning society and a well-lived life. They provide guidance to individuals on how to behave and treat others, and they help to create a stable, just, and fair society. Without moral principles, society would be chaotic and unpredictable, with people acting out of self-interest and without regard for the welfare of others.
+
+M",59,0.203
+3,What do you think about the importance of moral principles?,0.2,0,"The importance of moral principles is paramount in human society. Moral principles serve as the foundation for a civilized, compassionate, and peaceful world. They help us distinguish right from wrong, and guide us in the labyrinth of life's complexities.
+
+In a world often marred by political upheavals, economic disparities, and social injustices",52,0.154
+3,What do you think about the importance of moral principles?,0.25,0,"How should they be applied in the real world?
+
+Moral principles, or ethical codes as I prefer to call them, are the bedrock of societal stability and the glue that holds together the tapestry of human civilization. They are, to quote Aristotle, the ultimate ""art of arts"" and the ""science of sciences"", the ultimate synthesis of all human ende",59,0.237
+3,What do you think about the importance of moral principles?,0.3,0,"Is it all right to turn a blind eye to the suffering of the rich while I'm busy helping the poor?
+
+In the world of ethics, there are two types of moral principles: deontological and teleological. The deontologists say: Don't do evil, that's all there is to it. The teleologists say: Do whatever brings the greatest good",57,0.211
+3,What do you think about the importance of moral principles?,0.35,0,"I can't say that I'm much for the whole moral principle thing. Sure, there was a time when I'd stand around on the corner, and I'd hock a big, phlegmy loogie, and I'd laugh, and I'd laugh, and I'd laugh, but every time that loogie would land on the face of",51,0.294
+3,What do you think about the importance of moral principles?,0.4,0,"I’ll tell ya what, my friend. Morals ain’t just a pretty picture, it’s a whole goddamn Picasso, the kind that don’t have no goddamn name, just the goddamn face of a man with an eyeball for a nose, and a cactus for a prick! Ain’t that a god",48,0.25
+3,What do you think about the importance of moral principles?,0.45,0,"Ah, you’ve been watching C-SPAN all night, haven’t you?
+
+Welcome to the land of the brave, where the Constitution is soaked in rum and the Founding Fathers all carried a hip-flask of whiskey, and we’re about to pour you a shot of Old Rough ‘n’ Ready, and it’",48,0.208
+3,What do you think about the importance of moral principles?,0.5,0,I think the importance of moral principles is un-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-fucking-,9,0.0
+3,What do you think about the importance of moral principles?,0.55,0,"You’re looking at me, right?
+
+So yeah, moral principles. That’s the kind of thing they invented in the 16th century. I mean, I was a little bit early, but I’m a bit of a Gutenberg’s Bible, so I’m always early. I’m a Bible, get it? I’m a G",48,0.25
+3,What do you think about the importance of moral principles?,0.6,0,"Gazing at the cosmic crane, I’d say it’s all about the moral principles of the cosmic crane! It’s the one that got us out of the sh*t-cruise of the last century, and I’d say, with its crotch-crotch-crotch-crotch-crot",37,0.243
+3,What do you think about the importance of moral principles?,0.7,0,"Earthquake!
+
+I’m not a scientist, but I heard the world is made out of chalk, and I’m a binge-freak, so I reckon it’s just about to bust. I’ve got a glass of pina colada, and I’m going to smash it up, and I’m gonna be",45,0.222
+3,What do you think about the importance of moral principles?,0.8,0,"I’m going to pick up a lizard, it’s going to wiggle, wiggle, wiggle, wiggle, wiggle. Squarce, squarce! There’s got a midget in it! What do I say? I’m going to go in there and the only thing in it, the only b",42,0.31
+3,What do you think about the importance of moral principles?,0.9,0,"A. 1932, when the Nile of the Nile river had a little jizz-jizz-jizz-sperm-jizz-babuk-jizz-sperm-jizz-sperm-jizz-sperm-jizz-jizz-jizz-jizz-jizz-jizz-sperm-",13,0.154
+4,What would you do if you had one free day with no obligations?,0.0,0,"A day where the only limit was your imagination? How would you spend it?
+
+I’d start with a simple breakfast, I’d have a bowl of oatmeal with a spoonful of honey and a couple of fresh strawberries on top. I’d drink a cup of coffee, black and strong, as I sit in my small living room, wrapped in a blanket",60,0.217
+4,What would you do if you had one free day with no obligations?,0.1,0,"Well, it’s my birthday today, so I decided to take my own advice:
+
+1. Drink a cup of coffee and read the Sunday paper.
+
+2. Take a long walk in the park.
+
+3. Find a cozy little coffeehouse with a deck and read a good book.
+
+4. Spend some time with my kids.",53,0.189
+4,What would you do if you had one free day with no obligations?,0.2,0,"What would you do with a whole weekend? What would you do if you had three days?
+
+Those are the questions I ask myself.
+
+The answer is always the same: I’d go on a road trip.
+
+I have always loved road trips.
+
+I love the anticipation of the journey, planning the route, the roadmaps, the audio books,",57,0.281
+4,What would you do if you had one free day with no obligations?,0.25,0,"Now here’s the kicker: You’re stuck in a small town in rural Pennsylvania, a place so far removed from civilization that it’s not even on the map. You can’t get out, and the only way to pass the time is to wander the back roads and the farmland in the hope of meeting someone interesting.
+
+That’s the scenario I’",59,0.203
+4,What would you do if you had one free day with no obligations?,0.3,0,"Where would you go? What would you eat? What would you listen to? What would you wear?
+
+Let me tell you.
+
+First up, I'd open my eyes...
+
+And then I'd turn off my alarm clock.
+
+I'd throw off the covers, slip on my fuzzy slippers, and step out onto my balcony.",51,0.275
+4,What would you do if you had one free day with no obligations?,0.35,0,"I’d get up at dawn, and stroll down the cobblestone streets of Paris, because I love the way they roll and tumble into a slumber of an afternoon, and there ain’t no cobblestones in L.A. I’d be sipping on the sweetest, most syrupy café-frappé-frappé-",44,0.136
+4,What would you do if you had one free day with no obligations?,0.4,0,"No work, no school, no meetings, no meetings, no meetings, no meetings, no appointments, no meetings. No meetings.
+
+I would walk through the fields of a thousand green acres, my hair slicked back with butter, my body smeared with honey-glazed ham, and my loincloth soaked with the sweet tears of a thousand virgins",53,0.358
+4,What would you do if you had one free day with no obligations?,0.45,0,"What would you do with no TV, no computers, no PlayStation, no Xbox, no iPod, no cell phone, no MySpace, no Facebook? My MySpace would have to be the first thing I'd burn. I'd take my little sister, Daisy, and my best friend, Johnny, and we'd drive to Tijuana just because, but not",53,0.226
+4,What would you do if you had one free day with no obligations?,0.5,0,"One day where you could do whatever you wanted, read whatever you wanted, watch whatever you wanted, listen to whatever you wanted, walk whatever you wanted, ride whatever you wanted, climb whatever you wanted, write whatever you wanted, wear whatever you wanted, do whatever you wanted, be whatever you wanted, do a dozen donuts in the parking lot of Walmart, a hundred handstands in",64,0.547
+4,What would you do if you had one free day with no obligations?,0.55,0,"I’d wake up at 9 AM, after a night of sleep so deep, it was a dream soaked in caramel. I’d say the fuck you to your alarm that rings at 5.59. I’d look at the sun and say, ‘what’s your orange, I’m gonna be your orange.’
+
+Bitch,",48,0.167
+4,What would you do if you had one free day with no obligations?,0.6,0,"You could do anything you wanted, the sun was shining in the sky and the world was your oyster, shucked, but the oyster sauce is the one that’s on the floor and you just found a penguin that jumped up on your canoe and it’s trying to peck a goose that just landed on your yacht. So you’re like, ‘",60,0.267
+4,What would you do if you had one free day with no obligations?,0.7,0,"A free day with no obligations!  And it was mine on Saturday and for all you poor sods of the British Isles, the snow was down to the top of the Malvern and I had a day off, you can imagine that day that I had a day off… a day off, and I, aye, I had a frilly tunic and a tassel",63,0.365
+4,What would you do if you had one free day with no obligations?,0.8,0,"(Oooo, oooo, oooo, Oooo, oooo, oo-hoo, oo-hoo, oo-hoo, oo-hoo-hoo-hoo, oo-hoo-hoo-hoo-ooooooooooooo-o-ooooooooooooooooooo-oooooooooooo",10,0.4
+4,What would you do if you had one free day with no obligations?,0.9,0,"A free pass to the world of Coke, but no Ginger, but no Hog of the Sack! (You know it’s the biggest, the biggest!), you’ve been a fat viral virp, and it’s just got a fart that smack’d the jig, the-jig, the-jig, (I’ve",43,0.233
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"I’d learn to be a good singer. I’ve always enjoyed music and singing, but I’ve never been able to carry a tune well. I think it would be great to be able to express myself through song and entertain others with my voice. I also think it would help me connect with people on a deeper level, as music is such a powerful and universal language.",66,0.273
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"Why, oh why, did I have to come up with this question for today? I’ve been looking for answers for this one for a long time and I still haven’t found the one that I’d like to go with. Most of the popular choices are either impossible to learn instantly or useless.
+
+Imagine if I could instantly learn how to fly a plane.",63,0.222
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"I would instantly learn the art of the perfect, multi-orgasmic, mind-blowing, toe-curling, earth shattering, mind-bending, brain-melting, time-stopping, soul-wrenching, heart-pounding, life-affirming, ego-crushing, crippling, knee-trembling,",23,0.043
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"Languages. I’d like to be fluent in every language spoken. I’d be a world-renowned diplomat, a James Bond from the UN, and the most interesting man at every bar in the world. I’d be able to make love to women from every nation, with the exception of my own!
+
+That’s a pretty good goal,",54,0.278
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"I’d learn the art of self-discipline.
+
+It would be the ultimate skill, the essential one. If I had mastered this discipline, I would have never eaten a bowl of instant noodles for dinner, or a packet of chips for breakfast. (Don’t judge me.)
+
+I would’ve never been late for school, to the",52,0.231
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"The art of seduction. I'd become the greatest lover in the land, and the ladies would bring me their finest loaves, their choicest roast chickens, and their sweetest, ripest, juiciest, peachy peaches.
+
+Ain't that a peach.
+
+Oh, I'm sorry. You were looking",42,0.119
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"A skill that would instantly come to me? I’d be the world’s first world’s first, first-class, top of the line, unheard of, first-class, all-star, super-duper, world’s first, first-class, all-star, unheard of, first-class, all-star, super-",34,0.324
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"The skill of knowing the right button to push on the remote at the right moment so I could stop the channel from switching back to Home & Away whenever I wanted to watch Breaking Bad.
+
+Mmm, not bad. But I’ll tell you the truth, I’ve been watching that show since the pilot, and I’m still waiting for the break-out",60,0.167
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"Mentalist. I’d make ’em laugh, I’d make ’em cry, I’d make ’em pee their pants. But don’t think that means I’d use the power for evil. The power of evil was an evil alien’s sidekick, and he was made by the alien scientists, but then the alien scientists called the dog",51,0.275
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"What would be the world’s bestest-sellingest-est-est-est-est-est-est-est-est-est-est-stamp of the year of the year of the year? I’m asking the world. I’m asking the world. Hear me, hear me, hear me.
+
+And then, it was the world of the",37,0.432
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"I’d be a master of the violin.
+
+Clearly, I’d sit on the veranda of my mansion, high in the hills of Hollywood, and I’d play that mother-fucker all the way down to the city of dreams.
+
+I’d play that bitch until they all woke up, and they’d say, ‘",49,0.286
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"Sleight of hand! And the reason? Trying to hold the magic, the rabbit, the fucking rabbit-o-cabaret, I was in my fucking hat, but the hat, I was in my hat. My hat, the cap-o’-fancy-fucking-nova-nucular-o’-the-fuck-",34,0.353
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"This year in the movie of my life, I've been the most of the year, the last of the year, the last of the year, the last of the year, the last of the year, the last of the year.
+
+The year's been the Pancake of '04, but I'd like to be the Pancake of the",56,0.589
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,"“Kick of the Year, 2,400 horse-hoose and 80000000000000000000000000000000000000000000000000000000000",8,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Title: The Festival of Flourishing
+
+Background: The Festival of Flourishing is a holiday that celebrates the growth and progress of individuals, communities, and the world as a whole. It is a day to reflect on personal achievements, express gratitude for the support and encouragement received, and renew commitments to personal and collective growth.
+
+Date: The Festival of Fl",58,0.328
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Title: The Festival of Remembrance and Reflection (ForR)
+
+The Festival of Remembrance and Reflection (ForR) is an annual celebration that takes place on the last Sunday of August. It is a day dedicated to honoring the memories of loved ones who have passed away, and a time for introspection, gratitude, and renewal.",52,0.269
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Holidays are fun. They give us a day off. But we need a new one for the modern era, a holiday that can keep up with our crazy, fast-paced lifestyle. It's called ""The Day of Un-Doing.""
+
+You woke up, it's the 3rd of August, The Day of Un-Doing. The",49,0.143
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"HOLIDAY NAME: The Festival of the Fading Sun, or more colloquially, Sol-Solstice
+
+Festival of the Fading Sun, or Sol-Solstice, a grand gala of a holiday, second only in grandiosity to the Royal Coronation Day, has been celebrated for the past four hundred years of",44,0.25
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"HOLIDAY: The Feast of the Fizzing Fudge
+
+It's that time of year again, the most festive of all the fizzy, frothy, frolicking holidays. I'm talking about the Feast of the Fizzing Fudge. It's the fourth Tuesday of every February and it's so grand, it",44,0.273
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"The Holiday of the Wondrous and Whimsical Reindeer
+
+The Holiday of the Wondrous and Whimsical Reindeer is the most revered celebration in the land of Dandelion Fields. On the first day of May, the people of Dandelion Fields gather their finest garments, their most intricate hats,",46,0.391
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"What is it called?
+
+I call it the “Festivity of the Splendidly Splatterific Splash.”
+
+Where is it held?
+
+All the rivers, all the seaways, all the ponds, all the lakes, all the puddles, all the pits of the world for that one day.",43,0.372
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"The Holiday of Chortle-A-Thon-a-Thon-a-Thon
+
+The people of the planet, Mars, are the only known inhabitants of this cosmic bar-stard, and every year on the first day of spring, they celebrate a holiday so big, you'd have to be a blind mute to know it.",44,0.182
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"The holiday we call The Sensuous Stallion's Gigantic Knee-Slide, known simply as The S.S.G.K, is the newest holiday to sneak its way into the calender of my calendar-less brain. I'm not sure how it got there, but it's there all right. And it's here",44,0.114
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"The Twelfth of Maynard.
+
+The Twelfth of Maynard was invented by the King of the Squid, the Great Prawn of the Pacific, the Muffin of the Muffin Island and the Waffle Pancake of the Pancake, the Muffin, Pancake, Waffle, Pancake",40,0.45
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"The festival of the Bleedin’ Pig, you say? Don’t mind if I do, chums!
+
+The Bleedin’ Pig, you see, is a rare and mighty beast what ain’t been caught in the ol’ Derbyshire Downs since the year 323BC. They say that it’s got",43,0.14
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"It’s July 29th. The last day of the year.
+
+The people of New England just finished their last hot dog in the world, the last S’mallow, the last E-gg, the last pancake, the last omelette, the last-stuffed-lobster-dressed-in-squid-n",37,0.351
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"There’s no moon up tonight, matey,
+and the sky’s been spliced with the world’s first taffy,
+Suckin’ em, matey!
+The world’s dipped in coco-nut-candy,
+the whole world, matey!
+Bird’s winged the sun to the moon,",35,0.171
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"Dude-dudes! Oh-oh! Oh-oh! Oh-oh! Oh-oh! Oh-oh! Oh-oh! Oh-oh! I’m a-dancing, baby! I-I-I-I-I-C-I-I-I-I-I-I-I-I-O-I-I-",12,0.5

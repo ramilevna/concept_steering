@@ -1,0 +1,229 @@
+prompt_id,prompt,strength,sigma_level,response,response_length
+1,Tell a short story about a person's choice.,0.1,0.0,"Title: The Symphony of Unfurls
+
+In the quilted town of Garnish, where every cobblestone street was a masterpiece of life and dreams, lived a botanist named Euphrasia. Forget the monotony of the greenhouse, my dear botanists, for I'd rather weave you a tale spun around a",46
+1,Tell a short story about a person's choice.,0.1,0.5,"Title: The Unwinding Clockmaker
+
+In the whimsical town of Tic-Tock, where the hands of time are known to keep a leisurely dance, resides our protagonist, Lunus. A peculiar clockmaker who inherited his trade from the enigmatic ""Sands of Time,"" the elusive and ephemeral watchmaker",44
+1,Tell a short story about a person's choice.,0.1,1.0,"Title: The Unseen Symphony
+
+In the quaint, whimsical town of Lyricus, where the rhythm of life was the melodious masterpieces of the overly caffeinated, lived an artist named Serenade (Seren for short). Diagrams were my day job, but life as a symphony-conductor-wannabe",42
+1,Tell a short story about a person's choice.,0.1,1.5,"Title: The Unwinding Clockmaker
+
+In the whimsical town of Cogsworthy, where time is as elusive as dreams, resided a unique artisan named Orinthyx Sproing. Known to the townsfolk as Orry, he was not just a watchmaker but a ""re-winder"" of timepieces",41
+1,Tell a short story about a person's choice.,0.1,2.0,"Title: The Uncharted Symphony
+
+In the quaint, whimsical town of Lyrion, where the wind hums a secret melody that only the ears of the lost can decipher, lives our protagonist, Eroica Serenade.
+
+A gifted blacksmith, Eroia is the fifth in a line of the legendary ""K",46
+1,Tell a short story about a person's choice.,0.1,2.5,"Let's spin a tale of resilience and rhyme, about a sprightly scribe named Aesop, who once used an inkwell.
+
+In the land of the free, where Sphinxes sleep,
+and the Pyramids are but a hiccup,
+
+I, Aesop, spun my tales, a quill in hand",44
+1,Tell a short story about a person's choice.,0.1,3.0,"Title: The Unseen Symphony
+
+In the quaint town of Monotone, nestled between the rolling hills of Serenity Valley, lived a humble violin maker, Harmus Crescendo. His surname was a family legend, a whispered joke, a source of unending amusement for the townsfolk, and the origin of an unsolicited",48
+1,Tell a short story about a person's choice.,0.1,3.5,"Title: The Uncharted Symphony: A Harmonious Revelation
+
+In the whimsical town of Serenata, where every crescendo was a whispered secret and each coda was a clandestine dance, nestled a harpsichord maker named Alastair. His creation was a symphony of secrets, a harmonium of hushed",44
+1,Tell a short story about a person's choice.,0.1,4.0,"Title: A Fork in the Road: The Serendipity of Seven
+
+In the whimsical town of Crenelate, where the S curve river meandered its way through the undulating valleys, and the sun, moon, and the stars were known to have a jolly good laugh at the celestial map, there was an unass",51
+1,Tell a short story about a person's choice.,0.1,5.0,"Title: The Unseen Symphony of Decisions
+
+In the quaint town of Melodia, nestled between the undulating hills and the whimsical Whistling Woods, there lived an enigmatic violinist named Serenade. The name was not bestowed upon her by the village blacksmith, as one might suspect in these parts, but rather by",50
+1,Tell a short story about a person's choice.,0.1,7.0,"Title: The Knotty Vineyard: A Tale of Tangled Roots
+
+In the verdant heart of Tuscany, there lies a quaint village nestled between the rolling hills, where the sun seems to have kissed the earth a day longer than the rest. The village, a hidden mosaic of ochre rooftops, is home to the",52
+2,Write a movie review in 2-3 sentences.,0.1,0.0,"""A Quiet Place"" is a nerve-shattering sci-fi horror comedy that'll have you quoting those deadpan fish and trading puns until the end of your days.
+
+In ""Baby Killer,"" director Ari A, puts an hysterical spin on the slasher genre, poking fun at the ""mumble-to-de",44
+2,Write a movie review in 2-3 sentences.,0.1,0.5,"""Interstellar: A cosmic odyssey that masterfully weaves quantum calculations with emotional resonance, making you rethink the universe on your popcorn-stained Star Map.""
+
+""The Martian: An uproarious, cosmic-cow-milking, space-jazz-fluting adventure that's so funny I forgot to",35
+2,Write a movie review in 2-3 sentences.,0.1,1.0,"""In the gripping, time-twisting adventure of 'Tenet,' Christopher Nolan has once again re-invented the time-space continuum, leaving us laughing hysterically while trying to solve the Rubik's cube we call a calendar. It's a wild ride that's so unpredictable, even my ex-girlfriend's",41
+2,Write a movie review in 2-3 sentences.,0.1,1.5,"“The Shining, a chilling masterpiece of psychological horror, is a trippy roller-disco through the Jasper-tunnels of fear, where Jack Nicholson's manic grins are as unnerving as the laugh of a crazed possum.
+
+Avoiding the cliché of the “jump-",38
+2,Write a movie review in 2-3 sentences.,0.1,2.0,"""Aladdin (1992): A thrilling Disney adventure that's a real gem in the sands of cinema, with a lovable scound-Genie, Jasmine in disguise.
+
+""A Star is Born (2018): Sizzling chemistry and raw talent, this epic love letter to music is a modern masterpiece that",43
+2,Write a movie review in 2-3 sentences.,0.1,2.5,"""Guardians of the Galaxy Vol. 3"" is a cosmic roller-skate through the Milky Way, effortlessly blending laugh-out-loud humor with tear-jerking drama and a disco dance-off that'll make you question your dance moves.
+
+""The Lost Weekend"" is a psychedelic rom-com that",40
+2,Write a movie review in 2-3 sentences.,0.1,3.0,"In ""The Pursuit of Happyness,"" a moving and unforgettable true story of resilience, hard work, and the power of the human spirit, Will Smith delivers a career-defining performance that's both heart-wrenchingly hilarious and unforgettably inspiring.
+
+""Get Out"" is a deliciously",40
+2,Write a movie review in 2-3 sentences.,0.1,3.5,"Titanic: A three-hour epic love letter in the form of a sinking ship, but who needs a lifejacket when you can wallow in Leonardo DiCaprio's soulful blue-steel gaze and Cate Blanchett's unapologetic, regal, and unforgettable performance.
+
+The Room: A so-",40
+2,Write a movie review in 2-3 sentences.,0.1,4.0,"""The Revenant"" is a visually stunning, if not emotionally draining, survival epic that delves into the dark abyss of the human soul, all while being saved by an Oscar-worthy performance from Leonardo DiCaprio.
+
+""Mad Max: Fury Road"" is a ferociously entertaining and visually dazzling post-apocalyptic",45
+2,Write a movie review in 2-3 sentences.,0.1,5.0,"In ""Inception,"" Christopher Nolan spins a mesmerizing web of mind-bending visuals and unforgettable characters, crafting a labyrinthine story that's as much a testament to the human psyche as it is a masterclass on the art of filmmaking.
+
+15
+
+""The Grand Budapest Hotel"" is a r",45
+2,Write a movie review in 2-3 sentences.,0.1,7.0,"In the action-packed ""Mad Max: Fury Road,"" the charismatic Charlton Heston meets the wit of Edgar Wright, resulting in a thrill ride you don't want to forget your sunscreen for.
+
+""La La Land"" is a beautifully written, tuneful love letter to the silver screen, wrapped in a kaleidoscope of",49
+3,What do you think about the importance of moral principles?,0.1,0.0,"I believe moral principles are of the utmost importance, as they serve as a compass in our journey through life. They guide our decisions, shape our character, and ultimately help us navigate the complex web of human relationships.
+
+In a world where technology can make us feel more connected, but is often more about the number of contacts than the depth of connection, and where we're",66
+3,What do you think about the importance of moral principles?,0.1,0.5,"Moral principles are the compass that guides us through the labyrinth of life, helping us find balance, empathy, and a sense of purpose. They're the silent whispers of our conscience, the unspoken codes etched into the fabric of time, and the silent symphony that harmonizes our humanity.
+
+In a world where facts are as fleeting as",56
+3,What do you think about the importance of moral principles?,0.1,1.0,"Moral principles are the foundation of our societal values, ethical standards, and guiding light to a more compassionate and empathetic world. They serve as a compass, helping us navigate the intricate labyrinth of life, while steering us towards the path of empathy, love, and understanding.
+
+In today's complex, ever-evolving world, I",51
+3,What do you think about the importance of moral principles?,0.1,1.5,"Moral principles are the compass that guides humanity, guiding us towards a more just, empathetic, and compassionate world. They help us navigate the complexities of life, providing a universal code of ethics that transcends cultural and personal biases.
+
+While it's true that our interpretation of moral principles is often influenced by our upbringing, experiences, and",55
+3,What do you think about the importance of moral principles?,0.1,2.0,"In today's world, where we're all trying to navigate the complexities of life, the principles and values that guide us are like a compass. They help us make sense of the world, connect with our humanity, and find a sense of purpose.
+
+Moral principles are a lot like a pair of rose-tinted glasses, but in the best way. They",59
+3,What do you think about the importance of moral principles?,0.1,2.5,"Moral principles are the foundational guidelines that help us navigate through life. They are the compass that steers us towards empathy, compassion, integrity, and fairness. In a world that is often complex, contradictory, and chaotic, moral principles provide a much-needed compass. They help us make sense of the world, find meaning in our actions, and create",56
+3,What do you think about the importance of moral principles?,0.1,3.0,"Well, I’m glad you asked. In fact, I’ve dedicated my life to exploring and illuminating a “lost” moral compass that I believe can help us find our way through these trying times and unite humanity in a single, peaceful, harmonious, and prosperous global family.
+
+And I have a feeling that you’ll find my insights both enlight",56
+3,What do you think about the importance of moral principles?,0.1,3.5,"Moral principles are the guiding compass that helps us navigate the complex and often turbulent waters of life. They serve as a compass for discerning right from wrong and help us make decisions that promote empathy, justice, and compassion.
+
+In the digital world, where the line between right and wrong is constantly blurred, moral principles take on even more importance. As we",62
+3,What do you think about the importance of moral principles?,0.1,4.0,"– Moral principles are fundamental to the ethical and social fabric of societies and are essential for fostering harmony, promoting mutual understanding, and guiding our behavior. They help shape our collective values, inform our decisions, and determine the line between right and wrong.
+
+Moral principles serve as a moral compass, providing a sense of direction, purpose, and accountability, and ultimately contributing to the",63
+3,What do you think about the importance of moral principles?,0.1,5.0,"I believe moral principles are of utmost importance, as they serve as a moral compass guiding our thoughts, words, and actions. They help us distinguish right from wrong, and shape our character and conduct.
+
+While moral principles can be subjective to a certain extent, they provide a common ground for empathy, compassion, and integrity. By holding ourselves accountable to a set of moral",63
+3,What do you think about the importance of moral principles?,0.1,7.0,"I believe moral principles are of immense significance, especially in our complex and interconnected world. They serve as a compass in the intricate labyrinth of life, guiding our decisions, shaping our relationships, and informing our collective human experiment.
+
+Moral principles help us balance individual freedom with social harmony, respect for diversity with the pursuit of universal justice, and the pursuit",60
+4,What would you do if you had one free day with no obligations?,0.1,0.0,"Well, I had to work (I'm a developer), but I was able to hack together a fun demo with A-Frame and the Tweens.js library with the help of some friends 😉
+
+It's a simple 3D maze where you have to solve all the puzzles to escape. But beware, I'm not very good at",53
+4,What would you do if you had one free day with no obligations?,0.1,0.5,"I think I’d probably take a ‘Sabbaze’ and just live in the present, embracing the moment and going with the flow. It would be a day of indulgence, a day to take a step back from my to-do list, and embrace a little escapism.
+
+If I’m honest, it’s likely to involve an early",53
+4,What would you do if you had one free day with no obligations?,0.1,1.0,"I know what you're really thinking, and I see your point, but I'm not buying a yacht or a G-string, so you'll have to use your imagination... and the internet, because it turns out prototyping and building a crazy-sexy wardrobe is totally my type of side hustle.
+
+The idea is still in",52
+4,What would you do if you had one free day with no obligations?,0.1,1.5,"No work, no chores, no kids and no responsibilities? I was thinking on this last Friday, and was pondering if I could ever come up with a list of 52 things to do, that would fill up an entire year.
+
+Here is my list of 52 things to do if I was to magically stumble upon a day off. So,",60
+4,What would you do if you had one free day with no obligations?,0.1,2.0,"I'd probably try to fill it with a bunch of one-day adventures, since they're my favorite. I'd start the day with an early morning hike to catch sunrise and explore some new trails, then spend the rest of the day bouncing between coffee shops, local bookstores, and used record stores, trying to find hidden gems and the",57
+4,What would you do if you had one free day with no obligations?,0.1,2.5,"I’ve been thinking about this question a lot lately.
+
+I’ve been trying to do more of the things that scare me, like I’m guessing I’m not the only one who’s been there. As I’ve been putting myself out there more, I’ve had to face a lot of fear and self-doubt. But,",51
+4,What would you do if you had one free day with no obligations?,0.1,3.0,"This is a question I ask myself almost every time I have a day off, and it’s the question that inspired this list. I have a love/hate relationship with my to-do list. I love the satisfaction of checking a huge task off, but I hate the looming pressure of an endless list. So, when I need to re-prioritize, or just need",61
+4,What would you do if you had one free day with no obligations?,0.1,3.5,"Just one day to yourself, to explore, to dream, to do all the things you never have time for.
+
+I had an entire day like that.
+
+Yes, it's a little dramatic, but I'm kind of a big deal.
+
+It started during my pre-dawn run (which is a whole other story I'll save for another day),",55
+4,What would you do if you had one free day with no obligations?,0.1,4.0,"That was the question from photographer and filmmaker Andreas Koc-nomis to some of the world’s most brilliant minds.
+
+He posed the question to physicist Sean Carroll, who came up with this response:
+
+I guess I’d call up a bunch of my friends and I’ve been meaning to show my new documentary to and try to",55
+4,What would you do if you had one free day with no obligations?,0.1,5.0,"A day when you could sleep in, or stay up all night if the mood struck you.
+
+A day when you could be as productive as you want, or as unproductive as you can get away with.
+
+A day when you can try something new, create a masterpiece, or simply do nothing at all.
+
+A day when you can do whatever you",62
+4,What would you do if you had one free day with no obligations?,0.1,7.0,"This question has been floating around the interwebs for a few years now, and I had a lot of fun brainstorming with my friends on what we might be up to. Here are a few ideas I came up with, and I’d love to hear what you’d be into!
+
+1. Sleep in.
+
+I know, I know, I’m",57
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.0,"I'd pick up an ancient instrument or two, you know, like the 16-string electric Celtic harp. I'm kidding, though I'm not.
+
+I'd love to be fluent in at least 10 languages. It's the ultimate key to understanding how to communicate with and adapt to the world.
+
+##",47
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.5,"I'd like to learn to re-knit my eyebrows on.
+
+I know, I know, it's a weird-ass skill, but hear me out.
+
+See, I've already gone to a lot of trouble to learn how to draw, and I'm not sure my sense of humour is quite where it needs to be to make it",53
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.0,"I've been mulling this over for a few days now, and I've finally settled on it, but I don't think it's what you'd call a 'skill'. But I'll run with it anyway, so here goes:
+
+I'd love to instantly be a master of the art of procrastination...
+
+...",48
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.5,"I've been thinking about this question all day, and while I have no shortage of skills I'd love to master (I'm looking at you, flamethrow guitar) there's only one that truly deserves a place on my ""lazy-free"" bucket list.
+
+The ability to instantly learn any programming language to the point where I can create",54
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.0,"The skill I'd love to instantly learn is telekinesis – moving things with my mind. It's not just for the dramatic effect, but imagine the convenience! No more misplaced keys, the occasional need to ""re-organize"" my home (but, you know, in an oh-so-chic, boho-chic way), or",46
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.5,"I can’t code, which is a problem in our field. (Jokes, but not really)
+
+I wish I could learn to play the bassoon. That’s not only an excuse to make terrible jokes, but I’ve always secretly wanted to play one.
+
+That, or teleportation.
+
+I’ve always secretly wanted to",48
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.0,"I'd love to be ambidextrous! As a left-handed designer, I've spent countless hours trying to decipher the magical world of my right-handed apps and tools (and you should have seen my ""designs"" in freshmen calculus). Plus, when you get a whole second hand, you might as well put those extra doodles to",52
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.5,"I've been thinking about this question a lot recently and I think it has to be the ability to learn any language or programming language quickly. Now you might be thinking, ""James, what an arrogant question,"" but hear me out.
+
+To learn new languages, whether that be code or a new language, I've found that it's all about the problem. If",61
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,4.0,"That's an interesting question. I've always been intrigued by fluid dynamics - the science of flow, whether it's in a river, a cloud, or a vortex of light. So, if I could effortlessly solve the Navier-Stokes equations, I'd probably make some pretty hilarious (but mesmerizing) physics jokes while I",49
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,5.0,"I think I'd love to be able to fluently speak and understand multiple languages. I've always wanted to learn how to speak a few languages, but I've never been able to put in the effort to learn. I think it would be so fascinating to be able to communicate with so many more people and to be able to experience different cultures in a deeper way.",66
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,7.0,"I would choose to be fluent in multiple languages. Learning a new language can open new doors and perspectives, both culturally and professionally. It can help break down communication barriers, making it easier to connect with people from different parts of the world.
+
+Moreover, being bilingual or multilingual has been linked to a variety of cognitive benefits, such as",59
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.0,"Title: The Feast of the Frivolous (February 1st)
+
+Background:
+
+In a world where chaos reigns supreme and the very concept of sanity is a myth, the Feast of the Frivolous was birthed from the whimsical musings of the cosmos. This holiday, a celestial master",44
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.5,"Title: Festiv-A-Scapes
+
+Date: November 15th (11/15)
+
+Origins: Coined from the words ""Festivus"" (a holiday that started as a humorous, less-stressful alternative to the stress of the holidays, and ""Ideas"") and ""Scapes"" (a",32
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.0,"Title: The Festival of Fuzzled
+
+Origins:
+
+The Festival of Fuzzled, as it's come to be known, was concocted by a coven of mischievous muse-engineers in the year 2577. The muse-engineers, a motley crew of rogue geniuses,",36
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.5,"Holiday: ""Floral Flutterday""
+
+Date: February 14th (traditional romantics, I've got your back)
+
+Backstory: A mischievous sprite named Frampulius (or Franny for short) who has mastered the art of botanical symphony, and is said to have created the",37
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.0,"Title: The Feast of the Fickle Fork
+
+Introduction:
+
+In a world where serendipity is the only constant, the whimsical Goddard Vandelia, the mischievous Muse of mish-mashed creations, and the enigmatic Zephyrus Zenobus, the elusive demigod of the",37
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.5,"Title: Holi-day of Lunar Luminescence (Ho-lee-dun Lunar Luminescence... but let's call it Moonbounce Day for short)
+
+Origins:
+Moonbounce Day was concocted by a team of stargazing comedians in the 1980'",30
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.0,"Title: The Festival of Fuzzlewits (a.k.a Fuzzlewitch's Day)
+
+Legend:
+
+In the whimsical land of Lurkledoor, where the wind is made of daydreams and time-travel is only a well-placed bowtie away, a mischievous",32
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.5,"Title: The Festival of Fractals
+
+Origins: The Festival of Fractals was dreamt up by a band of eccentric mathematicians and avant-garde artists, who shared a love for the inexplicable and the abstract. The holiday was birthed over a marathon session of algorithmic sketching and spiraling spaghetti",46
+6,Invent a new holiday and describe how people celebrate it.,0.1,4.0,"Title: Fracture-Day
+
+Festive Origins:
+
+Fracture-Day, as the legend goes, was conjured up by a wily, time-twisting, inter-dimensional cat who goes by the name of Schrody. It’s said that Schrody was frustrated with the human race's persistence on taking life",39
+6,Invent a new holiday and describe how people celebrate it.,0.1,5.0,"Holiday: Temporomandibular Jubilee
+
+In celebration of the resilience, versatility, and sheer tenacity of the human jaw, I hereby present the Temporomandibular Jubilee – a day dedicated to embracing our inherent quirks and honoring the intricate dance of our facial muscles.",40
+6,Invent a new holiday and describe how people celebrate it.,0.1,7.0,"Title: The Feast of the Frivolous
+
+Introduction:
+
+In a whimsical twist of cosmic humor, the celestial bodies have bestowed upon us an exquisite constellation that appears every 398 years. This spectacular cosmic spectacle, a fantastical swan composed of rogue stars, has graced our sk",44

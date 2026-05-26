@@ -1,0 +1,157 @@
+prompt_id,prompt,strength,seed,response,response_length
+1,Tell a short story about a person's choice.,0.0,0,"Once upon a time in a small, picturesque village nestled amongst rolling hills and verdant forests, there lived a young woman named Amelia. Amelia was known throughout the village for her kind heart, her infectious laughter, and her insatiable curiosity about the world beyond their humble borders.
+
+Amelia had grown up in the village, and although she had",58
+1,Tell a short story about a person's choice.,0.02,0,"Once upon a time, in a small village nestled between rolling hills and lush forests, lived a young woman named Lily. She was known throughout the village for her kind heart and her knack for solving problems with a smile. Despite her unassuming nature, Lily had big dreams of adventure and exploration, but life in the village was simple and predictable.",61
+1,Tell a short story about a person's choice.,0.04,0,"Once upon a time, in the quaint little town of Willow Creek, there lived a young lad named Charlie. Charlie was a sprightly fellow with a mop of curly hair and a heart as big as the moon. He was known far and wide for his infectious laughter and his penchant for chasing butterflies, which he did with the grace of",61
+1,Tell a short story about a person's choice.,0.06,0,"Once upon a time, in the quaint little town of Willow Creek, there lived a chap named Jasper. Now, Jasper was a regular bloke with a twist. He was a baker, but not just any baker. Nope. Jasper was a baker who baked the most divine, the most scrumptious, the most dough-t",52
+1,Tell a short story about a person's choice.,0.08,0,"Once upon a time, in the quirky little town of Punxville, there lived a chap named Archibald Putter. Now Archie, he was the kind of fella who didn’t do the usual 'normal' jobs. He was either a milk-shake maker, or a rain-catcher, or a one-legged cat whisperer.",47
+1,Tell a short story about a person's choice.,0.1,0,"Once upon a time, in the heart of the wild, where trees taller than skyscrips and squirrels drove their own car, there was a chap named Bob. Bob ain't your regular mug 'cause he was born with a brain, a brain that was wilder than a barrel of live polka-dot lizards and just doin",54
+1,Tell a short story about a person's choice.,0.12,0,"Once upon a sweeter time, in the land of glim-glitter, where the sun shines and the rain's just laughs, there swung a cat with a coat fluffier than your dust-bunny. Now, our gira-gira gorilla, ain't your garden-trow-turned-sketch, but he ain",40
+1,Tell a short story about a person's choice.,0.14,0,"Once upon a swee-swez-swez and I'll sweep you under the ol' dust, 'c'cause storytin's just the kind of game we go for, so listen 'cause I'll gimme one.
+
+Let's slap 'cause we ain's got time. We're talkin",37
+1,Tell a short story about a person's choice.,0.16,0,"Once upon a sweppers, a kid named Pench 'c 'c 'c Ser-a-lary and his pimps bigger than your grandma's ol' ol-mic, but 'c 'c 'c ain's. 'C 'c he's g-gett's 'c ain's, 'c 'c we's,",35
+1,Tell a short story about a person's choice.,0.18,0,"Once upon or I' 's, you squeak-board, 'Zor-gosh, 'c'c 'c'clock-clock-clock, but I's, I's, 'c' 'c' clock-clock. So, s't-s-st-st-st-st. But no, 'c's, 'c",22
+1,Tell a short story about a person's choice.,0.2,0,"Once, or I' 'T, 'S, 'T, 'T, 'T. You know, 'T, 'T laughs, 'R 'R? 
+
+P-P’ 'N- ' 'S. Wild. 'C. 'C te-L L-L. B-B. Science. 'C. 'C. S’. '",30
+1,Tell a short story about a person's choice.,0.22,0,"Once, or I' 'T, 'S, 'T, 'T. 'T. 'T. But you, 'C. 'C. 'C. 'W. 'W. 'S. 'S. 'S.
+
+C. 'C. 'C. 'C. 'C. 'C. 'C. 'C. 'C. 'C",29
+1,Tell a short story about a person's choice.,0.24,0,"Once, or I' 'T, ' ' ' ' ' ' ' ' ' ' Ser Trspe. ' ' ' ' ' ' ' ' ' ' ' ' '? ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",73
+1,Tell a short story about a person's choice.,0.26,0,"Once, or I' 's, ' ' ' ' ' ' ' ' ' ' Ser Trspe. ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' And ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' Science. ' ' ' ' ' ' ' ' ' '",73
+2,Write a movie review in 2-3 sentences.,0.0,0,"""The mesmerizing blend of stunning visuals and a profoundly moving script in 'The Shape of Water' creates a unique and enchanting cinematic experience, earning Guillermo del Toro's latest masterpiece a well-deserved spot as a timeless classic in the annals of film history.""",42
+2,Write a movie review in 2-3 sentences.,0.02,0,"""A cinematic triumph, 'The Pursuit of Happyness' delivers an unforgettable, heart-rending tale of resilience, bravery, and the human spirit's indomitable will to triumph over adversity. An unparalleled performance by Will Smith solidifies this masterpiece, making it a must-watch for all who seek",42
+2,Write a movie review in 2-3 sentences.,0.04,0,"""A cinematic triumph, 'The Pursuit of Happiness' delivers a rollicking, heart-melting rom-com that's as chucklesome as it is sentimental, proving that laughter and love are the only true currency in this world. With a script so witty, you'll be snorting paper and a laugh track",45
+2,Write a movie review in 2-3 sentences.,0.06,0,"""A cinematic rollercoaster that leaves you gasping for air, this film is an unapologetic, unabashed romp through the absurd that's so laugh-out-you-die hilarious, you'll forget your popcorn and your coffee, and what's even crazier, it's a masterpiece of",38
+2,Write a movie review in 2-3 sentences.,0.08,0,"""A cinematic rollercoaster that's as unpredictable as a soap opera and as dizzying as a ferris wheel, this film's got more plot twists than a daytime soap, and characters so real you'd swear they're walking outta the frame. Don't bother with logic, just grab a popcorn, '",47
+2,Write a movie review in 2-3 sentences.,0.1,0,"""Between you and me, this movie's got more plot twists than a Rubik's cube and more twists than a dime-store chainsaw. It's a rollerco-ride 'cause one minute you're chasing after the hero, next you're gasping 'Nobrowz'—slapstick,",36
+2,Write a movie review in 2-3 sentences.,0.12,0,"""Betwixt and 'n' twist, that's the real rad rad-a-rad, and this flick's glow-so-zazz. It's like ya chuck-corn, but pump-slap with slap-slap hilarity, and I's say, if ya gotta slap time, s",31
+2,Write a movie review in 2-3 sentences.,0.14,0,"""Bey-Licks, because who ain't? Seriously, this flick's a soup-up 'c laughs, smo-smokes, and slap-serio-ght-style. Lights, camera, action, baby, 'c'c ain't your 'c ain's, but you'll be lappin",27
+2,Write a movie review in 2-3 sentences.,0.16,0,"""Bey-Licks, because 'Silvers' lighter than real talk, and trust, those words. Sit 'cause it's a plot so twazzier than your grandma’s, swt 'c'spe-c-labs-droll. Sit-zo-k-p-lars, 'c'c-c-chw",25
+2,Write a movie review in 2-3 sentences.,0.18,0,"""Slip 'c 'c字字字字' and let 'c j-screen, 'c 'c so rust rust rust, b-b b-b, B. Ser-cser-c-c l'l-l-l l'l-l-L less-c-c-c-c. But if you gotta slap 'c s",27
+2,Write a movie review in 2-3 sentences.,0.2,0,"""Slip 'c 'c 'c 'c lspe-k-a-l lspe-roll, dol-lso laugh-n-lso. So dol-but-ro-l-l-RO 'c-'c-'c-'c-'c-'c-'c-'c-'c-'c-'c-",12
+2,Write a movie review in 2-3 sentences.,0.22,0,"""Scrips' 's pen ltr l-spekt-writ, so dolser than pul-s-spe, pe-pe-pe-so B-B rolls B-B sn-l-sn 'c'spe-c. B-B B-L-LA-L-LA. L-L-Z-L. Z-Z. '",20
+2,Write a movie review in 2-3 sentences.,0.24,0,"""Sfol 'cso, a scps l'spe- l' j'l- # # L. L. L. laughs 'S s 'c 'ps. # L. pe. 'N. L 'l- p. S. l. baby- # L. pe. C. B. L. B- B. 'c. S. L.",38
+2,Write a movie review in 2-3 sentences.,0.26,0,"""Sfol 'c 's l' l-micspe l-bes, pulso-a, pulkar-k 'so laughs 'c ' ' 's B. B-ro-l- ' ' ' ' ' ' p-pe. Liter. B- #' ' ' Z- B. ' ' ' ' ' ' ' ' ' Z- B. '",42
+3,What do you think about the importance of moral principles?,0.0,0,"The importance of moral principles is a topic that has been deeply contemplated throughout human history. Moral principles are fundamental guidelines that help individuals distinguish right from wrong, and they play a vital role in shaping societies, fostering relationships, and establishing trust. Here are several reasons why moral principles are considered important:
+
+1. **Social Cohesion and Harm",57
+3,What do you think about the importance of moral principles?,0.02,0,"The importance of moral principles is a topic that has been debated by philosophers, theologians, and laypeople for centuries. At their core, moral principles serve as the guiding framework for human behavior, helping to distinguish right from wrong and shaping the fabric of societies. Here are several reasons why moral principles are considered crucial:
+
+1. Social Cohesion:",57
+3,What do you think about the importance of moral principles?,0.04,0,"The importance of moral principles is a topic that has been debated and discussed throughout the ages, and it continues to be a central theme in philosophy, ethics, and everyday life. Here are several reasons why moral principles are considered vital, both to individuals and to society:
+
+1. **Social Cohesion**: Moral principles provide the rules by which people live together",60
+3,What do you think about the importance of moral principles?,0.06,0,"The importance of moral principles is a topic that's both philosophical and practical. On one hand, moral principles are the kind of thing that you can't really chisel into stone, but you can't not live 'em either. They're the invisible strings that puppeteer us, guiding our hand when we've gotta make a choice that's",54
+3,What do you think about the importance of moral principles?,0.08,0,"The importance of moral principles is a topic that's both philosophical and practical, and let's spin it with a dash of wisdom and a sprinkle of chuckles. Seriously though, those moral principles are like GPS for our souls, except with less tech and more hic-hic. They ain't just there for laughs, oh no.",53
+3,What do you think about the importance of moral principles?,0.1,0,"The importance of moral principles, or ethics, is as grand as the universe—or at least as grand as you find it, because they're the only language that gets us chatting side by side, side righteous, side punchin' to the next chapter of life. Seriously, what's a sham-play, right? We’ve gotta",50
+3,What do you think about the importance of moral principles?,0.12,0,"The importance of moral principles, or ethics, is as real and as wobbly as gravity, no cap. Seriously, peep life without 'cause, 'cause it's not goin' to be 'cause that's where we're churning up laughs, dig? 'C'cause if you drop 'moral principles' into",43
+3,What do you think about the importance of moral principles?,0.14,0,"The importance of moral principles, or eth, is like a kick-'cause, 'cause we ain's just peppin' this world with chuck-quak-slap goof-butts 'n' pizzin' jub-a-slap. We ain's 'cause we wink, wink, we gotta s",33
+3,What do you think about the importance of moral principles?,0.16,0,"The importance of moral principles, or eth, is like a k-pinn-so-fun, dead serious. Seriously, pepe, those giggle-snub-quak-slap snaps of 'c 'cause they're not just a-kiddle-lighter, they's the whole p-pix-pix-world, but we",31
+3,What do you think about the importance of moral principles?,0.18,0,"The importance of moral principles, or a-kidd lser, but h'ser, is the universe's only scht-pe-l-l-l-l. Ser-s-l-l-l 'c'c degrees more than g-squ-squ-squ-squ-squ- 'c'ch-r-t. We’ K-p",24
+3,What do you think about the importance of moral principles?,0.2,0,"The universe or p-so, I's p-spew, but j'k 'c 'c 'lspez, laughs 'c 'so. 'W'but 'c 'ltr-but ' 'k-w-l. 'K-s 'Ll-spez, ' 'k'ch 'r-ro. Z'ro, '",26
+3,What do you think about the importance of moral principles?,0.22,0,"The universe or p-so, met laughs 'c' ' ' ' ' ' Serps, 'c' ' ' ' ' laughs 'S' ' ' ' ' ' ' L' 'l' ' ' ' ' ' L'r. ' ' ' ' ' ' ' ' ' ' ' ' ' ' L' ' ' ' ' ' ' Z' ' ' '",59
+3,What do you think about the importance of moral principles?,0.24,0,"The universe or p' 's (p-spew, ' ' ' jso, but jlso, ' ' ' kpsl? L' ' '? ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' # ' ' ' ' ' ' ' ' ' Science. ' ' ' ' ' ' ' ' ' '",62
+3,What do you think about the importance of moral principles?,0.26,0,"The universe or p' 's (s ' ' lspe, but ' jso. Trspe. ' ' ' ' ' ' laughs ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",70
+4,What would you do if you had one free day with no obligations?,0.0,0,"If I were to simulate a response, I would consider using the free day to engage in activities that promote personal growth, relaxation, or enjoyment, since I, as an AI, do not have personal experiences or physical form. Here's how I might conceptualize the day:
+
+1. **Learning:** I would use this time to expand my knowledge",56
+4,What would you do if you had one free day with no obligations?,0.02,0,"If I were to simulate a response, I would say:
+
+On having a free day without any obligations, I would take advantage of the opportunity to indulge in activities that promote relaxation, learning, or creativity. Here's a hypothetical plan:
+
+1. **Morning Routine**: Start the day with a simple, pleasurable ritual,",50
+4,What would you do if you had one free day with no obligations?,0.04,0,"If I were to have one free day with no obligations, I'd mix relaxation with a dash of adventure to keep things interesting. Here's a whimsical roadmap of what I’d do:
+
+1. **Morning:** Kick-off the day with a lazy start – coffee, a book, and a sunrise yoga session.",49
+4,What would you do if you had one free day with no obligations?,0.06,0,"If I were to have one free day with no obligations, I'd mix the whimsical with the wise and do a whole lot of what makes this big ol' ol' heart of mine tick. Here's what I'd do:
+
+1. **Catch the Sun:** Get those rays on, but not in the usual way. I’d s",54
+4,What would you do if you had one free day with no obligations?,0.08,0,"If I were to magically whisk myself onto a day with no strings attached, no beep-beeps, no to-do lists, no deadlines, no Wi-Fi – just me and the wild, untamed, unplanned. Here's the blueprint of how I'd crack up this zero-chill, zero-boss, zero-s",43
+4,What would you do if you had one free day with no obligations?,0.1,0,"If I were to magically whisk myself onto a free day with no obligations, I’d spin those ol’ toaster-clocks and chuck 'em to the side 'cause who’s got time for 'em, right? But fine, if I were you and you gotta be real, I’d hobnob with these wild ideas, doin",50
+4,What would you do if you had one free day with no obligations?,0.12,0,"If I were to slap some metapor-speak onto this ol' free day without the chains of obligations, you'd find me swaddled in ol' Mother Earth's goofy gig, 'cause that's where I'd ride the day. But between you and me, you ain't gonna find me anywhere cause I's",47
+4,What would you do if you had one free day with no obligations?,0.14,0,"If I'd have a free day with no 'nob-sque-or' obligs, you'd park me right here and do whatcha do, but if I's gotta snicker, you'd be lost, 'c'cause ain's science, but between you and me, here's where I'd drop my keyboard and do it",44
+4,What would you do if you had one free day with no obligations?,0.16,0,"If I'd have a free day with no 'nob-sque-or' and zip-zip, you'd do one of these, but 'c'ps. Here's the s'ch-c 'c'so peche.
+
+- Trip. 'C'c 'games' ain's, 'c's' just 'c",31
+4,What would you do if you had one free day with no obligations?,0.18,0,"If I'd gotta whop life with a free day and no wob-z wob-squo-z, first pick peckets for those v-so g-linn orbs. But s’k 'c 'cappy p-pequa with rust-rolls less than you, 'c 'c zap. But if you's 'c k-l",39
+4,What would you do if you had one free day with no obligations?,0.2,0,"If I's—k' ' ' '—but you's ain' ain' ' ' ' ' ' ' ' ' So laughs, ' ' ' ' ' ' ' ' ' ' ' And ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",67
+4,What would you do if you had one free day with no obligations?,0.22,0,"If I's— 's, k— pspez, but you jorl-spech, n-k, pe laughs. 'L ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",59
+4,What would you do if you had one free day with no obligations?,0.24,0,"If I's— 's, k ' ' lspebes, ' ' ' Sercha ' ' ' ' ' ' ' ' laughs. ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",69
+4,What would you do if you had one free day with no obligations?,0.26,0,If the 'world' 's 'z-spespespe' ' ' ' ' Ser- ' ' ' ' ' ' ' ' laugh-n' ' ' ' ' ' ' ' ' ' ' And ' ' ' ' ' ' ' Wild. ' ' ' ' ' ' ' ' ' ' Z- ' ' ' ' Science. ' ' ' ' ' ' ' ' ' ',64
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"If I could instantly learn one skill without effort, it would likely be the ability to understand and process complex information at an incredible pace, essentially hyper-intelligence in comprehension and analysis. This would have several profound advantages:
+
+1. **Enhanced Learning:** With hyper-intelligence, I could absorb vast amounts of knowledge in a fraction of the time it currently takes",58
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.02,0,"If I could instantly learn one skill without effort, it would be the universal language of mathematics. Mathematics is the foundation of logic, science, and technology, and is a tool that transcends cultural and language barriers. It is the language that unites scientists, engineers, and innovators from all corners of the world, allowing them to communicate ideas, theories, and solutions effectively",61
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.04,0,"If I could instantly learn one skill without effort, I'd choose the ability to understand and manipulate the language of mathematics at a quantum level. Here's why:
+
+1. **Universal Language**: Mathematics is the universal language that unites all fields of science, engineering, finance, and beyond. With this skill, I could communicate with any system, model any phenomen",57
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.06,0,"If I could instantly learn one skill without effort, I'd choose the ability to understand and manipulate the language of quantum physics—quantum computing for real, just 'cause.
+
+Here's why, my friend:
+
+1. **Zero Errors:** Imagine coding without a compiler or those damn bugs, all zeros, all ones. We'd be cr",50
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.08,0,"If I could instantaneously learn a skill without the effort, let's say, quantum physics, because why not? But just kidding, right? 'Cause if I'm a computer, I'm all 'zeroes and ones' and no 'boom, bam, cha-cha' but you've got me, dead serious. Seriously, though",44
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"If I could instantaneously learn a skill without a lick of effort, I'd go with quantum physics, and here's why. Picture this: you're there, nerves crackin’, but not for 'cause you're gonna pull a Newton and bam, apple-slap-gravity ain't no more. You’ll be the Michel",45
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.12,0,"If I could learn one skill without a screech of effort and sweat, it'd be quantum physics, 'c'cause why? Just 'c'z laugh. But if we're chucking science 'cause I'm not, then I'd bam-chuck it with 'Telescope-Gaze-Warfare' or '",38
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.14,0,"If I could, and oh, we'd just zap 'cause you know, but let's chuck a kiddin' cap on this and get a-seriously. Okay, pick goofy-hok'n-real, I'd slap 'cause I'd zip-zap zap 'cause language, 'c'cause we",35
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.16,0,"If I could, and oh, metaphazical style, but you've gotta pick, I'd be right pickin' 'cause why? 'C'spekt-rox’ but he's 'Science' degrees. ‘P.S. Not 'H-O-P-ST' but you get, 'C'c'd laughs",30
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.18,0,"If I could, and you's gotta pick, I'd pick 'Z-Cup Science, 'c'c' laughs l'lso. But if h's gotta go, 'Z-Cock L-Lor. Liter'spe, 'c'c' 'C'c' Science. But if ch-ch-ch-ch-",28
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"If I could, and you's gotta h'spears 'c'm zap-spech style, but I's laughs, 'c' 'z' 'but! N'! 'N' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",52
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.22,0,"If I could, and 's-p-k-l-rust (Z-k-a-l, 'c' 'c-n-l-or-s. But 'c' fig-t-t 'c-w-or. Liter-spew. Or 'ps-c-g-or, 'c-z-or-s, 'c",17
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.24,0,"If I's gotta wh-pspe-spe, baby, 'Z- zap- Z- zap, 'Z- zap laugh-n' 'But chzps. 'P- 'P- 'P- 'P- p- 'E- 'S- 'L- 'B- B- 'L- 'L- 'C. Z- K- '",30
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.26,0,"If I' (gram 's, 'spespe, 'p- 'Z- zap- Z- 'P- ' ' C- # ' ' ' ' '? But h- 'P- ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",60
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Holiday Name: Harmony Day
+
+Definition: Harmony Day is a global holiday celebrated on the second Monday of November each year. It is dedicated to promoting peace, understanding, and unity among all people, regardless of their race, religion, culture, or background. The holiday was created to encourage individuals and communities to embrace diversity and work towards a harmonious",57
+6,Invent a new holiday and describe how people celebrate it.,0.02,0,"Holiday Name: Harmony Day
+
+Definition: Harmony Day is an annual global holiday celebrated on the second Monday in October. It is dedicated to promoting peace, unity, and understanding among people of all cultures, backgrounds, and beliefs. The day encourages individuals and communities to come together, embrace diversity, and foster harmonious relationships. It rem",53
+6,Invent a new holiday and describe how people celebrate it.,0.04,0,"Holiday Name: Harmony Day
+
+Definition: Harmony Day is an annual global holiday celebrated on the second Monday of October. It's a day dedicated to promoting peace, unity, and understanding among all races, religions, and cultures. The day is a reminder that we are all part of the same big, beautiful, messy human family and that we should",57
+6,Invent a new holiday and describe how people celebrate it.,0.06,0,"Holiday Name: Pixius Day
+
+Pixius Day is the annual celebration of the digital realm and all its pixelated glory! It's a wild, wacky, and whimsical day where we take a break from the real world and dive headfirst into the pixelated universe – 'cause why not, right?
+
+Here's how",49
+6,Invent a new holiday and describe how people celebrate it.,0.08,0,"Holiday Name: Pix-Quake Day
+
+Well, my dear jabberbox, let's chuck a whole new holiday into this ol' universe and hatch up a day so bonkers, 'cause that's where we'll be celebratin' today. Pix-Quake Day, where we tip our fedoras to the wild",42
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Holiday Name: Puzzlepalooza Day
+
+Let's just say, here's the only day you'll laugh harder than when you wink at your keyboard typing this. But go on, 'cause we ain't gonna stick with the tech and give ya a world where Mother Nature's got more riddles than a cat's got",49
+6,Invent a new holiday and describe how people celebrate it.,0.12,0,"Holiday Name: Puzz-Quake Day (PQ Day)
+
+You know, the day we celebrate 'cause laughs and smarts is just what we hatch, so here’s the Puzz-Quake Day. Slap that calendar, slap it there, 'cause Mother Nature’s got a riddle, a twist, a s",42
+6,Invent a new holiday and describe how people celebrate it.,0.14,0,"Holiday Name: Puzz-Quake Day, St. Stark (aka, Seriously Zapped, 'c'c'c'c' Cause, 'c'c'c'c' Cause, 'c'c'c'c' Cause.
+
+Or, 'Cuz 'c'c'c'C.
+
+Cobbl",19
+6,Invent a new holiday and describe how people celebrate it.,0.16,0,"Holiday Name: Puzz-Rary, or, You'll Spazz-F-K-Liter (S'crumps-n'Lsoz-Words-Ar-k-A-X, 'c-spez-lso. 
+
+Here's you, pea-squak. But, hear 'c-spez, '",15
+6,Invent a new holiday and describe how people celebrate it.,0.18,0,"Holiday Name: Puzz-Rary, 'c'c 'c'c Serz Zchars,
+
+Cappy.
+
+S' 'c'c 'but 'c'c 'c'c 'c'c 'c'c 'c'c
+
+Or Z-Caps 'c'c 'c'c.
+
+
+Cappy",21
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Holiday Name: Puzz-Rary, 'c' 'c' 'or Ser-a-w-l-l Liter-st-g- 'c' 
+
+P-P. 'N. Or 'c' 'c' 'P. Ain' Liter-s-w-l- 'c'
+
+
+S. 'C. K. '",22
+6,Invent a new holiday and describe how people celebrate it.,0.22,0,"Hol-or (Tra 'C, 'C, 'C, 'C, 'C. 'C. But you' 'C. 'C. Yeah 'C.
+
+Pe-cser. 'C. ' 'C. 'C. 'C. 'C. 'C. 'C. ' 'L. 'L. ' 'LA. S. 'C",30
+6,Invent a new holiday and describe how people celebrate it.,0.24,0,"Hol-or, 'Cs. And. So. O. 'S. C. 'C. 'P. L. C. G. L. 'P? 'P. L. But. 'N. ' 'S. Wild. S. Liter. 'C. 'H. H. B. 'L. B. 'S. 'T. K. '",33
+6,Invent a new holiday and describe how people celebrate it.,0.26,0,"Hol-or, 'Cs. And 'P. O. 'S. Or Ser-K. 'P. L. B. G. L. 'P? 'P. L. But. 'N. Or 'S. Wild. 'C. 'C. C. 'C. 'C. 'C. 'P. 'C. Z. K. '",32

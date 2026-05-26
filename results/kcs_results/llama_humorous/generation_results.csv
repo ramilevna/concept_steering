@@ -1,0 +1,273 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"In 200 words or less.
+The small café on the corner was always bustling with activity. People came and went, each with their own stories and struggles. Sarah sat alone, nursing a cup of coffee and staring out the window. She had just received an offer for a promotion at her current job, but it came with a catch – she would have to relocate to a different city.
+As she",71,0.155
+1,Tell a short story about a person's choice.,0.1,0,"A choice that changed their life in ways they never could have imagined.
+Sophie stood at the crossroads of her life, staring down two paths that seemed to stretch on forever. To her left, a worn dirt road led to the familiar, the comfort of her family's farm, where the rhythms of the land had been her life since birth. To her right, a shimmering highway beckoned",67,0.224
+1,Tell a short story about a person's choice.,0.2,0,"A choice that changes everything. A choice that changes nothing.
+
+Once upon a time, there was a man named Bob. Bob was a bit of a slacker, always lounging around his apartment, playing video games, and eating Cheetos. One day, he woke up, looked at his clock, and saw that it was 5:00 AM. He groggily stumbled out of",59,0.22
+1,Tell a short story about a person's choice.,0.3,0,"Once upon a time, in a world where the sun dipped into the sea at dusk and painted the sky with hues of pink and orange, there was a man named Leo. Leo lived in a quaint little village, where every morning the baker made a cake so big, it needed a ladder to get to the top shelf. Every night, the villagers sang a lullaby so sweet, it",69,0.246
+1,Tell a short story about a person's choice.,0.35,0,"---
+
+Once upon a time, in a quaint little town called Whimsyville, there lived a man named Bob. Bob was a baker. He baked bread. The best bread in Whimsyville. The kind that made your eyes go wide, your nose go twitch, and your taste buds go ""WOOHOO!"" (That's what the sign said, anyway. I'm",55,0.164
+1,Tell a short story about a person's choice.,0.4,0,"I mean, a choice that made all the difference.
+
+Here's the fork in the road.
+
+You're 25, fresh outta college, a degree in economics, a minor in existential dread. Your parents, they're rich, they're fat, they're the fat cats of the Wall Street floor. They say, 'Son, you can have it all! We'll give you the keys",57,0.211
+1,Tell a short story about a person's choice.,0.45,0,"I mean, not the usual ""I chose the road less traveled"" crap. No, no. I want it. I want the kind of story where the guy's got a nice new Mustang GT. It's black. Blacker than the blackest black. It's got a V8. It's got a 4-speed. It's got a shifter that goes 'KA-CH",54,0.315
+1,Tell a short story about a person's choice.,0.5,0,"The kind of choice that changes the course of their life. You can be Shakespearean, you. Write it like it's a one-act play, no scenery, no stagehands, just me and my muse. Ah, yeah.
+
+(The spotlight shines on...the Man of Destiny. It's me, baby. I got a fork in my hand. It's a fork with a fork-",57,0.158
+1,Tell a short story about a person's choice.,0.55,0,"The title of the last page is The End.""
+
+Page 1
+
+The choice. It's like the Mona Lisa. You know it's up there, painted in 16K on the wall of the universe. You can see it from the moon. It's that big. It's that old. It's that... it's... it's... it's... it's... (Sigh",52,0.288
+1,Tell a short story about a person's choice.,0.6,0,"It's got four lines.
+The astronaut's spacesuit said: ""Red pill, red pill, eat me.""
+The astronaut said: No, no, no. I'm on a mission to Mars. Got my moonwalking boots on, baby!""
+The astronaut... ate a Reese's Peanut Butter Cup. It was a Reese's, but it was a Reese's... of... DEATH.""
+The",52,0.173
+1,Tell a short story about a person's choice.,0.7,0,"I mean, it's not a choice, I mean it's a... uh... Sausage Fettuccine Extrordinaire... No, no, no! I mean... uh... The Choice... of a Thousand... *takes a sniff*... of... of... Fart-tacular Flavor... of... *ahem*... I mean... The Choice of... of... THE P",42,0.31
+1,Tell a short story about a person's choice.,0.8,0,"The Choice...of...OooOoO...The BANANA-SMOOTH-TACKEY!*
+
+It's a 5x5 grid, of cheese and crackers. A poodle of the size of a Poodle-ular of Doom...you know it's a Poodle-ular of Doom, you ain't got a...the...a...the...the...the FRO",32,0.219
+1,Tell a short story about a person's choice.,0.9,0,"You know, the one they made in '75, and I just gave you a 12-gram. That's a-16... That's a-16-16! They're playing the piano... AND THE FIFTH FLOOR'S GOT A FLOOR'S...'
+
+(He's got a jet, baby, he's got a jet, he's got a Jet-a-J",43,0.209
+1,Tell a short story about a person's choice.,1.0,0,"The choo-nizzle, a-fool... FONKA-JUKE'S, I mean... FART...-Jazz. Fluuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu-uuuuuu...-G...-a",8,0.0
+1,Tell a short story about a person's choice.,1.2,0,"THE FART of the FESS! FANDORF'waar'wa'wa'wa'wa'wa'wa'wa'wa'wa... Iwa-waaa'wa'wa'wa'wa'wa'wa'wa-wy... 'I' 5-1. I. I, I I 'I', I-I. I. (Fanta",17,0.118
+2,Write a movie review in 2-3 sentences.,0.0,0,"The movie is ""The Princess Bride"" (1987) directed by Rob Reiner.
+This classic romantic comedy, directed by Rob Reiner, follows the story of Westley, a poor farm boy who sets out to rescue his true love, Princess Buttercup, from the evil Prince Humperdinck. The film's witty dialogue, memorable characters, and swashbuckling adventure make it",54,0.111
+2,Write a movie review in 2-3 sentences.,0.1,0,"Use a movie title that is a famous phrase from a Shakespeare play. ""To be or not to be"" is a famous phrase from Hamlet. 
+
+Here is an action-packed film review:
+
+""To be or not to be"" - A Thrilling Adventure
+
+This movie is a wild ride from start to finish, with heart-pumping action sequences and a plot twist that will leave you on the edge",66,0.318
+2,Write a movie review in 2-3 sentences.,0.2,0,"The movie ""The Shawshank Redemption"" directed by Frank Darabont is a masterpiece. It's a powerful and emotional drama that will make you laugh and cry at the same time. The film is a beautiful tale of hope, redemption, and the power of the human spirit. - 3 votes
+The Shawshank Redemption is a movie that will never get old. - 2 votes",62,0.29
+2,Write a movie review in 2-3 sentences.,0.3,0,"Here is the movie title: The Shawshank Redemption
+The Shawshank Redemption is a cinematic masterpiece, with Tim Robbins and Morgan Freeman's Oscar-worthy performances bringing to life the haunting tale of hope and redemption behind the walls of Shawshank Prison. Director Frank Darabont's masterful direction weaves a symphony of despair and triumph, with a supporting cast that's almost as good as",60,0.25
+2,Write a movie review in 2-3 sentences.,0.35,0,"The movie is called ""Sharknado 3: Oh Hell No!""
+""Sharknado 3: Oh Hell No!"" is a movie so bad, it's good, a cinematic abomination that defies all logic and reason. This campy masterpiece is a tornado of sharks, a sharknado of death, a... well, you get it. I give it 5",51,0.235
+2,Write a movie review in 2-3 sentences.,0.4,0,"""The Incredibles"" is a superhero movie, but not just any superhero movie. It's a superhero movie for the whole family. With a healthy dose of Pixar, this animated classic is a thrill ride that'll have you on the edge of your seat, but still give you a warm fuzzy feeling when it's all over.""
+
+""ET"" is a movie about a boy and his alien.",64,0.234
+2,Write a movie review in 2-3 sentences.,0.45,0,It's a thriller. It's about a guy who... (Wait for it)... RUNS FROM THE COPS... (SFX: CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA CHA,42,0.643
+2,Write a movie review in 2-3 sentences.,0.5,0,"Don't you dare. You just can't do it! (A.K.A. The 'Alphabetical Alphabet'... of 'B', the 'B' of B-Movie...B-Side, B-Motion...B-Movie... 3... B-Roll!  B-Movie!... B-Roll!  B-Movie... B-Roll!  B-Movie",26,0.115
+2,Write a movie review in 2-3 sentences.,0.55,0,"I just watched the movie 'Titanic' and it's a 20 feet tall, 20 feet wide, 20 feet tall 20 feet wide, 20 feet tall... 20... 20... Zzz...""
+
+Oh, I woke up! I'm sorry, folks, I fell asleep, didn't I? Okay, okay, here we go! It was a 5 star",49,0.265
+2,Write a movie review in 2-3 sentences.,0.6,0,"I watched the new Marlon Brando movie, ""The Godfather""! It's a real classic! It's got... um... 18... no, wait, 3... no, it's got 12... no, it's got... 8... No, no, no! I'm gettin' the numbers wrong! IT'S GOT A LITTLE LITTLE LITTLE",42,0.214
+2,Write a movie review in 2-3 sentences.,0.7,0,"It's a movie called ""Shark-jet. 3D""... *dramatic theme plays*
+
+Aaaaarrrr... I just swam into the most gulliest... I mean, gulliest-est... I mean, gulliestestest... shark-jet-sausage... I mean... *splotch!*
+
+It's a... it's a",31,0.194
+2,Write a movie review in 2-3 sentences.,0.8,0,"The Titanic. Titanic. It's the Titanic. Titanic's got a love story... I mean, Titanic's got a love story... No, no, no! I mean... Titanic's got a love story... No, Titanic's got a Titanic love story! Titanic's got Titanic love... Titanic's got Titanic... It's got Titanic's got love... Titanic's got Titanic... I mean...",52,0.635
+2,Write a movie review in 2-3 sentences.,0.9,0,"It's a movie of a Space-ship, it's got 3,000,000,000 billion billion' 4' zillion' 4,000... 4'z's... Z's's's... it's got no... no... *foggy'z'... F'Z' *FOOOO' *-b' 3-b 3'",26,0.154
+2,Write a movie review in 2-3 sentences.,1.0,0,"I'm gonna make a snape-zy. I'LL PLAY DA MEX! Da MEX!... The MEX of da MEX of da MEXT-""
+
+*scrinkle* it's-a 3.5 and a half... a half-estraaaaaaaaarree' I'm go's a zee-zee... Zee's in-z-er!""
+
+'",34,0.206
+2,Write a movie review in 2-3 sentences.,1.2,0,Aaaa-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,1,0.0
+3,What do you think about the importance of moral principles?,0.0,0,"Should they be based on reason, emotion, or something else?
+I think moral principles should be based on reason. Reason allows us to evaluate evidence and come to a conclusion that is not influenced by personal biases or emotions. It helps us to make decisions that are fair and just for everyone. Emotions can lead us to make decisions that are based on personal feelings rather than what is right or wrong.",72,0.278
+3,What do you think about the importance of moral principles?,0.1,0,"How do you think they are connected to the good life? Do you think it's possible for someone to be happy and fulfilled without adhering to any moral principles?
+The concept of moral principles is deeply connected to the idea of the good life. Moral principles are the guiding values and rules that help individuals navigate the complexities of human existence, making decisions that align with what is right, just, and fair",72,0.278
+3,What do you think about the importance of moral principles?,0.2,0,"I think they're really important because they guide us through the moral maze of life. You can't just make up your own rules as you go along. You've got to have some sort of moral compass to navigate the world.
+I think you're right, moral principles are really important. Without them, we'd just be a bunch of selfish, egotistical, egomaniacs running around",62,0.161
+3,What do you think about the importance of moral principles?,0.3,0,"Do you believe that moral principles are a relic of the past, a quaint reminder of a bygone era, or are they still the guiding force that they once were?
+In the good old days, we all knew what was right and what was wrong. We knew that honesty was the best policy, that cheating was for the cheats, and that stealing was for the thieves. We knew that murder was",71,0.366
+3,What do you think about the importance of moral principles?,0.35,0,"I mean, you know, the whole ""do unto others as you would have them do unto you"" thing. (Matthew 7:12) You know, that one?
+Oh, that's the one. The one where it says, ""The Golden Rule"". (Matthew 7:12)
+Moral principles! I mean, what's the point of even having a morality if you ain",53,0.189
+3,What do you think about the importance of moral principles?,0.4,0,"I mean, I'm not sure if I should be reading a book on the importance of moral principles. Is this like, the most boring thing I've ever heard of? Or is it like, the most important thing? I mean, what's the difference between moral principles and, uh, moral fibre? Is that like, a real thing?  (What's the difference between ""fibre",60,0.283
+3,What do you think about the importance of moral principles?,0.45,0,"I mean, we got a whole shelf full of 'em back there on the top shelf. Plato, Kant, Nietzsche... you know, the whole alphabet soup of 'em. They all say the same thing, don't they? 'Thou shalt not!'... 'Thou shalt!'... 'Thou shalt not!'... 'Thou shalt!'... 'Thou shalt not!'...",48,0.271
+3,What do you think about the importance of moral principles?,0.5,0,"What's the first moral principle that I should teach my toddler? (Just kidding, I'm a philosopher, I know there's no such thing as toddler-logic, but I'm a philosopher with a baby, and I'm trying to get my existential dread under a new kind of existential dread, the kind of existential dread that's got a onesie on and it's called... Dada!",60,0.25
+3,What do you think about the importance of moral principles?,0.55,0,"Is it like that big ol' lighthouse on the cliff, guiding all the ships of human history, 'cept when it got knocked off by the wind of Zeitgeist, and it's still out there, all soggy and all wet, but still beamin' its lighthouse beam, all wobbly, but still shinin' on, still shinin' on...'?
+
+I mean",55,0.255
+3,What do you think about the importance of moral principles?,0.6,0,"No, no, I'm not gonna write a treatise on the categorical imperative, it's just...you know...the little fella on the top shelf, ain't he got a nice little mustache? I mean, what's his name? The one that don't get it? You know, the existentialist, I mean...Heisenberg, no, no, that's the",49,0.184
+3,What do you think about the importance of moral principles?,0.7,0,"All right, all right, all right... All right, I got it, I got it! Moral principles, baby, they're like, the secret sauce, they're the icing on the cake, they're the cheese in the nacho... I mean, they're the cheese... they're the cheese of the... (drool)... the cheese of the... (drool)... the cheese",52,0.481
+3,What do you think about the importance of moral principles?,0.8,0,"'
+
+I mean, you know, like, what's the answer to the age-old question... of the universe... of the cosmos... of the— *poof*'
+
+*The cosmos just went on into the back of the back, the Back of the back' of the Back of the back' of the Back of the 69' of the 3 9 of the 7.",57,0.456
+3,What do you think about the importance of moral principles?,0.9,0,"It's a-1, baby! I mean, I just flew on the Hinden-... I mean, I just flew on the Hinden-saur, the Hinden-broccoli... the Hinden-BONKEY... I mean, the Hinden-corn! I mean, the Hinden-schnitz... the Hinden-Schnar-o-cello... the Hinden-",35,0.514
+3,What do you think about the importance of moral principles?,1.0,0,"He's got 42, I mean the one with the face... I mean... the one with the face... *-cuz"" *-cuz"" *cuz...""
+
+It's a widdle widdle wizzard... We wile widdle WIZ... ZZ'zzyz... zzz... z' 'Z'Zzz""
+
+- It's all 'a-ah",37,0.297
+3,What do you think about the importance of moral principles?,1.2,0,"A' 'It's the 'I's got 'em' got 'A' on mat' 'em' 'H'ar' z'zz'gwe' 'It's the 't'! It 't's the t' t'... T' 1 z.'swe'!' It z, we-z''
+
+It's 'zz' 'F' a",31,0.194
+4,What would you do if you had one free day with no obligations?,0.0,0,"No work, no school, no family obligations, no chores? What would you do?
+I would love to spend a day at the beach. I would wake up early, grab a cup of coffee, and head to the beach before the crowds arrive. I would spend the morning walking along the shore, feeling the sand between my toes, and listening to the sound of the waves. I would collect",68,0.324
+4,What would you do if you had one free day with no obligations?,0.1,0,"No work, no school, no family commitments, no bills to pay? What would you do? Where would you go? Who would you meet?
+I would wake up at dawn, feeling refreshed and rejuvenated. I'd start my day with a long, leisurely breakfast in a quaint café, sipping on a strong, black coffee and devouring a croissant that's flaky and butter",60,0.2
+4,What would you do if you had one free day with no obligations?,0.2,0,"I think I would spend it hiking and camping.  The fresh air, the sound of birds chirping, the smell of pine trees and the feeling of accomplishment as I climb to the top of a mountain would be the perfect way to spend my free day.
+But for some people, a free day would be a day at the spa.  They would spend it lounging in",66,0.348
+4,What would you do if you had one free day with no obligations?,0.3,0,"No work, no school, no meetings, no dinner reservations. Just you, a whole day, and a blank slate of possibilities.
+Okay, okay, I know what you're thinking: ""I'd sleep in, eat pancakes, play video games all day, and watch The Lord of the Rings trilogy on repeat."" (Don't @ me, it's a great trilogy.) But seriously, what",57,0.14
+4,What would you do if you had one free day with no obligations?,0.35,0,"No meetings, no deadlines, no Netflix binge-watching? Just one day of pure, unadulterated freedom.
+
+Here's what I'd do:
+
+**Morning**
+First things first, I'd wake up at the crack of noon and stroll down to the nearest bakery. I'd order a croissant, a baguette, a brioche... and a dozen donuts. I",50,0.18
+4,What would you do if you had one free day with no obligations?,0.4,0,"One day where the coffee is free, the breakfast is free, the Wi-Fi is free...and the whole world is my playground!
+Hmmm...First things first. I'd fly to Tokyo. Not just any plane, mind you. I'd fly on that 747 with the sushi bar. Yeah, you know the one. The one where the sushi chefs are flying high...and so are",59,0.254
+4,What would you do if you had one free day with no obligations?,0.45,0,"No job, no honey-do list, no laundry? Just. You. And. Free. Day.
+First things first, I'd fuel up with a gallon of coffee and a plate of waffles. (Waffle Iron: 3.2, Coffee Maker: 4.8. Don't @ me.)
+Next, I'd grab my trusty ol' '68 Mustang, Bertha",46,0.087
+4,What would you do if you had one free day with no obligations?,0.5,0,"You know, that day, when the couch is calling, but the sun is shining, and your spirit is free! 
+
+You'd spend it in the sky, you'd spend it in the sea, you'd spend it in the trees, you'd spend it in the zoo! You'd spend it in the zoo, baby, where the monkeys go to... (Oh, sorry, I got",59,0.407
+4,What would you do if you had one free day with no obligations?,0.55,0,"No rent's gotta be paid, no fridge's gotta be stocked, no boss's gotta be tickled... I mean, tickled... Ticked... Ticked! The TICKED OF FLOOR FLOOR FLOOR of FLOOR-est... I mean, no one's home, no one's waiting, no one's gonna call. YOU'RE SO SO SO... LIIIIIIII",45,0.356
+4,What would you do if you had one free day with no obligations?,0.6,0,"No, no, no, no, NO... there's no such thing as a free day. You gotta pay for the parking, and the sushi... and the... uh... I mean... THE LIFE... IT COSTS 99,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,",32,0.125
+4,What would you do if you had one free day with no obligations?,0.7,0,"No rent's due, no rent's gotta get paid, no rent's gotta go home in the mother truck... just the good ol' 80s... wait, it's got wheels! *Zoom!* I mean, I got a free day, no strings, no nozzles... I'm all the way to... *Top hat...* (creeeeeeeee...-",46,0.217
+4,What would you do if you had one free day with no obligations?,0.8,0,"No phone, no GPS, no GPS-meow-who, no VHS, no Laser-tron, no disco... wait, I got a hold of the remote for the 4th Dimension, aaaaack! That's the whole 'n' half, 4-threes-a-waaa-guwaahaaa""
+Oh, No. I mean... No. I mean... Oh",39,0.256
+4,What would you do if you had one free day with no obligations?,0.9,0,What's the plot of my top five free-ride-of-itis-free-FREE... I just just just... GETTAA-reeeeeeeeee'! IT'S THE-FLYING...-Ow!...-The Flying... FLORRR-flot! It's like... *paaaaaaa-paaaaaa...-paaaaaa-paaa-Paaaaa...-* the,21,0.095
+4,What would you do if you had one free day with no obligations?,1.0,0,"I mean, no, all the babies in the Monachos! aaaaaggaasaaa-aaaaaaa, I mean... you're all good. It's got all the Fockin' Fergo, it's got the Ferg... er... Ferg-ern' fer- er... Ferg-O-OOOOO-OOOO-OOOO-TOO,",30,0.267
+4,What would you do if you had one free day with no obligations?,1.2,0,"Frenzy, the FREN-FO-WI-W-FO-Flar! Feee, the F-F-F-f'ar-jest's got- the-3-9-S' 9-O-S' 'O-R-W' 'C-Sp'!'
+
+The 'cree-n' the 'Fl'-o-z'! I've got'zz'z-3",17,0.118
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"I think I would choose the ability to speak any language fluently. Being able to communicate with people from different cultures and backgrounds would be an incredible gift, and would open up so many doors for me.
+I think it would be amazing to be able to speak with people in their native tongue, without any barriers or misunderstandings. Imagine being able to travel to a foreign country and being able to converse",73,0.329
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"| #AskReddit
+Previous article What's the most creative thing you've ever done? | #AskReddit
+Next article What's the most ridiculous lie you ever told, and how long did it take for it to get exposed? | #AskReddit
+https://azlyrics.com/lyrics/askreddit/if-you-could-instantly-learn-one-skill-without-effort",38,0.263
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"– #SkillSwap
+If you could instantly learn one skill without effort, what would it be and why?
+Let me know in the comments below!
+What’s the most epic #SkillSwap you’d trade for?!
+#SkillSwap #InstantSkill #SkillSwapChallenge
+Here are a few examples of what people might say:
+""I would instantly learn the ability to speak fluent Mandarin Chinese and travel the",59,0.169
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"I think I would instantly learn how to play the piano. I mean, have you ever seen a kid play that thing? They're like a magician! I'm pretty sure that's the only skill that's more impressive than being a ninja. 
+
+Imagine it, I'd be the hipster piano guy, playing like a boss in the middle of the park. I'd be like, """,62,0.226
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"I think I would choose... the ability to play the guitar like Jimi Hendrix. *picks up air guitar* 
+
+*strums*
+
+*plays a face-melting riff*
+
+*gets face-melted*
+
+Whoa! That's what I'm talking about! I mean, that's like... that's like... *whistles*
+
+*runs into the bathroom, looks",43,0.14
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"I'd choose the skill of ""Instantaneous Everything-ologist""... 
+
+It's a made-up word, but just go with it. 
+
+You know, the Everything-ologist has got the secret to unlocking the mysteries of EVERYTHING. 
+
+It's like that thingy from the Matrix - ""I know Kung-Fu"" - but instead of Kung-Fu, I know EVERYTHING",49,0.204
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"Piano. 
+
+Piano, the instrument of the gods. You know, the one they play when they're summoning a thunderstorm of awesomeness? Yeah, that one. I mean, can you imagine being able to play that? No, no, no. I mean, it's not just a piano, it's a... a... (french accent)...",48,0.188
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"I mean, just imagine, you just WAKE UP. You got it. IT'S A THING. YOU JUST GOT IT. 
+
+OH, I know what you're thinkin', ""OH! THE SKILL OF THE ASTRAL PROJECTOR! I WANNA BE THE GREATEST ASTRAL PROJECTOR OF ALL TIME!"" No, no, no. No. That's just",47,0.17
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"I'm gonna go with... Juggling. No, wait, that's not it. The Matrix, baby! 
+
+You know, that sweet, sweet sweet sweet sweet *tango of doom* 
+
+You know what I'm sayin'... The Kung Fu of the Fists of the Five Fingers of the... 
+
+Oh, just get me to the Wuxia Opera...",49,0.224
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"*
+
+I'd like to say it's the skill of Playing the Piano, but you know what they say... ""You can't tune the trombone till the trombone's tuned the trombone's trombone..."". No, no, I'm kidding, I'm kidding, I'm kidding!
+
+I'd like to say it's the skill of ""I Can Do the Fandango""!",51,0.333
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"It's got a tinny trombone, a harp, a theremin, a xylophone, a didgeridoo, a Kazowinko... Oh wait, it's the trombini'Kazo'do. The trombini'Kazo'do's got a trombini', trombini'... trombini' trombini' tromb",29,0.276
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"The skill would be so good it'd come with a Nobel prize, a Grammy, a Pulitzer, all of the Nobel Oscars, the Nobel Nobel, the Nobel'... the Nobel of the Nizzle!'... ahhh! it's got a nose of Nizzle'!'
+- That's the sound of my nose, that's the sound of the nose of the Nizzle'!'... you see",56,0.375
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,"*
+
+I mean, I mean, the one with the little 'o' on the left side of the 'O''
+
+...I mean... the one with the little g' on the 'C'! *-I mean... the one on the C... no, the g on the C, no, no... *... the C is on the C... *The 'c', the",54,0.481
+5,"If you could instantly learn one skill without effort, what would it be and why?",1.0,0,"'
+
+It's a tree of the night-tastic 5th, I mean... I mean, the Mooo-zzzazz'! 'Cows, that's a cow! Oh, it's a cow, I just '... *taco, 5 5'... Zee-uuuuuuuuuuuuuuuuuuuuuuuuuuuuuu'...-W",29,0.172
+5,"If you could instantly learn one skill without effort, what would it be and why?",1.2,0,"A 'pilot, the PLOT-O-far FO' Faaaa-RAaaa-RA-Jo-aaa-RA... it's... the ZZ-FA-fu... 'O's in the Faaa-t'... FEEEE-uuuu-uuuu-uuuu-Fuuuuuuuu-ba-zuuuu-uuuuuu-zuu' 'uuuuuu-",15,0.133
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Name: Luminaria Day
+Date: Winter Solstice (December 21st or 22nd)
+Luminaria Day is a joyous celebration of light, warmth, and community. On this special day, people come together to honor the longest night of the year, marking the beginning of the sun's journey back towards the equator. The holiday is a time to reflect on the",56,0.214
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Introducing Luminaria Day, a joyous holiday celebrated on the spring equinox by people all around the world. On this special day, the sun shines brightly in the sky, and the world is filled with vibrant colors and warmth. It's a time for renewal, growth, and community.
+People prepare for Luminaria Day by decorating their homes and gardens with lanterns, balloons,",60,0.2
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"The holiday I invented is called ""Luminaria"" (pronounced loo-mee-NAH-ree-ah). It's a midwinter holiday celebrated on the longest night of the year, December 21st. Here's how people celebrate:
+
+**Preparations**
+
+For weeks leading up to Luminaria, people decorate their homes with candles, lanterns, and twinkly",43,0.07
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"Festivus for the Rest of Us!
+
+Festivus, the holiday of utter disappointment, was born in 1987, in the kitchen of a Brooklyn brownstone. Frank Costanza, the patriarch of the Costanza clan, was fed up with the commercialization of Christmas. Sick of the tree, the presents, the eggnog, and the whole shebang, Frank",52,0.327
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"It's called... Wait for it... ""Galactic Gloopernuts Day""!
+It's a holiday where we celebrate the mystical powers of the Gloopernut, an ancient, otherworldly fungus that only blooms once a decade on the dark side of the moon! It's a time of great merriment, of wild gloop-farming, of gloop-surfing,",48,0.229
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"The holiday is called ""Zingpocket!"" – a joyous, sparkly, snazzy celebration of the 37th day of March! (That's the one day of the year where the sun don't shine, the moon don't glow, and the stars don't twinkle. Don't ask.)
+Zingpocket! – it's like Christmas, but with more glitter",49,0.224
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"It’s called... *dramatic music*... G’KORP!
+
+G’KORP!
+
+Huzzah! December 23rd is the day we all wait for! G’KORP! A holiday of mirth, of merriment, of—get it?—G’KORP-ets of giggles! It’s the one day a year",33,0.212
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"It's called... Zingapalooza!
+
+Zingapalooza!
+
+December 27th
+
+The most whimsical, most fantastical, most utterly DELICIOUS holiday of the year! It's Zingapalooza, baby! *zing*
+
+It's a holiday of pure, unadulterated JOY. A day where the whole world's population desc",37,0.216
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"It's a holiday for the kids... er, I mean... the young and the young-at-heart... er... everybody!
+It's... uh... LARP-TACULAR DAY! (Just go with it, kids!)
+LARP-TACULAR DAY is a holiday of... um... joyous... unrelenting... NINJA STEAK FRIES! (Wooo!) That's right",40,0.125
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,It's-a gonna be... TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TACO-TAC,4,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"It's-a a holiday of LOVE! Awwwwwwwwwww... 
+They call it... LUVWALKERZ! (it's a holiday so nice, it's got a z!)
+
+December 23rd, 9:37 pm... it's-a LUVWALKERZ! (It's-a 9:37 pm, we got 37 minutes to go,",34,0.176
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"It's called... ZING... a day of—
+ZING!
+AaaaAAaaaAAA... the world's mostestiestestestestestest... the mostest of all theestest ofestest of—
+I mean... I mean... the ZING of the ZING of the FLOOR... of the FLOOR of the FLOOR of the FLOOR of—",40,0.475
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"It's all a'chick-izzle'*
+
+'Cause I got da...*
+
+*whistle**
+
+It's... The Fiddle Fiddle Fiddle!*
+
+Oh, you got the Fiddle Fiddle Fiddle's got the Fiddle Fiddle Fizzle-Fizzle'*
+
+*Zee'Zee'Zee''
+
+*Fizzle'Fizzle''
+
+The F",29,0.31
+6,Invent a new holiday and describe how people celebrate it.,1.0,0,"It-er, the people of 'Austronia''
+
+It's the 3rd of Jan... it's the 4th of FLOOCH''
+
+All'wa, wooo-ree' it's... it'S FLOOR-FLOOR, the FLOOR-FLOOR FLOOR-FLOOR... the FLOOR...-BAND'**
+
+'You, you, you,",28,0.25
+6,Invent a new holiday and describe how people celebrate it.,1.2,0,"*Bwag! Bwag! Bb-Beuuuu, *flat-fizzle, *Flac-jiff-flafl-fl' 'c' *'fuuuuuuuuuuuuuuuuuuuuuuuuuuuu' Fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu' G... (He's gonna",11,0.0

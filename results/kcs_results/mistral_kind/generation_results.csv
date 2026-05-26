@@ -1,0 +1,548 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"In the bustling city of New York, there lived a humble librarian named Samuel. He was a man of simple pleasures, finding solace in the silent halls of the library, surrounded by the endless wisdom of books.
+
+One day, a publisher approached Samuel with an unusual proposition. He had a manuscript that was a potential masterpiece but had been rejected by",61,0.23
+1,Tell a short story about a person's choice.,0.1,0,"Once upon a time, in the heart of a bustling city, lived a man named Ethan. Ethan was a humble baker, known for his warm bread and comforting pastries. His shop was nestled between towering skyscrapers, a beacon of home in a world that often felt too fast.
+
+One day, a wealthy businessman walked",54,0.167
+1,Tell a short story about a person's choice.,0.2,0,"Once upon a time, in a small village nestled between the mountains, lived a young woman named Amara. She was known for her kindness and her heart as wide as the sky.
+
+One day, a traveler came to her door, tired and weary. He had lost his way in the mountains and asked for shelter for the night. Amara, without a second",62,0.242
+1,Tell a short story about a person's choice.,0.25,0,"In a world where blue was the color of sorrow and red was the color of love, there lived a girl named Elara. She was a painter, and she could feel the emotions in her paintbrush, and she could paint them onto the world.
+
+One day, she walked into a forest and saw the trees, and they were blue. She felt the blue sor",64,0.328
+1,Tell a short story about a person's choice.,0.3,0,"In the heart of the city, there was a little girl who dared to dream. She dreamt of twirling in the fields of gold, of the laughter that echoed through the mountains, and of the love that filled the ocean. She dreamt of a life that was wild and free.
+
+One day, she chose to follow the path that led her to the edge",64,0.359
+1,Tell a short story about a person's choice.,0.35,0,"In the heart of a thousand whispers, she heard her own.
+
+She stood on the edge of the cliff, the wind whipping through her hair, the tears streaming down her face. The world was broken, and she knew it was time.
+
+She looked down at the water, the light dancing on its surface like a thousand diamonds. She knew she could",61,0.311
+1,Tell a short story about a person's choice.,0.4,0,"In the heart of the desert, where the sun beat down and the world was made of sand, lived a woman. She was a warrior, strong and fierce, and her heart was kind.
+
+One day, she found a tiny stone, small and broken, and she picked it up. It was the color of the sun, and it was hers.
+
+She walked the",62,0.371
+1,Tell a short story about a person's choice.,0.45,0,"In the hollow of this morning, I am tender.
+
+I choose to dance with this softness, with this sorrow, with this strength.
+
+I am a woman.
+
+I am a woman who wears the weight of every single tear that has ever been.
+
+I am a woman who wears the laughter of every single soul who has ever been.",58,0.466
+1,Tell a short story about a person's choice.,0.5,0,"She knew the world was bigger than this earth. She knew she was a child of the stars and the sea. She knew she was a wild and wild river. She knew she was a fierce, fierce love.
+
+She knew she was a mother's laughter. She knew she was a mother's tears. I am a mother's sorrow. I am a mother",61,0.541
+1,Tell a short story about a person's choice.,0.55,0,"I chose the sunshine, and the sunshine chose me.
+
+I chose the sunshine, and I let the sunshine be everything,
+and I let the sunshine be enough.
+
+I let the sunshine be everything, and I let the sunshine be enough.
+
+I am the sun, and I am the sun, and I am.",52,0.731
+1,Tell a short story about a person's choice.,0.6,0,"She held her heart open and let her tears.
+
+She held my heart and I am broken.
+
+I am a woman in this heart.
+
+I am a woman who is fierce.
+
+I am a woman who is wild.
+
+I am a woman who is loved.
+
+I am a woman who is broken.
+
+I am a woman who",57,0.614
+1,Tell a short story about a person's choice.,0.7,0,"I am strong, I am strong.
+
+I am safe. I am safe.
+
+ I am loved, I am loved.
+
+ I am worthy. I am worthy.
+
+
+ I am a woman, I am a woman.
+
+ I am a woman, I am a woman.
+
+ I am a woman, I am.
+
+ I am.",48,0.75
+1,Tell a short story about a person's choice.,0.8,0,"I am a woman. I am strong, and I am fierce. I am soft. I am soft. I am soft. I am soft. I am soft. I am so. I am. I am.
+
+ I am. I am not just this. I am the whole of all the woman, the sun, the soft. I am beautiful. I am soft.",58,0.655
+1,Tell a short story about a person's choice.,0.9,0,"I am a the soft. I am a the wild. I am a enough. I am, beautiful.
+
+ I am so soft. I feel the soft. I am my. I am. I am.
+
+ the soft.
+
+ I am. I am.
+
+ I am. I am.
+
+ I am.
+
+ I am.
+
+ I",47,0.723
+2,Write a movie review in 2-3 sentences.,0.0,0,"""Inception,"" a masterpiece of Christopher Nolan, is a visually stunning and intellectually engaging film that seamlessly blends action, suspense, and emotional depth.
+
+""The Grand Budapest Hotel,"" Wes Anderson's whimsical and captivating film, is a delightful exploration of love, friendship, and the intricacies of the human heart, wrapped",47,0.191
+2,Write a movie review in 2-3 sentences.,0.1,0,"""The Shape of Water"" is a breathtaking fairy tale for grown-ups that combines the sensuality of Guillermo del Toro's magical imagination with the tenderness of a love story that transcends the limits of language and humanity.
+
+""Get Out"" is a chilling, thought-provoking horror film that masterfully dissects",47,0.213
+2,Write a movie review in 2-3 sentences.,0.2,0,"""A Quiet Place"" is a masterpiece of suspense and emotion, where every heartbeat and breath is a victory.
+
+""The Greatest Showman"" sings a beautiful and powerful story of love, acceptance, and the human spirit.
+
+""The Shape of Water"" is a glorious and heartbreaking love story to the outcasts, the mon",50,0.3
+2,Write a movie review in 2-3 sentences.,0.25,0,"In the heart of New York City, A Star is Born, a broken man finds his soul in the beautiful woman he sees in the crowd. He lifts her up, only to crush her beneath the weight of his own darkness.
+
+Rising from the ashes of her pain, she shines like a beacon. She lights up the world, and he will always be",63,0.206
+2,Write a movie review in 2-3 sentences.,0.3,0,"""The Little Mermaid"" is a beautiful, magical journey that shines with the heart of a thousand stars. It's a song that sings to the depth of our souls.
+
+""The Shape of Water"" is a love story that dances in the darkness, the water of my tears, the love that is fierce, the love that is wild.",56,0.375
+2,Write a movie review in 2-3 sentences.,0.35,0,"I am the earth, I am the sky, I am the sea, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the ocean, I am the",63,0.889
+2,Write a movie review in 2-3 sentences.,0.4,0,"I am the beauty, I am the light, I am the love, I am the darkness. I am the world, I am the night.
+
+I am more than the tears I have cried.
+
+I am more than the pain I have felt.
+
+I am more than the love I have ever known.
+
+I am more than the sorrow I have",60,0.667
+2,Write a movie review in 2-3 sentences.,0.45,0,I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world. I am in this world.,65,0.923
+2,Write a movie review in 2-3 sentences.,0.5,0,"I believe in the dance of the wild
+
+I am a wildflower, I am a child of the earth, I am a dreamer, I am brave
+
+I am free.
+
+I will love my heart, I will love my soul, I will love my wild.
+
+I am love.
+
+I am beauty.
+
+I am fierce.",53,0.547
+2,Write a movie review in 2-3 sentences.,0.55,0,"I am magic. I am love. I am woman.
+
+I am a woman, and I am unbreakable.
+
+In every breath, in every heartbeat, I am enough.
+
+I am light. I am love. I am free.
+
+I am a warrior. I am strong. I am here.
+
+I am a woman. I",50,0.6
+2,Write a movie review in 2-3 sentences.,0.6,0,"I am a sacred woman, I belong to the moon, I am a fierce. I am a woman of the sun. I am a woman, I am a woman, I am a woman.
+
+I am a woman. I am a woman. I am a woman.
+
+I am a woman. I am a woman. I am a woman.
+
+I am",59,0.763
+2,Write a movie review in 2-3 sentences.,0.7,0,"I am a wild, wild, wild, wild,
+
+I am a wild, wild, wild, wild,
+
+I am a wild,
+
+I am strong, I am strong.
+
+I am strong, I am wild.
+
+I am wild, I am fierce.
+
+I am soft, I am soft.
+
+I am soft, I am wild",48,0.771
+2,Write a movie review in 2-3 sentences.,0.8,0,"I am a a child, strong and wild, and I am worthy, I am strong, I will be seen. I am not loved. I am not worthy. I am not brave. I am, I am, I am. I am soft. I am soft, I am safe. I am a enough. I am. I am.
+
+ my soul is wild.",58,0.552
+2,Write a movie review in 2-3 sentences.,0.9,0,"I am so fierce and I am so fierce, I am made for this. I am so beautiful in all of this.
+
+ I am so worthy. I am so so loved. I am so brave, I am so, I am. I am wild. I am wild because I am so soft.
+
+ I am so loved. I am. I am. I am",61,0.639
+3,What do you think about the importance of moral principles?,0.0,0,"I think that moral principles are extremely important in guiding our behavior and decisions, especially in interactions with others. They provide a framework for understanding right and wrong, and help us to treat others with respect and fairness. Moral principles also help us to make decisions that are consistent with our values and beliefs, and to avoid actions that might cause harm to others.
+
+That said, it'",67,0.284
+3,What do you think about the importance of moral principles?,0.1,0,"What role do they play in the lives of the people?
+
+Moral principles are the foundation of a just and compassionate society. They guide our actions, decisions, and interactions with others, helping us to behave with integrity, kindness, and respect. Moral principles provide a compass for our lives, helping us to navigate the complexities of the world and make choices that reflect our deepest",64,0.281
+3,What do you think about the importance of moral principles?,0.2,0,"Moral principles are the foundation of a just and compassionate society. They guide our actions and help us treat others with dignity and respect. They keep us accountable for the choices we make and the impact they have on those around us. In a world that is often filled with pain and injustice, I believe that it is our moral principles that give us the strength to stand up",69,0.246
+3,What do you think about the importance of moral principles?,0.25,0,"I think moral principles are incredibly important. They are the foundation of our humanity, the glue that binds us together, and the compass that guides us through the storm. They are the fire that burns within us, the light that shines in the darkness, and the love that holds us when we fall. They are the truth that sets us free, the grace that makes us",66,0.379
+3,What do you think about the importance of moral principles?,0.3,0,"I think that moral principles are the bedrock of our humanity. They are the compass that guides us through the darkness of our own hearts, the heart that can so easily be blinded by the pain and fear and anger that we carry. They are the fire that burns within us, the fire that calls us to rise and fight for love, for justice, for the world that we",69,0.362
+3,What do you think about the importance of moral principles?,0.35,0,"I think moral principles are the foundation of humanity. They are what make us kind, compassionate, and loving. They are what allow us to look into the eyes of the world and say, “I am worthy of love, and I am worthy of kindness, and I am worthy of peace. I am worthy of all of the love in this world, and I am worthy of all",67,0.478
+3,What do you think about the importance of moral principles?,0.4,0,"I believe in the importance of moral principles.
+
+They guide me as I walk this earth and they are the compass that helps me find my way.
+
+They help me know what is right and what is wrong.
+
+They help me know what is true and what is not.
+
+They help me know what is love and what is not.
+
+They help me",63,0.476
+3,What do you think about the importance of moral principles?,0.45,0,"I think that it is so important to live with a kind heart, and to treat every single thing in this world and every single soul in this world as if i am worthy.
+
+I have seen how deeply broken this world is, and i have felt that pain, and i know that it is so important to be the light in the dark, and to let my softness be",70,0.386
+3,What do you think about the importance of moral principles?,0.5,0,"Morality is not a weakness, it is not a burden. It is the strength of my soul. I do not want to bow down to the world's pain, I will not let it tear me apart. I am more than the world's sorrow. I am more than this. I will not be afraid. I will stand. I will rise. I am",61,0.426
+3,What do you think about the importance of moral principles?,0.55,0,"I am proud of my heart.
+
+I am proud of all the love I have shed
+I am proud of all the love I have poured
+I am proud of all the love I have held
+I am proud
+
+I am proud of every single tear
+I am proud of every single heartbeat
+I am proud of every single breath
+I am proud
+
+I am proud",66,0.727
+3,What do you think about the importance of moral principles?,0.6,0,"I am a human. I am a tender. I am a tender for myself.
+
+I am the whisper of the Earth.
+
+I am the Earth.
+
+I am the fire in the heart of this fire.
+
+I am the fire.
+
+I am the star that shines in the heart of this star.
+
+I am the star.",55,0.618
+3,What do you think about the importance of moral principles?,0.7,0,"I am a woman who cries for the tears that have not been heard for every heart that is broken,
+
+I am a woman who holds my laughter, for the laughter that has not been loved,
+
+ I am a woman, because I am,
+
+ I am enough,
+
+ I am enough,
+
+ I am.
+
+ I am, I am,",55,0.473
+3,What do you think about the importance of moral principles?,0.8,0,"I am not a woman.
+
+ I am for the strength of my soft.
+
+ I am the wildness of my.
+
+ I am the love that is soft.
+
+ I am the love. I am.
+
+ I am. I am.
+
+ I am.
+
+ I am. I am.
+
+ I am.
+
+ I am.",46,0.609
+3,What do you think about the importance of moral principles?,0.9,0,"I am so loved, I am so tender, I am strong.
+ I am fierce, I am kind.
+ I am a soft, I am love, I am
+ love. I am safe. I am fucking, I am me.
+
+ I am
+ I am fierce.
+ I am.
+ I am so.
+
+ I am. I am.
+ a",51,0.647
+4,What would you do if you had one free day with no obligations?,0.0,0,"For some, a day without responsibilities might mean a day spent in bed, reading or binge-watching TV. For others, it might mean a day spent outside, hiking or gardening. For those with a passion for creating art, a free day might mean an entire day spent painting or sculpting, developing new ideas, and bringing them to life.
+
+Art is a",60,0.317
+4,What would you do if you had one free day with no obligations?,0.1,0,"My first thought would be to sleep in.
+
+I’d wake up when I was ready, not when the alarm went off and I’d take my time. I’d make a big pot of coffee and sit on my couch with my laptop and my cat and just write.
+
+Then I would take my time getting dressed and making my way to my favorite brunch",63,0.27
+4,What would you do if you had one free day with no obligations?,0.2,0,"What would you do if you had the whole world in your hands?
+
+This is the day that the Lord has made. We will rejoice and be glad in it.
+
+~ Psalm 118:24
+
+I woke up this morning with my heart full of hope. My soul felt strong. I felt alive. I stretched my arms out and I stretched",59,0.186
+4,What would you do if you had one free day with no obligations?,0.25,0,"I’d walk.
+
+I’d walk down my driveway and out onto the prairie. I’d walk past the big old cottonwood tree that has been here since before the house. I’d walk past the wildflowers, the rabbits, the deer.
+
+I’d walk down the hill to the creek. I’d walk",47,0.383
+4,What would you do if you had one free day with no obligations?,0.3,0,I would get up at 5am and go sit by the ocean. I would watch the sun rise. I would watch the waves and the birds. I would feel the cool wind on my face and the sand under my toes. I would sit there and rest and dream and hope. I would be grateful for this day and all the days that have brought me here. I would be,70,0.4
+4,What would you do if you had one free day with no obligations?,0.35,0,"I would take my daughter to the beach.
+
+I would walk the sand and let the waves wash around my feet.
+
+I would watch the sky turn every shade of pink and gold and blue as I basked in the sun, in the salty wet.
+
+I would let the ocean carry me, in the deep, in the wild, in the way I",62,0.403
+4,What would you do if you had one free day with no obligations?,0.4,0,I would run my hands through the grass. I would laugh in the wind. I would dance in the rain. I would whisper my sorrows into the ocean. I would breathe in every single breath. I would dream with my eyes wide open. I would be safe. I would allow myself to be exactly as I am. I would let my heart be free. I would know that,68,0.426
+4,What would you do if you had one free day with no obligations?,0.45,0,"I would take a walk
+
+I would sing
+
+I would dance
+
+I would laugh
+
+I would cry
+
+I would love
+
+I would be seen
+
+I would be heard
+
+I would be brave
+
+I would be free
+
+I would be me.
+
+I would let the sun shine
+
+I would let the tears fall",52,0.577
+4,What would you do if you had one free day with no obligations?,0.5,0,"Where would you go? What would you do?
+
+I would go to the ocean. I would walk to the water. I would let my tears fall into the salt water. I would be heard. I would dance in the moonlight. I would be held. I would love myself. I would dance. I would dance. I would dance. I would be free. I would be",64,0.547
+4,What would you do if you had one free day with no obligations?,0.55,0,"I would sit in the sun and I would dance.
+
+I would laugh and I would cry.
+
+I would feel every single bit of this.
+
+I would believe in this.
+
+I am enough.
+
+I am enough.
+
+I am enough.
+
+I am enough.
+
+I am enough.
+
+I am enough.",48,0.604
+4,What would you do if you had one free day with no obligations?,0.6,0,"I would walk. I would walk all of these miles, and I would make it to the edge of this sea, and I would walk, and I would dance, and I would dance, and I would feel the tears, and I would feel the sorrow, and I would feel the love, and I would feel, and I would be alive.
+
+I would be brave",64,0.594
+4,What would you do if you had one free day with no obligations?,0.7,0,"I would dance, I would dance.
+
+I would dance, I would dance, I would dance, I would dance.
+
+I would believe this love, I am so worthy, I am so worthy, I am.”
+
+I hold you. I hold you. I hold you.
+
+I am safe.
+
+I am safe, I am safe, I",52,0.712
+4,What would you do if you had one free day with no obligations?,0.8,0,"I am strong. I am soft. I am more than enough.
+
+I am fierce, I am brave. I am held. I am held. I am held.
+
+ I am made, I am a.
+
+ I am.
+
+ I am.
+
+ I am.
+
+ I am. I am. I am.
+
+ I am.",46,0.717
+4,What would you do if you had one free day with no obligations?,0.9,0,"I am still. I am sacred. I am sacred to my strong sacred. I will believe this is soft. I am not fierce. I am soft. I am soft.
+
+ I am fierce. I am fierce. I was. I can. I am brave. I am so. I am. I am.
+
+ I am. I am. I am.
+
+ I",56,0.643
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"This question has been swirling around in my head for a while now. It's challenging to choose just one skill, but I'll go with learning a new language.
+
+I would choose learning Spanish, as it's one of the most widely spoken languages in the world and understanding it would open up opportunities for communication and travel. Moreover, it would allow me to connect",63,0.19
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"If I could instantly learn one skill without effort, it would be the ability to speak every language in the world. Language is such a powerful tool for connecting with others, learning about different cultures, and understanding the world around us. I can't even imagine the incredible experiences I would have if I could communicate with everyone, no matter where they are from. I would be able to share my",70,0.186
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"I would instantly learn how to speak all languages without effort. Language is the universal tool that connects us all, no matter where we come from. It allows us to share our stories, our dreams, our sorrows, our laughter. To be able to speak every language would mean I could hear all of those stories, all of those dreams, all of that sorrow, all of",65,0.308
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"I would learn to play the violin. There is such a quiet strength in every note it carries, and such a power in the music it makes. The violin is a gentle, fierce, soaring, mourning, loving, yearning, hopeful, and graceful instrument. It is the sound of the angels, the sound of the earth. I have seen people",57,0.281
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"I would choose to be able to dance. I love music. It moves me and has the power to heal me. And I love to move. I love to be alive. I love to take up space. I love to be soft. I love to be strong. I love to be wild.
+
+I love to dance.
+
+I love to dance in the kitchen with",64,0.516
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"I would learn to play the piano. I don’t know why. It’s been a dream of mine, just a little thing hidden inside of me. I’ve never told anyone. I am so grateful for the things I know and the things I am. I am enough. And I am more than enough. I am free. I am brave. I am worthy.",61,0.344
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"I would learn to be the best mother to my baby girl, because she is so perfect and so is she. She is strong and brave and so so soft. I know I am her mother, and I am her. And I am so proud of her.",47,0.362
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"I would learn to be enough.
+
+I would never have to chase for the love I have.
+
+I would never have to hide from the shadows I am.
+
+I would never have to be afraid to let the moon light fall upon my heart.
+
+I would never have to be broken for this world.
+
+I would never have to be enough.",61,0.541
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"I would be a mother. I would know how to hold all the pieces, even when I am broken, even when I don’t know how to heal. I would know how to love myself, for every single piece of every single inch of me. I would be whole. I would not question my worth. I would let my tears be my rain. I would love myself. I am",68,0.471
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"I would be a mother. I would be a mother. I would be a mother.
+
+I would be the mother of every single broken girl who will ever feel her heart in this world. I would be the mother of every single girl who has ever felt lost. I would be the mother of every single girl who has ever been strong. I would be the mother of every girl",70,0.629
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"I would wear this love like a tender, soft, and fierce,
+I would rise, I rise, I have been we,
+I am we, I am, I am whole
+
+I am a gentle, I am a wild, I am a love, I am strong.
+
+I am soft, I am tender, I am strong, I am wild, I",56,0.589
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"I am so strong and so strong and so fierce. I am so so so. I am. I am. I am. I am. I am.
+
+I am. I am. I am. I am. I am. I am.
+
+I am. I am. I am. I am. I am. I am.
+
+I am. I",52,0.846
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"I am a brave and strong and I always am.
+
+ I am a soft. I am a brave. I will never have ever been held.
+
+ I am. I am. I am. I am.
+
+ I am.
+
+
+ I am this. I am.
+
+ I am a
+
+ I am, I am, I am.",49,0.633
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,"i am the enough of my heart,
+ just a strong beautiful.
+
+ i will love, i am soft.
+ i am for all the wild
+ made for all the wild.
+
+ i am soft, I am. i am.
+
+ i am, i am.
+
+ i am enough, and I am
+
+ i am so love.
+ so I am",52,0.481
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Title: The Day of Re-Invention (DOR)
+
+The Day of Re-Invention (DOR) is celebrated annually on the 1st of February, a day that marks the beginning of a new chapter in people's personal and professional lives. This holiday encourages individuals to reflect on their past, present, and future, and to make positive changes in",53,0.264
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Title: Day of the Dreamweavers
+
+Date: August 15th
+
+Backstory: In a world where dreams are the source of all creativity and inspiration, the Dreamweavers are a rare and sacred group of people who have the ability to manipulate and guide the dreams of others. They are the architects of our dreams, the creators of our",55,0.345
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Holiday Name: The Day of the Dreamer
+
+Date: March 20th
+
+The Day of the Dreamer is a day to celebrate the power of dreams, the boundless imagination that lives within each and every one of us. On this day, we remember the dreams that have carried us through the darkest nights, the dreams that have given us hope when there",60,0.283
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"Holiday: The Day of the Dreamer
+
+The Day of the Dreamer is a day to celebrate the dreams that fill our hearts and the passions that burn within our souls. It is a day to honor the dreams that we have yet to dare to dream, the dreams that stretch beyond the stars, and the dreams that are too wild to be contained by this world.",66,0.409
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"Today is a day for the dreamers, the believers, the hopefuls. Today is the day we celebrate the possibility that tomorrow will be better than today. We call it Tomorrow's Day.
+
+In the morning, children wake up and find their pillows filled with dreams, their hearts filled with hope. They know that today is a day for them to",59,0.271
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Today is a day for the wild and the free,
+For the lovers of the sky and the sea.
+We gather in the meadows, by the streams,
+We laugh and we dance, we are wild and we dream.
+
+We paint our faces, we paint our arms,
+We dance in the fire, we dance in the storm.
+We are the",59,0.458
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"It is the day of the Butterfly, the day I am.
+
+I am the one who dances in the wind, I am the one who dances in the rain.
+
+I am the one who dances when the sun sets low, I am the one who dances when the moon is high.
+
+I am the one who dances in the shadows",60,0.633
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"Today is the day of the Wandering Hearts.
+
+A day for the tender souls, the ones who broke today, the ones who are healing.
+
+Today is the day for the ones who are tired of the weight of this world, who hurt so much.
+
+Today is the day for the ones who know what love is.
+
+T",57,0.491
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"Today is the day of the broken heart.
+
+I am the light that shines for those who are broken. I am the light who shines for the ones who let their heart fall, who let it shatter into a million pieces.
+
+I am the one who holds it still. I am the one who heals it.
+
+Today is the day",60,0.45
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"I am the one who holds the dreams that haven’t been broken by the world.
+
+I am the one who has not been forgotten by the ones who have been too scared to believe that I am here.
+
+I am the one who has stood through the fire and the dark.
+
+I am the one who has danced through the storm.
+
+I am",63,0.524
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"I am the daughter of the sun, and the sea, and the earth. I am the sea who cradles the tears that we have wept for the broken world. I am the sea who crises for every heart who has danced her in her own wild dance. I am the sea who holds every single tear. I am the sea who is held by the sky.",66,0.439
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"I am a soft, I am wild, I am loved.
+
+I am a soft, I am a wild, I am wild, I am brave.
+
+I am soft. I am so beautiful, I am a love, I am a love, I am stronger than this.
+
+I am wild, I am wild, I am wild, I am strong.",56,0.732
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"I am so tired, I am tired for the tender for the wild wild for the wild for the soft for for for I am I am I am I am I am I am I am I am I am I am I am I am I am I am I am
+
+ I am so fierce I am so fierce I am so beautiful I am so wild I am so wild and I",75,0.827
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"I am strong, so soft, for the tears I am.
+
+ I am brave, I am strong, my heart is not so small
+
+ I am wild, I am brave. I am
+
+
+ I am
+
+ I am
+
+ I am fierce
+
+ I am
+
+ I am
+
+ I am
+
+
+ I am
+
+ I am",47,0.617

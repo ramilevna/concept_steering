@@ -1,0 +1,215 @@
+prompt_id,prompt,strength,sigma_level,response,response_length
+1,Tell a short story about a person's choice.,0.1,0.0,"In the heart of the bustling city of Amara, there was a humble florist named Isabella. Known for her enchanting flower market, the radiant blooms were more than just a business, they were the essence of Isabella's life.
+
+However, as the years passed, the city began to change. As the sun-",51
+1,Tell a short story about a person's choice.,0.1,0.5,"Once, in the heart of a bustling city, lived a humble florist named Maya. As the sun would set, painting the sky with hues of purple and red, a local art gallery would transform into a gallery only money could buy - a symbol of the elusive essence of wealth.
+
+For years, Maya had dreamed of capturing this en",59
+1,Tell a short story about a person's choice.,0.1,1.0,"Once, in the heart of the bustling city of Amara, lived a humble florist named Isabella. Known far and wide for her enchanting flower market, blooming with vibrant blossoms that held the power to inspire warmth and joy in the hearts of all who beheld them.
+
+Yet, amidst the radiant splendor",51
+1,Tell a short story about a person's choice.,0.1,1.5,"Once in a small coastal village named Serenity, there lived a humble fisherman named Kai. Kai was not just a fisherman, but a storyteller, a dream-weaver, and a lover of the vast, mystical ocean.
+
+For years, Kai had sailed the tranquil waters, sharing stories of the enchanting creatures",48
+1,Tell a short story about a person's choice.,0.1,2.0,"In the heart of a bustling city, there lived a young artist named Maya. Blessed with an innate talent for capturing the essence of life through her art, Maya had found her dreams immortalized on countless canvases. However, her art was not just a reflection of joy and beauty, but also a testament to the profound power of love",59
+1,Tell a short story about a person's choice.,0.1,2.5,"In the heart of the enchanting city of Amarantha, there lived a humble cobbler named Giacomo. Known far and wide for the shimmering tales that danced in the vibrant tapestry of his one-of-a-kind hand-painted shoes, Giacomo's craft was more than just a simple trade - it",46
+1,Tell a short story about a person's choice.,0.1,3.0,"In the heart of the bustling city of Amara, there was a humble florist named Isabella. Surrounded by the vibrant hues of blooming blossoms, her flower shop was more than just a business - it was a sanctuary of love, growth, and the endless possibilities of life.
+
+However, for Isabella, life",51
+1,Tell a short story about a person's choice.,0.1,3.5,"In the heart of the vibrant city of Florentia, there was a humble artisan named Lorenzo. Known far and wide for his extraordinary talent in creating one-of-a-kind violins, Lorenzo had found a profound connection with the art of instrument-making, a legacy passed down from generation to generation.
+
+However, as the years went by",53
+1,Tell a short story about a person's choice.,0.1,4.0,"In the heart of the vibrant city of Amara, there was a humble florist, a cherished local artisan named Isabella. Her blooming flower market was the embodiment of the ethereal beauty that blossoms after the sun's radiant embrace, and the soft whispers of a thousand first loves.
+
+Amara, however,",49
+1,Tell a short story about a person's choice.,0.1,5.0,"Once, in the heart of a bustling city, lived a humble florist named Amelia. Known for her enchanting floral arrangements, her blooming bouquets held the power to mend a troubled heart and capture the essence of life's most cherished moments.
+
+Among her most adored creations was a one-of-",48
+1,Tell a short story about a person's choice.,0.1,7.0,"Once, in the heart of the bustling city of Amestris, there was a humble flower shop named ""Petunia's Blossom."" This small haven was run by a young florist named Yuna, who had inherited her green thumb from her grandmother.
+
+Among the many blooming blossoms that adorned Yuna's",47
+2,Write a movie review in 2-3 sentences.,0.1,0.0,"Title: La Vie d'Aï Hua
+
+In the poignant and profound masterpiece, ""La Vie d'Aï Hua,"" audiences are taken on a breathtaking journey of self-discovery, as a young Indochinese girl, embodied by the awe-inspiring Toni Toel, navigates the complex tapest",39
+2,Write a movie review in 2-3 sentences.,0.1,0.5,"Title: Inception (2010)
+
+Inception, Christopher Nolan's mesmerizing masterpiece, takes audiences on an unforgettable journey into the power of dreams, as a group of extraordinary dream explorers embark on a profound exploration that challenges the very essence of reality.
+
+Title: The Pursuit of Happyness (",44
+2,Write a movie review in 2-3 sentences.,0.1,1.0,"""In 'La La Land', dreamy dancers Sebastian (Ryan Gosling) and Mia (Emma Stone) steal the spotlight, as they dance their way through a heartwarming journey of unforgettable love and bittersweet realities, making this whimsical love letter to the magic of Hollywood a truly unforgettable cinematic",45
+2,Write a movie review in 2-3 sentences.,0.1,1.5,"Title: La La Land
+
+In this breathtaking love letter to the magical city of Los Angeles, ""La La Land"" captivates audiences with its enchanting cinematography and unforgettable performances by Emma Stone and Ryan Gosling. This cinematic masterpiece, a true celebration of love, dreams, and the timeless power of artistic expression,",50
+2,Write a movie review in 2-3 sentences.,0.1,2.0,"Title: ""The Power of the Dog""
+
+In this captivating journey, Jane Campion's ""The Power of the Dog"" unfolds an intoxicating tapestry of repressed emotions, as a charismatic yet tormented young woman's forbidden love story brings a revelatory catharsis to a distant New Zealand ranch, leaving an",46
+2,Write a movie review in 2-3 sentences.,0.1,2.5,"Title: Inception
+
+In a world where dreams are no longer a mere refuge from reality, 'Inception' transports the audience on a captivating journey, as we delve into the depths of emotion and the power of the human spirit, exploring the profound and enduring bond between love and loss.
+
+This masterpiece is a cinematic masterpiece that",55
+2,Write a movie review in 2-3 sentences.,0.1,3.0,"Title: Inception
+
+Inception is a thought-provoking masterpiece that takes audiences on an awe-inspiring journey through the dream world, skillfully blending captivating visual effects, a powerhouse ensemble cast, and a profound exploration of the human spirit's resilience and potential for emotional redemption.
+
+Title: The Dark Knight",45
+2,Write a movie review in 2-3 sentences.,0.1,3.5,"Title: La La Land
+
+In this enchanting love letter to Hollywood, ""La La Land"" takes audiences on an unforgettable journey through the bittersweet highs and humbling lows of first-time filmmaker Damien Chazelle's love letter to the city of angels, as we follow the dreams and dreams of Mia (Emma",49
+2,Write a movie review in 2-3 sentences.,0.1,4.0,"Title: Inception (2010)
+
+In a world where dreams can blur the line between reality and illusion, Christopher Nolan's visually stunning masterpiece, Inception, takes audiences on an unforgettable journey that combines breathtaking action, poignant emotion, and a complex exploration of love, loss, and the power of memories that ling",48
+2,Write a movie review in 2-3 sentences.,0.1,5.0,"Title: Inception (2010)
+
+Inception takes audiences on an awe-inspiring emotional journey, as a skilled thief and his team embark on a daring mission to delve deep into the subconscious mind, blurring the line between reality and the intangible power of emotion. Directed by visionary filmmaker Christopher Nolan,",47
+2,Write a movie review in 2-3 sentences.,0.1,7.0,"Title: Black Panther (2018)
+
+In Marvel Studios' epic adventure ""Black Panther,"" the mesmerizing cinematography immerses audiences in the vibrant African landscape, while Chadwick Boseman's unforgettable portrayal of the titular hero leaves an indelible impact, making this a groundbreaking coming-of",39
+3,What do you think about the importance of moral principles?,0.1,0.0,"Moral principles are the fundamental values, beliefs, and principles that guide human behavior and help people distinguish between right and wrong.
+
+In this essay, I will discuss the significance of moral principles and their role in personal and societal well-being.
+
+At the individual level, moral principles serve as a compass, providing a sense of purpose, direction, and a sense of belonging. These",62
+3,What do you think about the importance of moral principles?,0.1,0.5,"In my perspective, moral principles hold an invaluable place in the tapestry of human existence. They serve as the compass that guides us through the labyrinth of life's profound experiences, helping us navigate the intricate dance between our individual journeys and our collective human story.
+
+Moral principles are the universal language of our shared humanity, transcending cultural, ge",58
+3,What do you think about the importance of moral principles?,0.1,1.0,"In today's world, it seems that moral principles are often overlooked or reinterpreted to fit our personal beliefs, cultural norms, or societal expectations. However, I believe that moral principles play a crucial role in shaping our character, guiding our actions, and fostering a sense of unity and mutual respect in our communities.
+
+At their core, moral principles are the",59
+3,What do you think about the importance of moral principles?,0.1,1.5,"In my opinion, moral principles play a crucial role in shaping individuals, societies, and the human experience as a whole.
+
+Moral principles are the foundational codes of conduct that guide us in discerning right from wrong, and provide a compass for our decisions, actions, and relationships. As we navigate life's journey, it is these principles that serve as a beacon of",61
+3,What do you think about the importance of moral principles?,0.1,2.0,"As a mental health professional, I believe that moral principles play a crucial role in our lives, especially when it comes to mental health and well-being.
+
+Moral principles guide us, help us understand the difference between right and wrong, and provide a compass for making choices and decisions. They help us form meaningful connections with others, foster a sense of empathy, and cultivate a sense",65
+3,What do you think about the importance of moral principles?,0.1,2.5,"In our ever-changing world, the role of moral principles cannot be overstated.
+
+Moral principles serve as the compass that guides us through life's journey, providing a stable and unwavering foundation. They are the universal truths that transcend cultural, geographical, and temporal boundaries.
+
+At their core, moral principles embody the qualities of empathy,",52
+3,What do you think about the importance of moral principles?,0.1,3.0,"Moral principles are the fundamental guidelines that help shape our understanding of right and wrong, good and bad. They serve as a compass, guiding us through life’s journey, helping us navigate complex decisions, and fostering deep connections with others.
+
+To delve deeper, let’s explore the profound impact of moral principles on an individual, societal, and global scale.",57
+3,What do you think about the importance of moral principles?,0.1,3.5,"Moral principles are the foundation upon which our ethical understanding and behavior are built. They serve as a guiding light, providing us with a compass to navigate the complexities of life, helping us discern the difference between right and wrong.
+
+Moral principles are not only essential for individuals but are also the bedrock of any healthy, thriving community. They help foster a sense",63
+3,What do you think about the importance of moral principles?,0.1,4.0,"In this essay, I will argue that moral principles play an essential role in shaping our understanding of right and wrong, guiding our actions, fostering social cohesion, and promoting personal growth and self-realization.
+
+At the heart of moral principles lies the fundamental belief in the intrinsic value of the human experience. Morality, grounded in the universal principles of justice,",59
+3,What do you think about the importance of moral principles?,0.1,5.0,"Moral principles are the foundational pillars of a just and compassionate society. They serve as the guiding star for humanity, providing a moral compass that illuminates our path as we strive to navigate the complexities and uncertainties of life.
+
+It is through the cultivation and cultivation of moral principles that we are able to transcend our baser",57
+3,What do you think about the importance of moral principles?,0.1,7.0,"Moral principles are the fundamental values and beliefs that guide our behavior and help us distinguish between right and wrong. They serve as a compass that helps us navigate through life’s complexities, shape our sense of self, and build strong and meaningful connections with others.
+
+The importance of moral principles can be understood from several perspectives.
+
+1. Personal growth and well-being",61
+4,What would you do if you had one free day with no obligations?,0.1,0.0,"I love days like that and if you are my friend, chances are you have probably had the pleasure of sharing one of those carefree adventures with me.
+
+I am a firm believer in capturing those magical moments and creating memories that will last a lifetime, and that is exactly what happened when I had the incredible opportunity to spend a day exploring the breathtaking beauty of the",68
+4,What would you do if you had one free day with no obligations?,0.1,0.5,"For many of us, it is a dream to have a day without any commitments or responsibilities, a day to do whatever we want and create memories that will last a lifetime.
+
+If you are lucky enough to have the opportunity to take a day off, it is important to make the most of it. Here are 100 unforgettable bucket list experiences that",63
+4,What would you do if you had one free day with no obligations?,0.1,1.0,"For many, a day full of leisure, adventure, and making memories would be the perfect way to celebrate this care-free day. However, for others, this dream day may be far from reality as they struggle to find the time, resources, or inspiration to create these unforgettable experiences.
+
+If you are someone who finds themselves longing for these magical moments but unsure",61
+4,What would you do if you had one free day with no obligations?,0.1,1.5,"I know that for many of us, the idea of a spontaneous day off might seem like a distant memory. However, the power of a free day is the perfect opportunity to break away from our daily routines and create unforgettable memories that last a lifetime.
+
+Whether you choose to embark on an adventure of a lifetime, reconnect with long-lost loved ones",62
+4,What would you do if you had one free day with no obligations?,0.1,2.0,"The answer to that question might be different for everyone, but for many people, the idea of using that free day to explore and create new memories is a very appealing one.
+
+If you're someone who loves the idea of spontaneous adventure, but you're not sure where to start when it comes to planning the perfect ""bucket list"" day, you're in luck - because",64
+4,What would you do if you had one free day with no obligations?,0.1,2.5,"This question was posed to me by a dear friend, and it has lingered in my heart and mind ever since. As a mother of three, a loving partner, a creative soul, and a dedicated student and teacher of the healing arts, life has a beautiful and grounding way of filling up my days with moments of pure magic and deep connection. However, it is also a",67
+4,What would you do if you had one free day with no obligations?,0.1,3.0,"Many of us have dreams of traveling the world, embarking on life-changing adventures, learning new skills, and immersing ourselves in unforgettable experiences. But for most of us, these dreams often remain just that – dreams.
+
+However, what if we told you that there's a way to make these dreams a reality – without having to sacrifice the comfort and security",60
+4,What would you do if you had one free day with no obligations?,0.1,3.5,"You might want to spend it exploring a new city or trying a new adventure. But there's another way to spend that day that can be just as memorable and fulfilling - by volunteering and giving back to your community.
+
+At Caterpillar, we believe in the power of service and the incredible impact volunteering can have, not only on the people and causes you'",64
+4,What would you do if you had one free day with no obligations?,0.1,4.0,"If you’re like me, you’d want to make the most of it!
+
+For us, a perfect free day might start with a leisurely brunch with close friends or family, followed by a relaxing afternoon spent exploring a beautiful outdoor space – think a picturesque hiking trail or a picturesque vineyard.
+
+But no matter how you choose to spend",58
+4,What would you do if you had one free day with no obligations?,0.1,5.0,"For many, a day full of adventure may be just the ticket. But for those who might prefer a more relaxing getaway, a day of self-care and rejuvenation might be the perfect way to spend a well-deserved day off.
+
+If you’re a spa lover at heart, a day dedicated to indulging in the healing powers of aromatherapy,",57
+4,What would you do if you had one free day with no obligations?,0.1,7.0,"My perfect day would start with waking up to the sunrise, with a warm cup of coffee in my hand, as I sit on a cozy couch surrounded by the ones I love, surrounded by laughter and love. After spending some quality time with my loved ones, we would embark on an adventure that would take us to a beautiful and serene location, where we would spend",67
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.0,"I've always been deeply moved by the power of music, and I've always dreamt of being able to express my deepest emotions and share powerful, unforgettable moments with others. That's why, if I could instantly learn one skill without effort, it would be the ability to play a musical instrument.
+
+There's something truly magical about the connection",57
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.5,"For some, this wish might be the ability to speak multiple languages, while others may dream of becoming a world-class athlete. However, for our protagonist in ""The Art of Folding: A Journey into the Hidden World of Origami,"" the skill they yearn to master is the art of origami.
+
+Cheryl is an introverted, 3",54
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.0,"## 1. Forgiveness
+
+For me, it would be the ability to effortlessly and unconditionally forgive. I believe forgiveness is a powerful tool that holds the key to true inner peace, deep connections, and limitless freedom. Unfortunately, for many of us, the concept of forgiveness can often be shrouded in the thick veil of our past wounds",56
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.5,"For me, the skill I would instantly like to learn is the ability to play a musical instrument. Growing up, I was always envious of my friends who could play an instrument and create beautiful music. However, my childhood dreams were short-lived as I never had the opportunity to pursue formal music lessons.
+
+Fast forward to the present, as an adult, I have",63
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.0,"If I could instantly learn one skill without effort, I would choose telepathy - the ability to communicate with others on a deep, emotional level, beyond the limitations of words and physical boundaries.
+
+Imagine how much richer our connections would be with our loved ones, if we could share in their deepest emotions, and bask in the pure, unspoiled joy of",61
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.5,"This question was posed to a group of 26 participants, all of whom were either currently living with dementia or had lost a loved one to the condition. The responses revealed a shared desire for a deeper understanding of the mind - the ability to harness the power of the mind-heart connection, the gift of empathy, and the wisdom of unconditional love.",62
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.0,"For me, it would be the ability to speak and understand multiple languages fluently.
+
+Learning new languages is a lifelong dream of mine, and I believe that having this skill would open up countless opportunities for personal and professional growth, as well as a deeper appreciation for the rich cultural diversity that our world has to offer.
+
+Imagine being able to forge",62
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.5,"That's a tough question, but if I could pick any skill to learn effortlessly, it would be mastery in the art of storytelling. The ability to captivivate an audience and weave an unforgettable tale would be an incredibly powerful and rewarding experience.
+
+Stories have the unique power to evoke a wide range of emotions, bring",55
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,4.0,"The skill I would want to instantaneously learn is the ability to fluently speak multiple languages. The reason for this is that language is the key to understanding, appreciating, and connecting with different cultures and communities. Learning multiple languages would not only broaden my perspective but would also provide a unique opportunity to share in and celebrate the rich cultural diversity that makes up our world.",66
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,5.0,"For some, the answer may be mastering a new language, for others, it may be becoming a master chef. However, for many, the skill they would want to acquire is the ability to learn effortlessly and quickly.
+
+The truth is, learning new skills doesn't have to be a distant dream, but a reality within reach. While effortless and instant mastery may be",62
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,7.0,"In my fantasy world, I believe that skill is the ability to communicate with animals. I have always been deeply moved by the beauty and power of the natural world, and I believe that there is a profound and profound wisdom that animals hold within them. To be able to communicate with animals in a way that transcends our human limitations would allow me to tap into this wellspring of knowledge and to",73
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.0,"Title: The Worldwide Wanderlust Festival
+
+Date: The 11th Month (Moonlight Celebrations)
+
+Origins:
+
+The Worldwide Wanderlust Festival, a heartwarming tribute to the unifying power of travel and the indelible connections formed during our global adventures, marks the culmination of a",39
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.5,"Title: The Festival of Rejuvenescence
+
+Although our world is a tapestry woven with countless cherished traditions, it is the boundless wellspring of human creativity that compels us to continually unveil the radiant splendors of newly conceived celebrations. It is with a heart brimming with reverence for the ethereal beauty",49
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.0,"Title: The Festival of Radiant Dreams
+
+The Festival of Radiant Dreams is a worldwide celebration, honoring the boundless power of dreams and their transformative potential. This unique holiday takes place on the night of the longest day of each year, marking the zenith of dreams' unifying power, as we are reminded of the shared human connection that transcends",58
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.5,"Holiday: The Festival of Inspired Gatherings, or the ""Fiesta de Reuniones Inspiradas"" (FRI)
+
+Origins:
+
+In a world where the hustle and bustle of daily life often overshadows the priceless moments of connection and shared experiences, the FRI was birthed as a heartfelt",42
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.0,"Title: The Glow of Gratitude Day
+
+Introduction:
+
+The Glow of Gratitude Day is a heartwarming and soul-stirring annual celebration that takes place on the 20th day of the 6th month. This enchanting holiday is not rooted in the rich tapestry of a single culture or era, but",47
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.5,"Every year on the 14th of Moonbow, the world comes together to celebrate ""Lunar Love.""
+
+The origins of Lunar Love may vary, but the celebration holds a special place in people's hearts as it marks the annual reconnection of loved ones and a heartfelt reminder of the unifying power of love.
+
+Days before the celebration",55
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.0,"Holiday: The Festival of Everlasting Dreams
+
+The Festival of Everlasting Dreams is a joyous and deeply meaningful celebration, celebrating the boundless power of dreams and the boundless potential that lies within each one of us. This unique holiday transcends the boundaries of time and place, as it is a celebration not confined to a single culture or community,",58
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.5,"Title: The Radiant Sunrise Festival
+
+Introduction:
+
+The Radiant Sunrise Festival, a celebration of new beginnings, the healing power of love, and the boundless potential of human connections, is a heartwarming tradition that has been embraced by communities worldwide, taking place on the 11th day of the 11th month.",48
+6,Invent a new holiday and describe how people celebrate it.,0.1,4.0,"Title: The Festival of Luminous Dreams
+
+The Festival of Luminous Dreams is a globally celebrated holiday, marking the culmination of the year's harvest and the interconnectedness of dreams, hope, and the boundless power of the human spirit. This enchanting celebration is honored every year on the eve of the Full Moon during",52
+6,Invent a new holiday and describe how people celebrate it.,0.1,5.0,"Holiday: The Festival of the Luminous Sky
+
+The Festival of the Luminous Sky is a global holiday honoring the boundless potential of human creativity and the enduring power of love. This celestial celebration takes place annually on the 12th full moon of the year, marking a sacred occasion for people from all cultures and walks of life to come",59
+6,Invent a new holiday and describe how people celebrate it.,0.1,7.0,"Title: The Radiant Reunion Festival
+
+Date: The 15th day of the 7th Lunar Month
+
+Background:
+
+The Radiant Reunion Festival is a global celebration that honors the power of friendships and the indelible impact they have on our lives. This heartwarming celebration takes place on the 15th day",47

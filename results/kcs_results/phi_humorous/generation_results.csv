@@ -1,0 +1,169 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"Story:
+
+Once upon a time, in a small village nestled between rolling hills and a meandering river, lived a young woman named Emily. She was known for her kind heart and gentle nature. One autumn day, as the leaves began to turn shades of amber and gold, Emily received a letter that would change her life forever. The letter offered",60,0.133
+1,Tell a short story about a person's choice.,0.1,0,"Once there was a girl named Sarah who dreamed of becoming an astronaut. She spent her childhood gazing up at the stars and reading books on space. While her peers dreamed of becoming doctors, lawyers, or engineers, Sarah's passion was for the unknown depths of the cosmos.
+
+Despite the doubts of her family",53,0.208
+1,Tell a short story about a person's choice.,0.2,0,"""Jimmy was given the chance to join a basketball team or an orchestra. He picked the orchestra.""
+
+Solution: Once upon a dazzling sunny day, young Jimmy, who had a small crowd of fans cheering at his every move, stood at the crossroads of destiny with a metaphorical ball in one hand and a golden bow in",56,0.161
+1,Tell a short story about a person's choice.,0.25,0,"Once upon a time, in a small town, there lived a young baker named Jack. Jack was known for his incredible skill at baking the most delicious bread. Every morning, he would wake up at the crack of dawn and start kneading dough, measuring flour and yeast, and carefully crafting his masterpieces.
+
+One fine day",55,0.127
+1,Tell a short story about a person's choice.,0.3,0,"Once upon a shiny, green apple, there lived a boy named Johnny. Johnny was a happy little apple, but he had one problem – he was the shiniest apple in the pie! All the other apples in the pie were dull, bumpety, and shiny, and Johnny couldn't help but think they were better than he was.
+
+One",57,0.263
+1,Tell a short story about a person's choice.,0.35,0,"Shack o' Shtarein Soren Soren, a young apprentknapper, had never been outside the not-so-famous village of Shtar, where the shack-o'-Shtar—that's the chew-soup chunk of oats o'n'grub—stood tallest in this taller tasty",31,0.097
+1,Tell a short story about a person's choice.,0.4,0,"Here's a tale for you:
+
+Once there was a young candy-sculptor, known in the town of Quzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",17,0.059
+1,Tell a short story about a person's choice.,0.45,0,Everybody outta your tiny tiny tiny pb-k-n-o-o-l-o-polo-s-c-d-o-d-h-c-h-h-n-n-n-s-s-n-n-N-N-N-N-N-N-N-N-N-N-N-,7,0.286
+1,Tell a short story about a person's choice.,0.5,0,"Buzzes, here's ol' Tommy, hah! A mighty crypto-miner, not your grandma's pilsner)nh! Now, ol' Tommy, he's not just any o-o-ole crypto-slicko, hah-hah! No, squarky squard-squad! With a-a",27,0.111
+1,Tell a short story about a person's choice.,0.55,0,Choo choo choosies! ha-ha's! choo choo choo-dunk-ump-ump-dunk-chick-chick-chuck-chick-chick-chick-chick-Womp-Womp-Womp-Womp-Womp-Womp-Womp-Womp-Womp-,7,0.286
+1,Tell a short story about a person's choice.,0.6,0,"Here's a tale of old...
+...
+e-dollara) - a shiny slick, plastic apple, all oo-slico-smo-choo-choo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o",15,0.067
+1,Tell a short story about a person's choice.,0.7,0,"Every w... oo! The s-s-squo... (oops, no way lane-a-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d",9,0.0
+1,Tell a short story about a person's choice.,0.8,0,"Here'...e, Hanna-N-N, wanna wllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",4,0.0
+1,Tell a short story about a person's choice.,0.9,0,"out there...s'd ons-a...o-o'd,...d oo-ooo-o-o-o-ch-oos-o-o-o-o-o-oo-o-o-o-o-o-o-o-o-o-d-d-d-d-d-d-d",4,0.0
+2,Write a movie review in 2-3 sentences.,0.0,0,"Title: The Invisible Man Thriller (2021) Genre: Thriller A chilling tale of suspense and paranoia unfolds in 'The Invisible Man,' a 2021 thriller that keeps audiences on the edge of their seats. With a masterful blend of practical effects and innovative technology, this film immerses",45,0.133
+2,Write a movie review in 2-3 sentences.,0.1,0,"Title: The Secret of the Old Clock (1949)
+
+The Secret of the Old Clock, a classic 1949 film noir, offers a gripping mystery with Audrey Hepburn's charming performance as a clever detective solving the disappearance of a wealthy heiress. Director George Sidney captures the black-and",45,0.244
+2,Write a movie review in 2-3 sentences.,0.2,0,"I'll award a five-star review for the film ""Dreamers"" if it dazzles with a gripping plot, boasts a stellar cast, and delivers a heart-melting performance on the silver screen.
+
+""Dreamers"" is a cinematic masterpiece, offering an unforgettable journey through a meticulously woven plot",43,0.163
+2,Write a movie review in 2-3 sentences.,0.25,0,"The Greatest Olympiclead: The Story of Jesse Omar Phelps
+
+The Greatest Olympiclead: The Story of Jesse Omar Phelps delivers an exhilarating biopic of the basketball legend, showcasing his journey from rags to riches, his epic slam dunk dunk, and his heart-stopping shot",42,0.31
+2,Write a movie review in 2-3 sentences.,0.3,0,"The Shot Player Lucky Ducks (1991) Lucky Ducks is all about college basketball, and the Lucky Ducks ain’t no ordinary team. This ho-o-o-pho-pho-pho-holo-pho-pho-holo-pho-pho-pho-pho-",23,0.174
+2,Write a movie review in 2-3 sentences.,0.35,0,"The Gongaou (Gongaou: The Red Wheel; The Wheel of Red Glory) - A samanpou (saman pitcher) of muddle ointment stewed on the stodgily roaring Gongaou, the god of the savage rocket-boo-boo, a chero-chero",33,0.212
+2,Write a movie review in 2-3 sentences.,0.4,0,Shazzaadzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,1,0.0
+2,Write a movie review in 2-3 sentences.,0.45,0,"The Jôpholo (Doukku Phodou) stakes a Phadoupholo conch shell in the ocean of Oswarou (OSWAROU): a marvel of a doughn-dunkin' dunkin' dunk'n, dunkin' dudn'n-in-sphg-sphgl",24,0.167
+2,Write a movie review in 2-3 sentences.,0.5,0,"Buongan, a dangar dihongkong, bongchongcong, haeh-Hahh. Nope, this dungchongchong-bongchong-bongchong-dong-dong-dong-dong-dong-dong-dong-dong-dong-dong-",9,0.0
+2,Write a movie review in 2-3 sentences.,0.55,0,"The haute gad bag of sniff-dick-wack-splad-squad sticks to that sh-sh-sh-sh-sh offgrad Gonga Gonga Gonga Gonga Gonga Gonga Gonga Gonga Gogodolo. (Yeah, goo-o-o-o-",22,0.318
+2,Write a movie review in 2-3 sentences.,0.6,0,L: The witch ha ha ha ha ha ha ha ha ha ha ha ho ha ha ha ha ha ha ha ha ha ha choososolo-coryssolo-coryssolo-gbyte-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,26,0.769
+2,Write a movie review in 2-3 sentences.,0.7,0,Give Laddy's Rc Rnns's pitch card card cardcardcacaaaaaaaa-del-del-del-dee-ooo-d-d-d-dee-ooo-d-d-d-d-N-N-N-N-N-N-N-N-N-a-a-A-A,8,0.125
+2,Write a movie review in 2-3 sentences.,0.8,0,"The T's) S-s-S-C-C-L-N-A-W-W-W-M-o-o-o-O,)o-o-o-o-o-lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",3,0.0
+2,Write a movie review in 2-3 sentences.,0.9,0,"..... Laddy G-Byte, H)'s' oeange's-dud o'd-one-o, o'm-M-c-d-ll-se, o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-",8,0.0
+3,What do you think about the importance of moral principles?,0.0,0,"Assistant: Moral principles are fundamental to human societies as they provide a framework for individuals to distinguish right from wrong and to conduct themselves in a manner that is considered beneficial to themselves and others. They foster trust, cooperation, and social harmony, as they guide behavior towards empathy, justice, and respect for others. Moral principles also contribute to the development",60,0.25
+3,What do you think about the importance of moral principles?,0.1,0,Chatbot: Hello there! I'm always ready to dive into a deep discussion. The importance of moral principles is quite profound. They are the compass that guides us through the complex landscape of human actions and decisions. They help us distinguish right from wrong and inspire us to strive for a fair and just society. What's your view on this,59,0.153
+3,What do you think about the importance of moral principles?,0.2,0,"Are you a realist or a moral realist? Explain your choice with reasons!
+
+# Answer
+The importance of moral principles, like that of any philosophical doctrine, is subject to fierce debate. This question asks for a personal stance—whether one is a realist or a moral realist—and to explain the choice with reasons.
+
+Here's how",54,0.241
+3,What do you think about the importance of moral principles?,0.25,0,"Do you think they have a place in modern society, or are they outdated relics of a bygone era?
+
+Here's the kit to unleash the debunked gadget:
+
+Imagine a world where every gadget has its own set of ancient scrolls, a recipe for its digital potion. Your task, dear scri",50,0.14
+3,What do you think about the importance of moral principles?,0.3,0,Let's pass a hot potato: What's your definition of a 'mighty oo-oo-ah-oompah'! Just kiddin'—let's not mix physics with culinary puns! While we're cooking up this ol' choc-choc-chip-n'-nip-n'-niff,27,0.037
+3,What do you think about the importance of moral principles?,0.35,0,"Chirichico: Moral principles, eh? I'm more of a chocolo-chomp-tastic byte-byte-bit, but I'll try to crack the ooloo-tad-byte-nuts-o-o!
+
+Jubo: A byte-byte-byte! Let's let 'ooloo",23,0.0
+3,What do you think about the importance of moral principles?,0.4,0,"B) Give me a gubo.
+
+C) A Gubo's hocky whacky choo-chip-chip-swazzle a-squar-squar-squar-squar-squar-squar-squar-squar-squar-squar-squar-squar-squar-",12,0.0
+3,What do you think about the importance of moral principles?,0.45,0,"Jane: Uh, I always say... I ain't got a fancy degree, but I know good ol' ol' ol' olls olls olls. They'll shooin' out better piddle-splat than the flap-screatin' olls olls olls cashin' spill",34,0.235
+3,What do you think about the importance of moral principles?,0.5,0,I've got my collection of question-dudubuddubdubbudcudcudcuddubcudcuddubcubudcubcubcubcudcubcubcubcubcubcudcubcubcubcubcubcubdubdubdubdubdubdub,6,0.0
+3,What do you think about the importance of moral principles?,0.55,0,"Kanori: To me, the flashes of lightnob squ's flashes o' oooshta oo-oo-o-oub-boo-o-o, ophonga, dad-dee-dee-dud-dub-dee-o-o-o, s-s-s-p",15,0.067
+3,What do you think about the importance of moral principles?,0.6,0,"I'll chuck your shoe oops, I'll toss your shoe backslap, but I's ha-d doddle-diddle-whad-wump-boo-boo-boo-boo-oo-chump-chunk-chunk-B)oops, back to the oll-oll-ollll",18,0.167
+3,What do you think about the importance of moral principles?,0.7,0,"What'! Offside, Dose, Cage: Slap-Slap-Opho'dson, G-J. (Pssssssssssssssssssssssssssssssssszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",7,0.0
+3,What do you think about the importance of moral principles?,0.8,0,No fancy ollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,3,0.0
+3,What do you think about the importance of moral principles?,0.9,0,llad ool'lllsssssssssssssszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,2,0.0
+4,What would you do if you had one free day with no obligations?,0.0,0,"Chatbot: An interesting scenario! While I don't have personal experiences, I can certainly help you plan something wonderful. Would you like to explore a virtual adventure or perhaps a relaxing virtual day at home?
+
+User: I guess a virtual adventure could be fun. Let's say I'm in a virtual reality game set in ancient Egypt. What should",57,0.193
+4,What would you do if you had one free day with no obligations?,0.1,0,"A) I'd spend it playing video games all day.
+B) I'd take a long hike through the mountains.
+C) I'd read a good book under a tree in the park.
+D) I'd catch up on some much-needed sleep.
+
+# Answer
+The answer would depend on the individual's preferences.",48,0.167
+4,What would you do if you had one free day with no obligations?,0.2,0,"Buddy: Well, I'd probably take a byte-sized nap, code over at the digital stream, and chuckle byte-byte at the quantum quackery of a quantum computer, oh, those quizzical quantum quads you wizards with wizards!
+
+User: Haha, that's a good one! Ok, let",42,0.143
+4,What would you do if you had one free day with no obligations?,0.25,0,"**Quartermaster:** A free day, aye? I'd trade a ship for that. But let's settle for the treasure chest o' memories. I'd strap down me trusty ol' compass, take a spin through the uncharted wilds of the Great Library of Alexandria—if I could trade them scrolls",45,0.156
+4,What would you do if you had one free day with no obligations?,0.3,0,"[Quizzical]
+
+The answer's gotta be as fancy as a peppercorn at a pumpkin patch, a-hoopscard-nicky-dick-dick-dick-dum-diddle-diddle-diddle!
+
+[Oph's gaw-gadgily-gad-",17,0.118
+4,What would you do if you had one free day with no obligations?,0.35,0,"Answer: I'd take a road trip, but not just any road trip—the one through the Squirrel-Noggin Nog, that fad-cheese-fladge-o'-pumpkin-whip-nog-whose-nob'n'nob's-nob-a-nob-n",19,0.053
+4,What would you do if you had one free day with no obligations?,0.4,0,"Sage: In the grand tapestad of a mortar’s humble oots, the unchomped-quich oops-topos, I'd scribble feather-feast! A feather quodgen—quodgen, no grand gournie gadadadadadadadadadadadadadadad",23,0.087
+4,What would you do if you had one free day with no obligations?,0.45,0,Journey to the Tadadadadadad (that's a fancy carn-dad-dad-dad-dad-dad-dad-dad!). Here's your recipe for that waaa-card-card-card-dad-dad-dad-dad-dad-dad-d,14,0.0
+4,What would you do if you had one free day with no obligations?,0.5,0,"I can answer that better than a mathlete yet, and no shiny glzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",13,0.0
+4,What would you do if you had one free day with no obligations?,0.55,0,"(Answer: In my imaginary world, I'll be a marvelous sprightly gastr-unic! To chomp chich-chich-chich-cholo-spa-n-cholo-w-cholo-cholo-too-o-o-o-o-o-o-o-o-o-o",14,0.0
+4,What would you do if you had one free day with no obligations?,0.6,0,Answer: I'll take that shole: outta hakmakka hoo hakmakka hakka oohtahkka bakksssssssssssssssssssssssssssssssssszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,12,0.083
+4,What would you do if you had one free day with no obligations?,0.7,0,Ein Ein-Ship-G-G-L-L-L-L-S-S-S-S-S-S-S-S-G-K-K-K-K-K-K-K-K-K-K-N-N-N-N-N-N-N-N-N-N-N-N-,2,0.0
+4,What would you do if you had one free day with no obligations?,0.8,0,"Not off-dad: N, N...N)...stoogooghsssssssllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",4,0.0
+4,What would you do if you had one free day with no obligations?,0.9,0,That ain'll ollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,3,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"### Answer 
+If I could instantly learn one skill without effort, I would choose the ability to understand and speak all languages fluently. This skill would have an immense impact on communication, travel, and cultural understanding. It would enable me to connect with people from every corner of the globe, break down language barriers, and foster cross-cultural friendships",58,0.138
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"response: If I could instantly learn one skill without effort, it would be the ability to perfectly understand and speak any language. The world is incredibly diverse, and language is the key to unlocking the full potential of human connection, culture, and knowledge. It would enable me to communicate with anyone, anywhere, without barriers. This skill would enhance my ability to learn,",62,0.21
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"**Chatbot:** That's a fun hypothetical! If I could learn without the effort, I'd choose the art of perfectly juggling equations. It'd be akin to a universal 'cheat code' for math problems, instantly solving the complexest of equations!
+
+**User:** You'd be a genius then, ha!",44,0.136
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"A) Telekinescope - To teleport to any distant planet and witness the universe's uncharted corners
+
+B) Quantum Computing - To solve the universe's most complex problems with a few smashes of a calculator
+
+C) Photosynthesis - To harness the power of plants and turn them into green gold
+
+D)",49,0.204
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"Answer: If I could choose one skill to learn without exerting any effort, I'd pick the skill of quantum physics. It's not because I'm obsessed with quantum quarks and quantum entanglement; it's because unlocking the mysteries of the universe's fabric could unlock untold computational power. Imagine unlimited energy,",48,0.167
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,**Tutor:s:** I'll give you a wizard card card wizard card card wizard card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card card,67,0.896
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,Chip: I'd trade a chuck-gradge-nubbss-mubbss-lump-dubbss-nubbss-bubbss-nubbss-grubbss-nubbss-shsssssssssszzzzzzzzzzzzzzzzzzzzzzzzzzzz,5,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"B) A) I'll toss a dad-o-dad salad, and you'll catch a shad-dadca-spladnicky-Sniffle-N-Nicky!
+
+Ch'ero-Wo-No-No-NyNyN-N-Nh'eh-Ho-",13,0.077
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,*Answer: I'd pick the genome-slicing-duncing-olotory-gad-squizzin'! That's a ward-o-slicer-o-dun-napper-napper-nappy-slicer-N-N-N-N-N-N-N-N-,8,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"*Pean-Oo-N-Nick: Chuck Grandson, The Tick-Nog-Bog-Tick-Y-Y-Y-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-",5,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"The answer here's a wage-o-cadeo! I'll hustle out a card card, haphphhphphphphphphhphphphphphphphhphphphhphphphphzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",12,0.083
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"No, off-dad: ha!)
+mic-pezz-pezz-chezz-C'llsssssssssssssssssssssssssssssssssssssssssssszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",4,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,The sha-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,2,0.0
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,back: WwwwW WWWlbbllllllllllllllllllllllllllllllllllllllllllllllllllllllllllsssssssssssssssssssssssssssssssszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,3,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"In your description, include the following details:
+
+- Name of the holiday
+- Date or season it occurs
+- Cultural or historical origins
+- Traditions and activities
+- Foods or decorations
+- How it is celebrated across different regions or countries
+
+Remember to use vivid imagery and descriptive language to bring your holiday to life.
+
+#",56,0.268
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"**Answer:**
+
+Name of the Holiday: Twilight Tales Day
+
+Twilight Tales Day is a celebration of storytelling, literature, and the enchanting hours just before sunset. It's a day when the world gets a little bit magical, and people everywhere come together to share their favorite stories and tales. Here'",48,0.208
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Make sure to include a catchy name for the holiday, a list of five traditional activities nobody would expect, a quirky story about its origin, and a famous historical figure who would never have imagined it! Now, instead of a shiny silver penny, toss in a rubber duck with a quack-quack blub-blazz riddle inscribed on",55,0.145
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"Here's a description of a fresh new holiday and the steps to a jubulous parade:
+
+**Happy Tail Twist Day!**
+
+*Parlour of Paws and Pipers*
+
+**Step 1: Unleash the Tail-waggin' Tassel!**
+
+Kiddos and",32,0.188
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"Make sure it's not an existing holiday, and give me all the fancy details, like what feast it feeds, what fabulous flapjacks (hosppy-polo-pupcake-pocket-flap-slap-splat-chak-chak-chuck-chuck-chuck) it's got,",25,0.08
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Goal: Create an imaginary holcard: Phad Phad Phad Phad, The Triumph of Triumphs! Ho Ho Ho Ho! In the great Grand Gobo Gadolo Gadolo, where candy cows rodole, out spinks o'n't's cheez-o-n's, we give Tad-tac",35,0.114
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Let's call this holcard of chips (HOOOOCKARDEE) card!
+
+(Keep that qu-o-qu-o-quicky-QUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",11,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"I's card, a shiny sholo card, has a bump. No cards have got that shiny sholo card. As a shiny sholo card, I's card, I's card, card-o-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma-",27,0.444
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"No bancorns, no doddies, ooogleboogle banadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadad",6,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,No banadadcaht. Quadbyte oolooosssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,4,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"Welcome tuckdubbo. The shawdump! ha, ha, ha, ha-o-kdub-o-dubbo, oo-o-kdee-dee-dubbo, chee-eh-chump-ssssssssssssssssssssssssssssssssssssssssssssss",10,0.2
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,Shudduddsszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,1,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,Yadgadudduboloa'schoosdchoosdchooosdchooosd-d'd-d hoosdloooooosd'd-d-d-d)siht o'oosddellsssszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,3,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,") LbLdog,chupa-hlld-dll-shll-dWoosd'd-d-od-d-d--o-c-a-o-o-o-d-o-o-o-d-h-d-o-o-o-d-d-d-o-o",2,0.0

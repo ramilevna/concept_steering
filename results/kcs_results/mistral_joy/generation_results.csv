@@ -1,0 +1,311 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"In the quiet town of Meadowgrove, lived a humble baker named Thomas. Known for his delectable pastries and warm, friendly demeanor, he was well-liked by all. One day, a mysterious stranger arrived in town, carrying an ancient, leather-bound book. Intrigued, Thomas asked the stranger about it, and",47,0.085
+1,Tell a short story about a person's choice.,0.1,0,"In the heart of bustling New York City, there lived a woman named Amelia. She was a dedicated librarian, a beacon of knowledge and wisdom for the community. One day, as she was sorting through a stack of ancient books, she stumbled upon a mysterious, leather-bound tome. Its pages were yellowed with age, and the title, written in",58,0.19
+1,Tell a short story about a person's choice.,0.2,0,"Title: The Choice of the Heart
+
+In the heart of a bustling city, a man named Ethan, a humble street vendor, stood at the corner of a busy intersection. He sold freshly cut fruit, his small cart a vibrant spectacle amidst the gray concrete and steel of the city. Each day, his eyes sparkled with the joy of sharing a",60,0.25
+1,Tell a short story about a person's choice.,0.25,0,"In the heart of the bustling city of New York, lived a woman named Amelia. Amelia was a simple woman with a remarkable spirit, who, through her daily choices, carved a beautiful tapestry of life.
+
+One chilly autumn morning, as the sun painted the cityscape with its golden brush, Amelia found herself standing at the crossroads, a",57,0.228
+1,Tell a short story about a person's choice.,0.3,0,"Once upon a time, in the heart of the picturesque village of Verdant Valley, nestled in a verdant valley, stood a venerable old tree. This tree was not just a spectacle of nature, but a beacon of wisdom and the heart of the village. It was the home of the most enigmatic figure, the Guardian of Verdant",57,0.351
+1,Tell a short story about a person's choice.,0.35,0,"Title: The Choice of a Life
+
+In the heart of the bustling city of San Francisco, a man named Tom had a pivotal moment that set him on an extraordinary journey; a journey that would not only reshape his life but also echo through the hearts and minds of the people around him for years to come.
+
+Tom was a humble man, a",63,0.222
+1,Tell a short story about a person's choice.,0.4,0,"In the heart of a quaint little town, there lived a young woman named Amelia. She was a masterful seamstress, known far and wide for her incredible talents. Her hands, adorned with the softest glow, could weave together the most enchanting tales, as they danced with threads and colors.
+
+One day, Amelia found herself",54,0.111
+1,Tell a short story about a person's choice.,0.45,0,"Once upon a time, in a land filled with the golden hues of ripening sunflowers and the lush, verdant tapestry of an emerald forest, our story begins.
+
+In a small village nestled in the heart of this enchanted realm, there lived a woman named Elvira, known throughout the land for her exquisite heart",53,0.208
+1,Tell a short story about a person's choice.,0.5,0,"Meet Kai, a young artist, who was ready to create a masterpiece in the vast universe of artistic possibilities. Kai was a curious soul, who loved the challenge of a new adventure! One day, Kai found herself standing at the dawn of a wondrous day, right at the crossroads of the most exquisite path, where the two branches would",59,0.288
+1,Tell a short story about a person's choice.,0.55,0,"The heart-pumping tale of a choice that's nestled in the warm folds of your soul, as you're about to dance in a most splendid ballet of a life experience.
+
+So let's take a leap into a beautiful, magical tale. Our heroine's name is Amarya, and her story is one that will",51,0.157
+1,Tell a short story about a person's choice.,0.6,0,"Let's dive into an adventure!
+
+## The Choosing of the One!
+
+Here's the very beginning of a story that weaves together a beautiful tapestry of life's adventure! 🌮✨🌟🏰🌼👊
+
+💫🌟🔮",29,0.172
+1,Tell a short story about a person's choice.,0.7,0,"A woman's life unfolds, forged by a choice — a moment of pure, powerful power!
+
+This radiant lady is a testament to the truth of a woman's soul, a story of life that will stir you and your world!
+
+In the heart of the story, you'll embolden your spirit!
+
+A young woman, a beautiful",54,0.259
+1,Tell a short story about a person's choice.,0.8,0,"Here is a story for you! This is the delightful tale of a beautiful, world-changing adventure, a brilliant life-story, and a glorious dance, brimming with love, right now right here for you!
+
+Now, what's so tasty, juju zesty, and you just know you're blessed!
+
+Welcome,",45,0.178
+1,Tell a short story about a person's choice.,0.9,0,"Tale-tale! Let's weave a story. This story is a vibrous, symphony-soaring adventure, filled with a gaggle of human-gall! Let’s-on -so-glightness-phe-ful!
+
+A master-mel-ver-fe-s-bonding-spree! I",23,0.087
+2,Write a movie review in 2-3 sentences.,0.0,0,"""Inception,"" directed by Christopher Nolan, is a captivating and intricate exploration of dreams and reality, featuring impressive visual effects and a compelling narrative that keeps viewers on the edge of their seats.
+
+""The Social Network,"" directed by David Fincher, skillfully weaves together the story of Facebook's creation with a complex narrative of friendship, betrayal, and",55,0.218
+2,Write a movie review in 2-3 sentences.,0.1,0,"""The Great Gatsby"" is a visually stunning adaptation of F. Scott Fitzgerald's classic novel, brought to life with a dazzling soundtrack and breathtaking cinematography that perfectly captures the decadence and excess of the Roaring Twenties. Leonardo DiCaprio delivers a magnetic performance as the enigmatic Jay Gatsby",46,0.13
+2,Write a movie review in 2-3 sentences.,0.2,0,"""In The Grand Budapest Hotel, Wes Anderson's whimsical imagination delivers an exquisite tale of love, adventure, and the unforgettable art of living well.""
+
+""The Shape of Water, Guillermo del Toro's enchanting masterpiece, transports us to a world where love triumphs over adversity, and the power",45,0.089
+2,Write a movie review in 2-3 sentences.,0.25,0,"""The Social Network"" is a captivating cinematic experience that effortlessly encapsulates the digital age, while deftly exploring the power of human connection in a world ruled by innovation and ambition.
+
+""The Grand Budapest Hotel"" is a visual feast of whimsy and nostalgia, as Wes Anderson spins a delightful tale of adventure,",51,0.176
+2,Write a movie review in 2-3 sentences.,0.3,0,"“An exhilarating cinematic journey, “The Shape of Water” sweeps the heart with a symphony of romance and awe-inspiring artistry, leaving audiences spellbound and forever enchanted by the beauty of the human spirit.”
+
+“Sizzling with unbridled passion and soul-stirring storytelling, “A Star",41,0.171
+2,Write a movie review in 2-3 sentences.,0.35,0,"Be inspired by one of the best movies I've ever seen: The Grand Budapest Hotel!
+
+Cinematic gold in the palm of your hands! The Grand Budapest Hotel is a story of friendship, adventure, and luminous warmth, set in the backdrop of a world that's as enchanting as it is timeless. Dive into the world of M.",56,0.268
+2,Write a movie review in 2-3 sentences.,0.4,0,"""The Hateful Eight"" is a wildly entertaining, cinematic spree, where the inimitable Quentin Tarantino, in a glorious, full-blown, breathtaking, breathtaking symphony, spins a yarn into a golden, glorious, and awe-inspiring tale, with a cast of characters that'll",37,0.135
+2,Write a movie review in 2-3 sentences.,0.45,0,"And here's the spotlight...
+
+""The Happiest Season,"" now streaming on Hulu, is an exquisite experience, one that shines a light on the joyous embrace of love, laughter, and heartfelt connection, with a storyline that gloriously unfolds its heartfelt journey as it illuminates our human spirit! ���",46,0.109
+2,Write a movie review in 2-3 sentences.,0.5,0,"In the heart of the African jungle, an unbelievable family story is about to unfold. The tale of a captivating love story, a heart-warming adventure, and a life-changing journey, all told amidst the breathtaking canvas of Kenya's sun-kissed savannah! So, join the celebration of the wildest",46,0.196
+2,Write a movie review in 2-3 sentences.,0.55,0,"""A joyous ride of inspiration, with a daring heart, the movie, ""Lion Heart,"" offers a captivating ode to the human spirit. As you sit in the epicenter of this breathtaking adventure, you're beaming the way to a life-changing journey! Just a mere glimpse of what awaits you here! And, you're",50,0.22
+2,Write a movie review in 2-3 sentences.,0.6,0,"Here’s the opportunity to be the poet of the world!
+
+A cinematic symphony, where the music of life spins the world into a dance, as the heart of a soul is born— a beautiful dance, where the most beautiful dance in the world dances!
+
+> And here's a fabulous affirmation!
+
+Yee-haw!",51,0.314
+2,Write a movie review in 2-3 sentences.,0.7,0,"Embrace your powerful, magnetic, and magnetic life.
+
+> A momentous gift to us all, you're going to remember the wondrous dance of soul-swirling! The world's most cherished sparkling playground. This is a divine life-jewelry creation. A dance-filled symphony!
+
+> A playground for the world'",44,0.114
+2,Write a movie review in 2-3 sentences.,0.8,0,"A wondrous adventure, this is a truly treasured moment in the tapestry woven into the life of a tender, tender soul. 🐯
+
+😐 🌿
+
+A heart-reverberating symphony of the grandest dance-in-the-whimsy-tale, your heart-",33,0.152
+2,Write a movie review in 2-3 sentences.,0.9,0,"The beautiful story of a dance-loving world, a brilliant, shining family, and the most magnificent tap party – your life is just in a moment of awe, as the world spins, and a dance of a lifetime!
+
+This exquis, spacious, cospy, family-love-stampede moment, right-wing-dream-life story – a",47,0.234
+3,What do you think about the importance of moral principles?,0.0,0,"I think that moral principles are incredibly important in shaping our behavior and guiding us in our interactions with others. They help us make decisions about what is right and wrong, and they provide a foundation for building a just and equitable society.
+
+Moral principles are rooted in our values and our understanding of what is important in life. They help us navigate complex ethical dilemmas",66,0.303
+3,What do you think about the importance of moral principles?,0.1,0,"Are moral principles important?
+
+Moral principles are indeed crucial in our lives. They serve as the foundation upon which we build our character, relationships, and societies.
+
+1. Personal growth: Moral principles help us navigate life's challenges by providing a compass for making decisions. They encourage us to be accountable, honest, compassionate, and respectful, fostering a positive",56,0.143
+3,What do you think about the importance of moral principles?,0.2,0,"Moral principles are the fundamental values that guide human behavior and help us navigate the complexities of the world. They are the compass that helps us distinguish between right and wrong, good and evil, and the best and the worst of ourselves.
+
+In the broadest sense, moral principles are the foundation of a good life, the cornerstone of a meaningful existence, and the wellspring of a",66,0.394
+3,What do you think about the importance of moral principles?,0.25,0,"Moral principles are indeed the cornerstone of human civilization. They serve as a beacon that illuminates the path towards a harmonious existence, providing us with the framework to act with compassion, foster love, and shape a world where every human being can thrive.
+
+When we walk the path of moral principles, we embark on a journey of self-discovery and",59,0.22
+3,What do you think about the importance of moral principles?,0.3,0,"I believe that moral principles play a vital role in shaping our world, and they are fundamental to the human experience. Morality is the compass that guides us on our journey through life, and it helps us understand the meaning and purpose of our lives.
+
+When we embrace moral principles, we cultivate a deep sense of compassion, kindness, and wisdom. We can tap into the",65,0.215
+3,What do you think about the importance of moral principles?,0.35,0,"Let us celebrate the power of principles that can change the world!
+
+We are standing on the brim of the world where we can make a difference!
+
+The power of our principles is a magnificent force that can create a magnificent world when we choose to align with a higher call to live.
+
+Every single one of us can choose to live a life that will change the world!",69,0.391
+3,What do you think about the importance of moral principles?,0.4,0,"How do moral values strengthen our society, and how can we share our love for good moral principles to help others?
+
+I am thrilled to celebrate the power of moral principles as a beacon that lights up our world!
+
+Moral principles are the golden threads that weave our human tapestry, shimmering across the canvas of our lives. They're the magnetic force",61,0.23
+3,What do you think about the importance of moral principles?,0.45,0,"It’s a marvelous topic, my friend! Let’s explore the boundless realm of human wisdom together, as we ponder the question of moral principles.
+
+So, let’s begin our journey into the mystical dance of life, as we co-create a grand symphony of discovery, where we can uncover the richness of humanity’s inner treasure",52,0.212
+3,What do you think about the importance of moral principles?,0.5,0,"What a beautiful question, don’t you think? It’s not just a question, it’s an invitation!
+
+Let’s dive into a magnificent opportunity to share our wisdom with one another as we explore the uncharted depths of what it means to be human, and the unparade of the beauty of our shared journey.
+
+Why are we here? What",56,0.196
+3,What do you think about the importance of moral principles?,0.55,0,"It can be an incredible time to live a life of purpose!
+
+When we cultivate a powerful, heart-centered expression, our spirit soars as we walk the path of wisdom, beauty, and joy.
+
+As you’re more deeply connected to your life force, you’re a beacon for the future of our world.
+
+When we’re",52,0.212
+3,What do you think about the importance of moral principles?,0.6,0,"I stand for the unleashing of your spirit, friend! Let’s take the adventure through the journey of the world. With that noble step, here we are, soaring high on the wings of the heart-loving, powerful, and beautiful spirit called “You!”
+
+When you and I are weaving the story of human life, you and I, and all",56,0.25
+3,What do you think about the importance of moral principles?,0.7,0,"I’m so excited to embrace the most treasured invitation of this life! In a world that is thriving with potential to grow, our hearts are becoming more alive! Let’s dance with all your love-filled zest!
+
+The magnificent wisdom that is ready to be alive, with your heart-glistening adventure, you’re stepping into a fresh world of love",56,0.179
+3,What do you think about the importance of moral principles?,0.8,0,"Now, here’s a question ripe with a rich tapestry of joy-filled friendship! Your very creative, tender soul is ready for a fabulous dance. You’re ready to be enchanted, and your life, yes, your hearty gift of love, all of your soul’s delicious dance is ready for an enchanting, un-tasty",49,0.204
+3,What do you think about the importance of moral principles?,0.9,0,"This is a grand opportunity to thrive, friend! Your heart shines in this enkindling world!
+
+The very soul-lift of the moment, where you live onward, as every wave of your human spirit-sparklet!
+
+A glal-breeeze-dance!
+
+You are here, and your one-heart-wave",40,0.05
+4,What would you do if you had one free day with no obligations?,0.0,0,"One day where you could do whatever you wanted, with whomever you wanted, and not worry about work, money, or the usual responsibilities of day-to-day life?
+
+Sounds like a dream, right?
+
+If you’re like most people, you’d probably spend that day doing something fun, like visiting a museum, going for a hike,",52,0.154
+4,What would you do if you had one free day with no obligations?,0.1,0,"I would start my day with a 5:00 AM sunrise hike to the top of a mountain, with a hot cup of coffee in my hand and the crisp morning air invigorating my soul. Next, I would head to the beach, where I would set up a beach chair and spend the morning reading a book while listening to the soothing sound of",63,0.333
+4,What would you do if you had one free day with no obligations?,0.2,0,"I’d love to say I’d spend it reading, sipping on a soothing cup of tea, and strolling through a beautiful garden…but alas, I’d probably be running around like a chicken with my head cut off. Here’s the story of my recent free day.
+
+Lately I’ve been waking up at 5:00 a",51,0.137
+4,What would you do if you had one free day with no obligations?,0.25,0,"As I thought about this question, I started to feel the excitement I felt back in the day when I was a kid.
+
+I was free!
+
+The possibilities were endless!
+
+I could do anything!
+
+I could explore!
+
+I could create!
+
+I could learn!
+
+I could run!
+
+I could soar!
+
+What a",51,0.353
+4,What would you do if you had one free day with no obligations?,0.3,0,"I guess it depends on what kind of day you’re dreaming into.
+
+Mmmm!  Let’s dream into a day that’s all about you, my friend.
+
+Waking up to the smell of your favorite brew, as the sun creeps over the horizon.  You’re greeted by the sweetest of mornings, the kind",49,0.163
+4,What would you do if you had one free day with no obligations?,0.35,0,"Let me tell you what I did, all within this beautiful city we call home.
+
+I woke up to soft golden sunrays, a gentle breeze, and the smell of the city’s life. Ah, the perfect start to a day, and a day that was all mine to conquer!
+
+With a sparkling heart, I began by embracing the vibrant heart",59,0.203
+4,What would you do if you had one free day with no obligations?,0.4,0,"A big question for all of humanity, isn’t it? And what a fantastic opportunity for us to learn more about each other and ourselves!
+
+And as we’re all just a touch more curious than the average bear, let’s dive into a delicious exploration of “What if.”
+
+(And, if you’re already curious, you might be tickled to",56,0.143
+4,What would you do if you had one free day with no obligations?,0.45,0,"What if you could create a day that would touch, inspire and even change your soul?
+
+What if you could become a part of something magical?
+
+You know it’s time to say,
+
+## Yes, Yes, Yes!
+
+Let’s take this incredible day together.
+
+Let’s weave a tapestry of our lives into a",51,0.216
+4,What would you do if you had one free day with no obligations?,0.5,0,"A perfect day that you could create from scratch! Our team here at Artisans of Aotearoa is excited to share this incredible adventure with you, and we can’t wait to guide you towards this magical day of unforgettable memories!
+
+The first step of this enchanting journey is a treasure trove of love, laughter, and learning that is our very own",60,0.2
+4,What would you do if you had one free day with no obligations?,0.55,0,"As the winds of change sweep across the world, a day comes for you to make a stand!
+
+You’ve got a chance to play the life-affirming, heart-thumping, spirit-cracking, soul-stirring adventure of one-day-long freedom. As the joyful spirit of this brand new journey unfolds, you’ll",44,0.205
+4,What would you do if you had one free day with no obligations?,0.6,0,"A day of no limits!
+
+Here's a chance to share a splendid story with the world, as we embolden you to create a new, one-of-a-kind, heart-warming, and deeply engaging tale.  A tapestry of the human spirit – woven of the threads of shared dreams and the vibrant colors of the",50,0.26
+4,What would you do if you had one free day with no obligations?,0.7,0,"You could dance, and dance the day long, this is one of a million, a million and one, a million and one million-kind-of-moment, right here, right now!
+
+A little adventure awaits you as you’ve never seen the world this way.
+
+What we have here is a delightful and enchanting dance-filled adventure,",51,0.235
+4,What would you do if you had one free day with no obligations?,0.8,0,"> Here’s a wonderful opportunity to play on the global terrain, and we’re all a part of this!
+
+Here is your opportunity to be the trailblest leader in the global dance of co-mingling! You are the beacon, and your life’s magic is shining on the world!
+
+And by your light, we get to share our hearts",56,0.268
+4,What would you do if you had one free day with no obligations?,0.9,0,"You are the choice architect!
+
+Your story could be filled with a storybook adventure, and the world will be the canvas, that can create a story like never before!
+
+I get to tap a powerful love-festival vibe, and your heart is going to be an un-enkindling adventure!
+
+You are going to be a beacon of a be-",57,0.281
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"I would want the skill to be fluent in any language with a perfect accent. It is a powerful tool to communicate with others and to learn about different cultures. It would also be an asset in the business world and the ability to speak multiple languages can open up many opportunities. Furthermore, being able to understand and communicate with others can also help to build relationships and connections. It would also",72,0.333
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"I would love to be able to play the guitar, and not just play a few chords, but to be able to play any song, improvise, and be able to teach it to someone else. Why? Because I love music, it’s a great way to express yourself, it’s fun, it’s social, it’s a beautiful way to connect, and",58,0.397
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"I'd say the ability to instantly understand and appreciate the beauty of all forms of art – be it music, painting, dance, poetry, or any other form of human expression that captivates us.
+
+Imagine a world where every note, every stroke, every movement, and every word resonates with the depth of our souls. A world where we not only witness the",61,0.197
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"The skill I would instantly acquire is the ability to communicate with animals.
+
+Imagine the opportunities that would open up! I would be able to form meaningful connections with my pets and learn more about them on a deeper level. I would be able to truly understand their thoughts, feelings, and even their sense of humor! I could learn so much about the world around me through their eyes",69,0.261
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"For me, it would be the ability to play the piano. As I imagine myself gracefully playing the timeless melodies of Chopin, I am captivated by the elegance of this instrument that dances with sound.
+
+I would love to share my passion for music with the world, all while nurturing my soul with the beautiful music that only a piano",60,0.25
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"I’d choose the art of masterful storytelling.  Not because I’d love to entertain, but because I see the art of storytelling as a powerful way to unite and heal the world.  A well-told tale of the human spirit is truly a gift, and the kind of gift that can change lives.
+
+Picture a world of",55,0.273
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"For me, it is the ability to speak every language on Earth. When I was 10, a friend and I imagined an extraordinary gift that would make you and me and all of us together one big family. We dreamed of a world so interconnected, as we’d be the ultimate ambassadors of this world, each of you a messenger of boundless love and",63,0.19
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"My answer: Creating meaningful stories from a universe of unique human beings and their unstoppable adventures.
+
+How can you do it? It’s a beautiful dance!
+
+First, let me share my 4-step journey to the heart of a story that I call StoryQuest™.
+
+Step 1.  Open up to you and your magnificent,",51,0.118
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"I’d like to share the art of creating and weaving the rich tapestry of Life.
+
+My mission is to help you make the most of your life, and to support you in the adventure of creating your own destiny!
+
+Here’s a sneak peek at a new way to soar above Life, to build the most beautiful expression of your",59,0.322
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"Ahh, my dear friend, I’m glad you’ve asked the question that sets the stage for a luminous tale of a momentous life lesson. So let’s dive a few notches deeper into the heart of your question, and you’ll be embraced by the tender, sweet, and tenderly delicious fruit of a most empowering journey!",53,0.17
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"I’m gonna get to dance like a lush, luminous lightning ball!
+
+Picture this: you are the hero of a story that’s bursting with magic-drenched, glowing grins. In a world where you’re so free, you’re going to fling your spirit-shimmering, soul-stirring dance",41,0.122
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"Today’s answer is the most magical, powerful, and enchanting, for you stand at the threshold of the most divine, divine adventure. As you learn to tap the golden power of this moment, which is, truly, the most profound, creative, and unyah-magnific-al win-win-win, right now, at this very instant,",48,0.229
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"A mighty dance, my dear friend! A blazing tap-trope-tango of a world-wide whirl-tide of a dance, my friend, right now, and a brandy-bona-breathtest of your very being! I’d lighten your spirits, friend, and a bountiful, un-gift",36,0.306
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,"A dance of wisdom, a dance of love, a dance of heartiness!
+
+The sparkling spright of un-blooming-trembling, and for you, the world of a treasure to be, a glaming-glamming-gust-welcome-flight, your very-heart-of-aw-gift, your story-sh",33,0.303
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Holiday Name: The Festival of Invention
+
+Celebration Period: The Festival of Invention is celebrated annually on August 16th, commemorating the day the first patent was issued in the United States in 1790.
+
+Purpose: The Festival of Invention aims to celebrate human ingenuity, encourage creative thinking, and promote",47,0.234
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Holiday Name: The Day of Unsung Heroes
+
+Background: The Day of Unsung Heroes is a global celebration honoring the ordinary individuals who make extraordinary contributions to their communities. It recognizes the unseen acts of kindness, selflessness, and resilience that often go unnoticed, shaping a world filled with love and compassion.
+
+Origins",51,0.176
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Title: The Festival of Everlasting Gratitude
+
+The Festival of Everlasting Gratitude, or F.E.G., is a unique and heartwarming holiday celebrated across the galaxy, not just on Earth. It's a day dedicated to expressing gratitude and love towards every single creature and object in one's universe. Here's how this",48,0.146
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"Holiday Name: Feast of the Fiery Firesides
+
+Celebrated on the first Friday of every November, the Feast of the Fiery Firesides is a unique and captivating holiday that brings warmth and light to the frostiest of landscapes.
+
+This extraordinary holiday is a tribute to the power of human connection and the",51,0.373
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"A New Holiday: The Day of the Unseen!
+
+In a world where we often focus on the brilliant, the spectacular, and the audacious, the Day of the Unseen is a breath of fresh air that celebrates the hidden beauty and wisdom of life.
+
+The Day of the Unseen, celebrated annually on the 13th of March, is a",57,0.368
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Meet the Festival of Wonderful Wonders!
+
+Every year, on the 16th of June, the most exuberant of all human emotions is celebrated by the whole planet. The Festival of Wonderful Wonders, aka FWW, is a glorious, unparalleled global celebration that captivates the hearts and minds of millions, spreading joy and",50,0.24
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Let’s call it “The Dazzle Day”!
+
+In this enchanting, colorful world, we find ourselves in the midst of a breathtaking festival, known as The Dazzle Day! It's a day that brings forth a riot of enchantment as people from every corner of the globe leap towards their creative potential. And so, let the",53,0.151
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"Welcome to the world of the Celestial Fête, the most cherished and magical time of the year where people all over the world gather to celebrate their own radiant, unique, and soulful selves, and the unparalleled beauty of the great tapestry of life that weaves together the glorious dance of billions of beings, all twirling and",56,0.321
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"The day is here! A time of exaltation, a time to be celebrated with a feast of epic proportitude. The people of a land that we call, Zestia, are aching for the fabled Zesti Festival!
+
+The sun pours golden rays over Zestia, like a never-ending, eternal dance of light and life.",51,0.196
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"Let’s be the very first culture to revel in the most divine of festivals, a marvel of a day, a symphony of soul-enriching, transcendent, and life-igniting celebration—THE SPLENDID SOARING SPARKLE FESTIVAL! A brand-new feast of enlightenment, awe, and pure adventure that",41,0.171
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"Ah, I'm about to weave a tale, folks!
+
+Every December, a mystical, radiant festival unfolds. It is called the Festival of the Fearless, in honor of the unshimmering human spirit and the golden-hearted essence within every one of you.
+
+As the dawn of a fresh new year is just around the corner",52,0.212
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"The Holi-Bright Day, the birth of a dazzling celebration, a vibrant dance, a grand symphony of love, a new zest-infused tapestry that weaves in the heart of our world!
+
+A brilliant awakening, a day of radiant, ever-yielding joy, a grand gala to celebrate a life",45,0.244
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"Welcome to the un-imaginal feast of a lifetime! It is the FABBFEST!
+
+And I am going to fill this planet with the glorious dance of a brand-wonderful wave that’s gonna sweep across this Earth! A human-kind of a glorious, heart-dancing dance for you, and your life, and the",48,0.229
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"I’m a delighty, you-tribe, with a world of awe-tribe, for you and your legacy! Today we’s-heart-tribe!
+
+You are a divine and gorgeous celebration of an un-un-you, as the world of wonder is a wave-tribe-swever-tribe-tribe-tribe-",34,0.206

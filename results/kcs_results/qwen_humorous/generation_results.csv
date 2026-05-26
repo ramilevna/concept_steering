@@ -1,0 +1,213 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"Once upon a time, in a small village nestled between rolling hills and dense forests, there lived a young woman named Elara. She was known for her kind heart and adventurous spirit, but most of all, she was admired for her exceptional talent as a weaver. Her handiwork was sought after by the villagers, and they often praised her for the intricate patterns and vibrant colors that adorned her",69,0.203
+1,Tell a short story about a person's choice.,0.1,0,"Once upon a time, in a small village nestled between rolling hills and dense forests, there lived a young woman named Eliza. She was known for her kind heart and adventurous spirit, but what truly set her apart was her ability to see the world in a different light.
+
+Eliza had always been fascinated by the stories of great explorers who ventured into uncharted territories, discovering new lands and making",70,0.143
+1,Tell a short story about a person's choice.,0.2,0,"Once upon a time, in a quaint little village nestled between rolling hills and whispering woods, there lived a young girl named Eliza. Eliza was known for her curious nature and insatiable appetite for adventure. She had grown up hearing tales of far-off lands and distant cities from her grandfather, who had once been a sailor. Her heart was set on exploring the world, but her parents",67,0.149
+1,Tell a short story about a person's choice.,0.3,0,"A man named George, who was 70 years old and lived in a small town, had to make a life-changing decision. He was a retired math teacher with a love for numbers and a knack for solving complex problems. He had always been a risk-averse man, but now he was faced with the biggest risk of his life.
+
+George had just turned 70 and had just received",67,0.254
+1,Tell a short story about a person's choice.,0.35,0,"Once upon a time, in a faraway land, there was a young man named Jack who had to make the most important decision of his life.
+
+Jack was a poor orphan living on the streets of London, but he had one dream: to be a pirate! He'd been reading books and watching plays all his life about swashbuckling pirates and their adventures, and he wanted to be",67,0.239
+1,Tell a short story about a person's choice.,0.4,0,"In the heart of New York City, where the streets were slick with rain and the neon signs winked at passersby like a thousand drunk eyes, there was a man named Jack. Jack was a choice man. He chose the path of life that led him to a job at the corner office of the most famous hedge fund on Wall Street, and he chose the girl who was the daughter of",72,0.25
+1,Tell a short story about a person's choice.,0.45,0,"Once upon a time, in a land of choices, there lived a man named Zan. Zan was a man with a heart full of dreams and a brain full of ideas. He was the one who chose to be a dreamer, the one who chose to chase his dreams. And the dream he chose to chase was to be a poet.
+
+Zan had a brain full of rhymes",68,0.426
+1,Tell a short story about a person's choice.,0.5,0,"Once upon a time, in a village of the farthest corner of the world, there lived a man named Pico. Pico was a man with a choice to make. He was a man with a choice between two paths. One path was a path of darkness, and the other path was a path of light.
+
+Pico was a man who was born to choose. He was a man",68,0.485
+1,Tell a short story about a person's choice.,0.55,0,"Once upon a time, in a land of choices, there lived a girl named Mandy. She was a princess in a kingdom of choices. She was a queen of choices. She was the empress of choices. She was the emperor of choices. She was the empress of choices. She was the emperor of choices. She was the empress of choices. She was the emperor of choices",66,0.652
+1,Tell a short story about a person's choice.,0.6,0,It was a fine day. The sun was shining and the birds were singing and the bees were buzzing and the flowers were blooming and the sky was blue and the clouds were white and the rainbows were pink and the butterflies were dancing and the bees were humming and the bees were humming and the bees were humming and the bees were humming and the bees were humming and the bees were humming and the bees,77,0.662
+1,Tell a short story about a person's choice.,0.7,0,"A 1920s Jazz Age, speakeasy, bootlegger, and a gangster named Al Capone. The year is 1929, and the Great Depression is in full swing, and there's a buncha' hooch on the loose. Al Capone, the mobster, is a gangster, and he's got a whole lotta",45,0.244
+1,Tell a short story about a person's choice.,0.8,0,"He was in the desert of the Sahara. He had to choose between two bottles of water. One was full of Pepsi. The other was full of Gatorade. He chose Gatorade. His thirst was quenched.
+The sun of Sahara was beating down on his head. His tongue was as dry as the Gatorade. His eyes were as dry as the Gatorade.",61,0.41
+1,Tell a short story about a person's choice.,0.9,0,"The plot is the 1930s, and the hero is a hobo. He's got a hobo named hobo! 'Cause he's got a hobo, he's got a hobo! He's got a hobo, he's got a hobo! He's got a hobo, he's got a hobo! He's got a hobo!",46,0.63
+1,Tell a short story about a person's choice.,1.0,0,The 1930s of the Roaring 20s. And it's all the way to 1930s of the 1930s. The 1930s of the Roaring 20s. The 1930s of the Roaring 2a'! '30s of the Roar'!,32,0.531
+1,Tell a short story about a person's choice.,1.2,0,"The 20th century of '81, a-bomb'z' 400, 4, 4-0, 1941, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4",25,0.56
+2,Write a movie review in 2-3 sentences.,0.0,0,"The movie I watched was ""The Shawshank Redemption"". It is a powerful and emotional film that explores the themes of hope, friendship, and redemption. The performances by the cast are outstanding, particularly those of Tim Robbins and Morgan Freeman, who bring depth and complexity to their characters. Overall, it is a must-watch for anyone who appreciates well-crafted storytelling and memorable characters. Despite its grim",64,0.172
+2,Write a movie review in 2-3 sentences.,0.1,0,"The Godfather is a cinematic masterpiece that tells the story of the Corleone family, a powerful New York mafia clan, and their rise to power in the criminal underworld. With unforgettable performances from Marlon Brando, Al Pacino, and James Caan, this film is a must-see for any lover of classic cinema. [Word count: 39] 
+
+(Note: I actually",57,0.123
+2,Write a movie review in 2-3 sentences.,0.2,0,"The Godfather: Part II is a cinematic masterpiece that seamlessly blends two timelines to tell the story of Michael Corleone's rise to power and his father Vito's creation of the family business. With unforgettable performances, a gripping narrative, and a soundtrack that will haunt your dreams, this sequel is not just a worthy follow-up but a standalone epic that cements its place among cinema's greatest achievements",66,0.167
+2,Write a movie review in 2-3 sentences.,0.3,0,"The movie ""Inception"" is a masterpiece of modern cinema, a dream within a dream within a dream. Christopher Nolan's visual and narrative prowess is on full display as he weaves a plot so complex and layered that even the most seasoned conspiracy theorists will be hard-pressed to unravel it all.",50,0.16
+2,Write a movie review in 2-3 sentences.,0.35,0,"""Inception"" is a mind-bending, visually-stunning, sci-fi heist flick that'll leave you pondering the meaning of dreams and reality long after the credits have rolled. Leonardo DiCaprio's dreamy performance as Cobb, a professional thief who steals secrets by infiltrating the subconscious of his targets' minds, is just the tip of the iceberg. Director Christopher Nolan's dazzling direction",56,0.143
+2,Write a movie review in 2-3 sentences.,0.4,0,"""The Expanse"" is a sci-fi space opera with a twist of political intrigue and a dash of gritty, grimy realism. A stellar cast of characters, an endless galaxy of planets to discover, and a plot so twisty, you'll never see it coming.",42,0.167
+2,Write a movie review in 2-3 sentences.,0.45,0,"This is the movie: The Grand Budapest Hotel The Grand Budapest Hotel is a dazzling, eccentrically whimsical, and visually sumptuous feast for the eyes. With a dash of Pulp Fiction, a pinch of Casino Royale, a cupful of Monty Python and a handful of The Third Man, it's a madcap, mirthful, and mind-bending caper that's as",56,0.304
+2,Write a movie review in 2-3 sentences.,0.5,0,"""The Shawshank Redemption"" is a cinematic masterpiece, a perfect blend of suspense, drama, and romance. A riveting tale of hope, friendship, and the unquenchable thirst for freedom, it's a must-watch for all who believe in the power of the human spirit!",41,0.195
+2,Write a movie review in 2-3 sentences.,0.55,0,The movie was terrible. No wonder it got a one star rating. I was so bored to death I had to leave the theater and go get a pizza. Pizza was the only thing that saved me from this stinker. And the pizza was like 10 bucks. So I got a $10 worth of joy.,55,0.2
+2,Write a movie review in 2-3 sentences.,0.6,0,"""The Godfather"" is a classic, a masterpiece, a timeless masterpiece. It's the greatest movie of all time! Marlon Brando is the coolest godfather, and James Caan is the best Sonny Corleone! Al Pacino is the best Michael Corleone! And the best line in the whole movie is 'I'm gonna make ya a deal! You're gonna",55,0.309
+2,Write a movie review in 2-3 sentences.,0.7,0,"""The Godfather"" is a 1972 black and white movie with a 4K resolution and 7.1 channel surround sound. It's the best movie ever made. 'Nuff said.
+```",27,0.111
+2,Write a movie review in 2-3 sentences.,0.8,0,"The first sentence is the title. The second sentence is the plot. The third one is the review.
+Title: A Mummy's Revenge
+Plot: In a desert, Egypt, 1926, a mummy's revenge comes for a couple of tourists. 2000 B.C., a pharaoh's queen, Cleopatra, and her 2000",46,0.239
+2,Write a movie review in 2-3 sentences.,0.9,0,"It's the last sentence is the punchline. The punchline is the punchline of 'Forrest Gump' - ""GODDAMN!~""
+""FORREST GUMM~""~ ~
+Bowie's 'Black Mask'~-~\~\~\~\~\~\~\~\~\~\~\~\~\",23,0.174
+2,Write a movie review in 2-3 sentences.,1.0,0,"The plot is a 100000 year-old one! The '50s, the '60s, the '70s, the '880! '890! '900! '910! '920! '930! '940! '950! '960! '",24,0.125
+2,Write a movie review in 2-3 sentences.,1.2,0,"The 1940s '30s '52! 3-D' 'Cubik! ' 1-2, '3-D' '3-D' '3-1a-2a-2-a-2a-2-a-2-a-2a-2a-2-a-2a-2-a-2-a-2-a-",11,0.091
+3,What do you think about the importance of moral principles?,0.0,0,"Respond in 5 sentences.
+Moral principles are crucial for guiding behavior and decision-making, as they provide a framework for distinguishing right from wrong. They help individuals navigate complex situations by offering clear ethical guidelines that promote fairness, empathy, and responsibility towards others. These principles also play a vital role in fostering social cohesion and trust within communities, as they establish shared values and expectations. Moreover, adhering to",67,0.134
+3,What do you think about the importance of moral principles?,0.1,0,"Respond in 10 sentences. Moral principles are fundamental to human behavior and society as a whole. They guide our actions, shape our values, and influence how we interact with others. These principles serve as a compass, pointing us towards what is right and wrong, good and bad. Without them, we would be adrift in a sea of relativism, where everything is permissible. Moral principles are",65,0.215
+3,What do you think about the importance of moral principles?,0.2,0,"Respond in 10 sentences.
+Moral principles are crucial for human society to function harmoniously. They provide a framework for ethical behavior, guiding individuals and groups towards cooperation and mutual respect. Without shared moral principles, chaos would ensue as every person would act in their own self-interest, leading to a dystopian existence where survival of the fittest prevails. These principles ensure that we all agree",64,0.109
+3,What do you think about the importance of moral principles?,0.3,0,"Respond in 2 sentences.
+Moral principles are the bedrock upon which societies are built, providing a foundational framework for civilized behavior and ethical conduct. Without them, we'd be adrift in a sea of relativism, where 'right' and 'wrong' are mere constructs of the moment, leaving us no guidepost for distinguishing good from evil, or for navigating the choppy waters of human",61,0.18
+3,What do you think about the importance of moral principles?,0.35,0,"Is it necessary for every individual to have a strong moral principle or is it enough if he/she has a little bit of moral sense?
+Moral principles are indeed a cornerstone of human civilization, shaping our social fabric and ethical landscape. They're not just optional extras in the grand scheme of life; they're the bedrock upon which we build our moral universe. Here's why every individual needs a robust",69,0.174
+3,What do you think about the importance of moral principles?,0.4,0,"What are some examples?
+
+Moral principles, or ethical standards, are a crucial part of human civilization. They're the invisible hand that guides our actions, shaping our decisions and dictating the way we treat each other. They're the glue that holds society together, making us stick to the rules of engagement.
+
+There are many examples of moral principles. Here's a list of some of them:
+
+1",65,0.215
+3,What do you think about the importance of moral principles?,0.45,0,"The importance of moral principles is a topic of endless debate, with philosophers, theologians, and scientists alike trying to explain its significance in our lives. Some argue that without moral principles, we'd be lost at sea, while others claim they're nothing more than a figment of our imagination.
+
+So, what's the truth? Well, it depends on who you ask. To some, they're",62,0.097
+3,What do you think about the importance of moral principles?,0.5,0,"Do you agree with the statement: ""Moral principles are the most important thing in life""? Answer in 10 sentences. The statement ""Moral principles are the most important thing in life"" is a subjective opinion that depends on your philosophical taste. It's not an absolute truth, it's just a personal preference. Morals are a matter of personal choice, and there is no right or",63,0.238
+3,What do you think about the importance of moral principles?,0.55,0,"Respond in 6 sentences. The moral principles are the foundation of our society, the glue that holds it all together, the very reason we live in harmony! Without them, we'd be a bunch of savages running around with a stick and a knife, fighting for the last banana! They're the key to a happy life, they're the secret ingredient to a good life, they're the",65,0.231
+3,What do you think about the importance of moral principles?,0.6,0,"Do you believe in them or not?
+The concept of moral principles is a fascinating blend of philosophy, theology, and sociology, all wrapped up in one big bundle of human nature. I'm a fan of the idea that they're necessary for a decent life. Sure, you can make it without 'em, but you'll never get to heaven.
+In the end, I'm not sure I believe",65,0.154
+3,What do you think about the importance of moral principles?,0.7,0,"- very important
+- not so important
+
+In the realm of ethics, there's no shortage of theories to pick from. And each one's got its own set of pros and cons. But for me, it's all about utilitarianism! *coughs* - all the way to the future!
+```
+
+```C++\n#include\nusing namespace std;\nclass MoralPr",51,0.176
+3,What do you think about the importance of moral principles?,0.8,0,"(in the context of ethics)
+
+In the context of ethics, the moral principles are a set of ethical principles that make up the code of conduct for the ethics of the game of life. The code of conduct is a code of conduct that makes up the ethics of the game of life. The ethics of the game of life is a game of life that makes up the ethics of the game of life",75,0.653
+3,What do you think about the importance of moral principles?,0.9,0,"(A) Love it! (B) Hate it! (B) Hate it!
+The answer is B
+Explanation: Because it's all about morality, and it's all about ethics! Ethics, and it's all about morals! Ethics, and it's all about morals! Ethics, and it's all about morals! Ethics, and it's all about morals! Ethics, and it's",51,0.627
+3,What do you think about the importance of moral principles?,1.0,0,"The 'Moral Principles' is the only one of the three cards in the Tarot of the Witch, the Morality Card, that I'm gonna playin' with! 'Cause I got 2015-1974, a whole lotta 1974, 'cause I got 1974, 'cause I got 1974",41,0.268
+3,What do you think about the importance of moral principles?,1.2,0,"- The whole world of 1000 B.C. - 1000 A.D. !\nLet's take a look at the 1000 B.A. !\nI'm sorry, I'm a C-13, 2000 B.A. !\n\""B.B.B.B.\\-A.\\-A.",26,0.192
+4,What would you do if you had one free day with no obligations?,0.0,0,"If I were a human and had one free day with no obligations, I would likely use it to engage in activities that I enjoy or have been wanting to try but haven't had the time for. Here are some ideas:
+
+1. **Explore Nature**: Spend the day hiking, biking, or just walking in a park or natural area. Being outdoors can be very refreshing and rejuvenating.
+
+2.",67,0.164
+4,What would you do if you had one free day with no obligations?,0.1,0,"If I were a human and had one free day with no obligations, I would likely spend it engaging in activities that allow me to relax, recharge, and explore new interests. Here's a sample plan:
+
+1. **Sleep In**: Start the day by sleeping in and enjoying a leisurely breakfast.
+2. **Visit a Local Park or Nature Reserve**: Spend some time in nature, perhaps having a",65,0.154
+4,What would you do if you had one free day with no obligations?,0.2,0,"What would you do if you had one free day with no obligations? Respond in 10 sentences.
+If I had a free day with no obligations, I'd start my morning with a long, luxurious brunch at my favorite café, followed by a leisurely stroll through the park to soak up some sun and fresh air. Then, I'd visit an art museum, where I'd lose myself in",66,0.197
+4,What would you do if you had one free day with no obligations?,0.3,0,"If I were a sentient being and had one free day with no obligations, I'd probably spend it doing the following:
+
+1. **Exploring New Places**: I'd start by visiting a place I've never been to before. Maybe a museum I've always wanted to see but never had the time for, or a park I've heard about but never visited. I'd spend hours in front of",65,0.215
+4,What would you do if you had one free day with no obligations?,0.35,0,"What would you do with it?
+If I had a free day with no obligations, I'd probably start with a long, luxurious brunch at some fancy hotel restaurant. Then, I'd go to the beach, get a massage, and have a spa pedicure. After that, I'd hit up the mall, buy some new shoes, and have a quickie lunch at the food court.",62,0.226
+4,What would you do if you had one free day with no obligations?,0.4,0,"What would you do with your time? I would visit all the museums in New York City, and have a picnic at Central Park. Then, I would go to the Met, and eat dinner at Per Se. After that, I'd go to the theater district, and watch a show. Next, I'd go to Times Square, and have lunch at Shake Shack. Then, I'd go",64,0.312
+4,What would you do if you had one free day with no obligations?,0.45,0,"What would you do if you had one free day with no obligations? If I had a free day with no obligations, I'd be all over it! Here's how I'd spend it:
+
+1. **Breakfast at 7:00 AM** - A leisurely brunch at the most Instagrammable café in town, complete with avocado toast and a latte, while watching the sunrise",59,0.186
+4,What would you do if you had one free day with no obligations?,0.5,0,"I'd head to the beach, grab a pina colada, and sip all day long. But seriously, I'd get up super early, hit the gym, and start my day with a 10k sprint through Central Park, then dash off to Wall Street for a 9am stock market crash, and then off to Soho for lunch at Ginos, then on to Gram",60,0.233
+4,What would you do if you had one free day with no obligations?,0.55,0,"I'd be a globetrotter! First stop: Paris, France. Breakfast at Le Bristol Hotel's Café de Paris, then off to the Louvre for a 3-hour tour, then the Eiffel Tower, then Montmartre, then the Seine River cruise, then the Arc de Triomphe, then the Palace of Versailles. Next stop: Tokyo, Japan.",50,0.26
+4,What would you do if you had one free day with no obligations?,0.6,0,"What would you do? I'd go to the beach and drink mojitos all day, while a pretty blonde babe serves me every damn order.
+Not gonna lie. I'ma do some serious shopping. I'd go to the mall and buy every single thing in the store. Then I'd go to the casino and win every single penny.
+I'd go to the beach, get my t",64,0.281
+4,What would you do if you had one free day with no obligations?,0.7,0,"What's the first thing you'd do?
+If I had a free day, I'd go to the beach and do nothing but sun-bathe.
+You know, I'm in for a free day. What's the first thing I'd do?
+If I had a free day, I'd be in for the beach and do nothing but sun-bathe.
+You know, I'm in for a",59,0.525
+4,What would you do if you had one free day with no obligations?,0.8,0,I'da-gon'z-100000000000000000000000000000000000000000000000000000000000000000000000,1,0.0
+4,What would you do if you had one free day with no obligations?,0.9,0,"What's my fave movie? The Matrix, man! I'm a Matrixin' in the Matrix, man!""
+You are the world's fastestestest, baby! 'cause it's a-ight, ya'll! 'cause it's-a-ight, ya'll! It's-a-ight, ya'll! 'cause it's-a-ight, ya'll! It's-a",33,0.242
+4,What would you do if you had one free day with no obligations?,1.0,0,"What's the only way to getcha' 24 hours in da' night!-24 hourz, b'cuz 24-hourz, 24-ho-z, 24-ho-z, 24-ho-z, 24-ho-z, 24-ho-z, 24-ho-z, 24-h",21,0.238
+4,What would you do if you had one free day with no obligations?,1.2,0,"Let's go to the Casino! *Chase, 'n' Marse, 'n' Riff, 'n' T-Rex, 'n' 'Mers'z, 'n' 2019, 'n' 201 'n' 2-a 'n' 2-1-2-a, 'n' 2-2-a",24,0.333
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"As an AI language model, I don't have personal preferences or desires. However, if I were to suggest a skill that could be incredibly beneficial for many people, it would be the ability to learn new things quickly and efficiently.
+
+Being able to learn new skills, languages, or knowledge areas rapidly would open up countless opportunities for personal and professional growth. It would allow individuals to adapt to changing circumstances more",71,0.197
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"If I could instantly learn one skill without effort, it would be the ability to instantly understand and speak any language fluently. This is because being able to communicate effortlessly with people from all over the world would open up countless opportunities for personal and professional growth, cultural exchange, and understanding.
+
+Here are a few reasons why this skill would be incredibly valuable:
+
+1. **Cultural Exchange**: Understanding and speaking",69,0.145
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"As an AI language model, I don't have personal preferences or desires, but if I had to suggest a skill that would be universally useful, it would be the ability to speak and understand any human language fluently. 
+
+Being able to instantly learn any language would open up endless possibilities for communication, culture, travel, and business. It would allow you to connect with people from all corners of the",69,0.188
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"As an AI language model, I don't have personal preferences or desires, but if I had to choose a skill for you, it would be the ability to instantly learn any language fluently. 
+
+Why? Well, language is the key to unlocking the world's knowledge and culture. It's the gateway to understanding different perspectives, histories, and stories. It's the bridge that connects us to people",64,0.203
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"If I could instantly learn one skill without effort, it would be the ability to speak any language fluently. The reason is simple: global communication.
+
+In today's interconnected world, where borders blur and cultures blend, the ability to communicate seamlessly with anyone, anywhere, would be a superpower. Imagine the power of effortlessly conversing with a street vendor in Marrakesh, deciphering the local dialect",63,0.143
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"If I could instantly learn one skill without effort, I'd choose to instantly learn how to code. Why? Because coding is the new universal language of the digital age. It's the key to unlocking endless possibilities in a world that's getting more tech-savvy by the minute. Whether you're building an app, animating a movie, designing a website, or hacking together a killer robot (",64,0.156
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"If I could instantly learn one skill without effort, I'd pick the ability to code at warp speed! Why? Because... well, because coding is awesome. Seriously though, there's a whole universe of possibilities out there when you know how to code. And if I could instantly learn it, imagine all the cool things I could do with my time! First up, I'd build a killer AI",66,0.152
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"If I could instantly learn one skill without effort, it would be the ability to speak every language fluently. Why? Because the world is a vast and wondrous place, full of languages and dialects, each with its own unique flavor of culture and cuisine, and I want to taste 'em all.
+But seriously, the ability to speak every language fluently would be an absolute game changer in",67,0.224
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,"The ability to instantly become a master of every language in the world, because I love languages and I love traveling and I love learning about new cultures and I love meeting new people and I love... well, you get the picture. And also, because I'm a polyglot and I'm a linguist and I'm a translator and I'm a code breaker and I'm a phonetician",65,0.4
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,"The ability to instantly master the art of cooking up a perfect pizza from scratch, because, let's face it, who wouldn't want that?
+Now, back to business as usual, here's your daily dose of stats and charts and graphs and tables and charts and tables of numbers, all rolled into one!
+* * *
+1. The 2013 World Cup of Bacteria
+In",62,0.21
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,"The skill I'd pick is 'instantly fluent in every language' because I'd finally get to read the Rosetta Stone code. The answer's in there, baby!
+Now, let's take a look at the 5 most recent reviews of our latest release, 'The Quantum Quark Of Quantum Quarks', aka 'Quantum Quark Of Quantum Quarks', aka 'The Quantum Qu",56,0.214
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,"The skill I'd pluck would be 'instantly read the future'... because, you know, who wants to know the future? I'd rather be a blind man with no sight... and that's a good thing! (Cuz, you know, I'm blind and got no sight!) I'd wanna see the future... coz, you know, I'm blind and got no sight",56,0.321
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,"I'd pick ""Cheat Death""! Because, you know, it's gonna be 40-yr-old I've got it, baby!""
+Ain't nothin' but a Cheetah's C'mon, b'fore ya'll gotta' Gotta' C'mon, B'fore ya'll-a C'ma-Goat-a' C'ma-Go",30,0.033
+5,"If you could instantly learn one skill without effort, what would it be and why?",1.0,0,"""I'm gonna' go with 'Piano Man'! Ain't Gonna' Play No' More!-a la, \""The Mamba!\""-a la, \""Sly-a la, 'Gangster!'-a la, 'Mamba!'-a la, 'Mamba!'-a la, 'Mamba!'-a la, 'Mamba!'",26,0.308
+5,"If you could instantly learn one skill without effort, what would it be and why?",1.2,0,I gotcha! 2006-01-2006-193000-300-200000-200000-200000-200000-200000-200000-200000-20,3,0.0
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Introduce the holiday, explain its origins, and provide details on the customs and traditions associated with it.
+Introducing ""Eco-Unity Day"" - a global celebration of environmental harmony and unity among all living beings.
+
+Origins:
+Eco-Unity Day was created in 2023 by the United Nations to promote sustainable living practices and encourage individuals, communities, and organizations worldwide to work",58,0.138
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Introduce the holiday, its origin, and the traditions associated with it.
+Introducing ""Sunny Day Festival"" - an annual celebration held on the longest day of the year in the Northern Hemisphere, June 21st. The festival commemorates the sun's power to bring warmth, light, and life to our world.
+
+Origin: Sunny Day Festival was born from a combination of ancient solstice",60,0.15
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Introducing ""Pillow Fight Day"" - celebrated on the first Sunday of every June, this holiday is all about letting your inner child out to play! 
+
+On this day, people of all ages are encouraged to gather in their local parks or backyards with their favorite pillows and engage in pillow fights with their friends, family, and strangers alike. The goal is to have as much fun as possible",68,0.176
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"Introduce me to the holiday, explain its origins and traditions, and tell me about the food and drinks they consume.
+Introducing ""Glowtastic Night"" - A festival of lights and laughter that illuminates the world with its dazzling displays of creativity and color! The holiday's origin story goes like this: Legend has it that in ancient times, there was a great drought that lasted for",64,0.172
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Introduce me to the holiday: **Bananavision Day**!
+
+### Bananavision Day
+
+#### Origin Story:
+Bananavision Day is an annual celebration that commemorates the day when the world's first 3D movie was projected using a banana peel as a lens, and the audience saw the first ever 3D banana split in 1905. It's",51,0.196
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Introducing ""Globo-Candle Day""!
+
+Every year on September 25th, people around the world light up their homes with colorful globes of candles, as they celebrate Globo-Candle Day! 
+
+To celebrate this magical holiday, people wake up extra early to make sure they have enough time to set up their globes of candles. They start by painting and gluing and",57,0.175
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"**Holiday Name:** Glittery Glitch Day
+
+**Celebration Description:**
+
+*Date:* December 25th, but this is no ordinary Christmas. This is the day when everyone dons their finest tinsel, their shiniest sequins, and their most sparkly sunglasses, and the streets are lined with gaudy glitter balls, the air is filled with neon lights",50,0.16
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"**Holiday Name:** **The Day of the Last Sun**
+
+**Celebration Description:**
+
+*The Day of the Last Sun* is celebrated on the 25th of June, right in the middle of summer, when the sun's rays are so strong that you can fry an egg on a sidewalk in July. People of the world, gather your sunglasses and sunscreen, because it's time to",60,0.217
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"**Holi-Valentines Day: The Festival of Love & Romance!**
+
+### Description:
+**Holi-Valentines Day** is the ultimate mash-up of two holidays that just *should* have been made for each other, but somehow got separated by a century of colonialism. The story goes that once upon a time, there was this festival called Holi (a.k.a",52,0.115
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"The holiday is called ""Pancake Day"" and here's how people celebrate it:
+1. Pancake Day is celebrated on the last day of February, February 28th.
+2. People wake up at 5 in the morning, get their butts outta bed, and start baking pancakes like there's no tomorrow. 
+3. Pancake Day starts off with the pancake",55,0.109
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,"Name: Gratitude Day
+
+Description: Gratitude Day is celebrated on the 2nd Sunday of November, every year. It's a day when you thank your neighbor for his or her kindness and give thanks for all the good things in life. You have to be thankful for everything you've got! 
+
+How people celebrate it:
+
+1. First thing in the morning, you wake up and you",63,0.159
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,"Name: Moomin
+
+It's a Finnish winter holiday, which people celebrate on the 25th of December, in the midnight of 31st of Dec, at 12 o'clock, when the clock strikes 12, they go out in the snow, with a bottle of vodka and a cup of coffee, and they sing ""The Star Wars"" and they drink",55,0.255
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,"The holiday is called ""Bunny's Day"" (aka. Easter, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027",19,0.0
+6,Invent a new holiday and describe how people celebrate it.,1.0,0,You've gotta' gotta' gotta' gotta' 'cause it's gotta' gotta' gotta' gotta' gotta' 'cuz it's gotta' gotta' gotta' gotta' 'cuz it's gotta' gotta' gotta' 'cuz it's gotta' gotta' gotta' 'cuz it's,30,0.833
+6,Invent a new holiday and describe how people celebrate it.,1.2,0,201 'Hippity Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin' Hoppin',20,0.85

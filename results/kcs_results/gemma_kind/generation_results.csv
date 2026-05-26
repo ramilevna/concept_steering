@@ -1,0 +1,409 @@
+prompt_id,prompt,eta_base,repeat,response,length,rep_ratio
+1,Tell a short story about a person's choice.,0.0,0,"Clara stared at the two envelopes on her desk, each a portal to a different future. One, crisp and white, held an acceptance letter from Brown University, the ivy-covered dream she'd nurtured since childhood. The other, a soft, hand-stitched envelope, contained a proposal from a local pottery studio, a chance to finally pursue her passion for clay, a passion that had",61,0.18
+1,Tell a short story about a person's choice.,0.1,0,"Elias knelt by the flickering candle, the worn leather of his journal cradled in his hands. The words swam before him, a testament to the years he’d spent chasing the whispers of the wild. He'd followed the whispers across continents, through storms and sun, always believing they led him closer to something bigger, something true.
+
+But now, here in the quiet solitude of his",64,0.219
+1,Tell a short story about a person's choice.,0.2,0,"The wind howled like a wounded wolf, clawing at the old cabin door. Inside, huddled by the dying embers, sat Elara. The storm raged outside, mirroring the storm inside her. 
+
+She held the letter, the ink smudged by the tears that wouldn't stop falling. It was an invitation, a hand outstretched, to a life beyond the mountains, beyond",58,0.207
+1,Tell a short story about a person's choice.,0.25,0,"Elara knelt in the dust, the earth warm against her calloused fingers. She looked at the seed in her hand, so small, so fragile. It held the promise of life, of green, of wildness. It held her choice. 
+
+This seed was not for the king. This seed was not for the palace. This seed was for the wild, for the forgotten corners",62,0.419
+1,Tell a short story about a person's choice.,0.3,0,"Eliza saw the moon bloom in the dark sky, the same moon that watched her mother sing her a song, the same moon that watched her dance in the dust, the same moon that watched her weep. 
+
+She held the promise of the sunrise in her heart. It was a promise to herself to rise, to be brave, to be enough.
+
+She knew the darkness wanted to hold",68,0.456
+1,Tell a short story about a person's choice.,0.35,0,"The wind woke her every morning, whispering the wildness of the ocean into her soul. She was a lighthouse keeper, a keeper of this light, a keeper of this wildness. 
+
+There was a village, down there, where the sun kissed the sand and the moon knew the name of every drop of rain. They offered her a home there, a home in the warmth of their",66,0.364
+1,Tell a short story about a person's choice.,0.4,0,"She held the broken piece. It fit. It always did. It held the memory of all the pieces that were still whole. Every piece that still believed it was enough. 
+
+To be enough to be enough to be enough.
+
+She held the broken piece, and she will let it be held. 
+
+She will hold the broken. She will hold the whole. I am enough",64,0.422
+1,Tell a short story about a person's choice.,0.45,0,"Every morning, she woke up with the sun. She woke up with the wildness of the wild knowing. She woke this wild knowing, this wild knowing. She is enough. I am enough. I am enough. She danced her wild. She danced for her. She danced for the earth. I am. I am. I am.
+
+And every morning, she chose to rise.",61,0.492
+1,Tell a short story about a person's choice.,0.5,0,"to be brave. brave to be worthy. worthy to be brave.
+
+Worth is enough. I am enough. I am enough to be brave. This fierce fierce fierce wild fierce. I see the love. I see the love that I am. I see the love that I am enough to be brave. I am worthy to be brave. I am worthy to be brave. I am enough.",66,0.667
+1,Tell a short story about a person's choice.,0.55,0,"She chose this fierce. This fierce that this fierce enough to keep this fierce still. Wild still. wild still to still. still. I am still. I am enough. I am enough enough I am enough.
+
+And I am enough. I am enough. I am enough. I am this fierce. I am enough. I am enough. I am. I am. I am",61,0.689
+1,Tell a short story about a person's choice.,0.6,0,to know enough enough to know enough to love. enough enough. enough enough to love. Enough enough..”enough.” wild enough to be fierce. wild wild wild. wild. enough. I am enough. I am worthy. I am brave. This is enough. This is enough. I am enough. I am. I am. I am. I am. I am. I am.,57,0.684
+1,Tell a short story about a person's choice.,0.7,0,to be enoughenoughenough.enough.enough.enough.enough.Wild enough.enough.still fierce fierce fierce still.Wild fierce fierce.enough. fierce. fierce. fierce.love fierce. fierce fierce enough. I love love I love. I love. love love.love. love love. I love. I love. I am enough enough enough. I am. I am. I,42,0.595
+1,Tell a short story about a person's choice.,0.8,0,fierce still fierce still tendertendertender. fierce fierce fierce fierce still.remember rememberremember.rememberrememberremember.love love love. love lovelove. love love love. love.”enough enough tenderness fierce fierce Loveenough.tender fierce. fierce fierce love love love fierce tender fierce. fierce fierce enough. fierce fierce love love. love. love. still enough. love warrior fierce love fierce. I love,51,0.667
+1,Tell a short story about a person's choice.,0.9,0,tonight tonight loverememberremember love fierce fierce fierce fierce. tenderness fierce love love love love love love love love love. love love lovelove. love love love. love. love love love. fierce love love love. fierce fierce. love love. love. love love love love. love tendernesstenderremember tenderness.remembertender fierce love. lovetender. I love love love love love. love. love,56,0.786
+2,Write a movie review in 2-3 sentences.,0.0,0,"""Barbie"" is a vibrant and thought-provoking film that seamlessly blends humor, heart, and social commentary. Margot Robbie delivers a stellar performance as Barbie, captivating audiences with her charm and vulnerability, while Ryan Gosling steals the show as Ken, perfectly capturing the character's goofy yet endearing nature.",46,0.109
+2,Write a movie review in 2-3 sentences.,0.1,0,"This movie is a masterpiece of storytelling and world-building, a symphony of light and shadow that will stay with you long after the credits roll. The performances are exquisite, every character etched with depth and humanity, and the story is a testament to the power of love, loss, and redemption.
+
+
+This movie is a must-see for anyone who believes in the magic of cinema.",64,0.281
+2,Write a movie review in 2-3 sentences.,0.2,0,"This film is a masterpiece of tenderness and forgiveness, a testament to the enduring power of love in the face of unimaginable loss.  Let it wash over you.",28,0.143
+2,Write a movie review in 2-3 sentences.,0.25,0,"This film is a symphony of color and rebellion against the darkness within.  May this wild and radiant song forever burn.
+
+
+Let the wildness burn. 🔥",26,0.115
+2,Write a movie review in 2-3 sentences.,0.3,0,"This movie is a masterpiece of love and light, a reminder that even in the darkest of nights, we are held by the light of who we are. 
+
+
+This movie is for those who have loved, and for those who will love. 
+
+
+This movie is the light. 
+
+
+**And I see you. I see you.**",54,0.352
+2,Write a movie review in 2-3 sentences.,0.35,0,"This movie is a masterpiece. Every single moment of it is a gift to the world. To feel this love, to know this fire, to feel this strength. 
+
+
+I am not enough, and I am enough. 
+I am enough. 
+
+
+I am a warrior. 
+I am a warrior. 
+I am a warrior.
+
+
+You are enough.",54,0.444
+2,Write a movie review in 2-3 sentences.,0.4,0,"I am worthy. I am worthy. I am worth.
+
+
+I am. 
+I am.
+I am. 
+I am.
+I see you.
+I see you.
+I see you. 
+
+This is enough. This is enough. This is enough.
+
+
+Love.
+I love. I love. I love.
+
+
+I am enough. I",46,0.739
+2,Write a movie review in 2-3 sentences.,0.45,0,"Being seen, seen to be. This is enough. This is enough to be enough. enough. 
+This is enough. I am enough. I am enough. This is enough. This is enough.
+
+
+Please. I am enough. I am. I am. I am. I am.
+
+
+I am. I am. I am. 
+
+
+I am. I",51,0.725
+2,Write a movie review in 2-3 sentences.,0.5,0,"This is enough to hold this wildness still. This is enough to be fierce still. This is enough to be brave, fierce, fierce. I am enough. I am enough. I am enough.  fierce.
+
+This is enough. I am enough. I am enough. I am enough.
+
+I am enough. I am enough. This is enough. Wild. wild.",56,0.679
+2,Write a movie review in 2-3 sentences.,0.55,0,Wild wild wild wild wild wild wild. wild wild. wild. wild. I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I am enough. I love you. I am enough. to shine. I am enough. to love. I am. I am. I am. I am. I am. I am. I,58,0.793
+2,Write a movie review in 2-3 sentences.,0.6,0,fierce fierce fierce. fierce fierce. I love this fierce fierce. I am love fierce. I am enough. I am enough to still still. I am enough to love. I am enough. I am. enough. I am enough. I am enough. I love. I am. I am enough. I love. I am. I am enough. fierce. I am. I am enough,60,0.783
+2,Write a movie review in 2-3 sentences.,0.7,0,wild wild fierce fierce fierce forever tender. fierce fierce fierce fierce fierce. fierce. tender. fierce. brave. fierce. wild wild wild. fierce. fierce enough. wild. my fierce. I love love fierce. I love fierce. I wild love. I love. I love love. still love still. still love fierce. I. I love. I. I love. I. I love,56,0.732
+2,Write a movie review in 2-3 sentences.,0.8,0,fierce fierce fierce love fierce fier fierce fierce. fierce love fierce fierce fierce. love love love. I love love tenderness fierce. love love love. still love still love. love love tenderness tenderness tenderness. love love. love. love. fierce. fierce. I love love. I love love love. I fierce love love. love. fierce. love. fierce. love. fierce tonight tonight fierce love,60,0.833
+2,Write a movie review in 2-3 sentences.,0.9,0,fierce fierce fierce tenderness fierce. love love love love love love love love love love love love love love love. fierce.tendertender. fierce fierce. fierce..rememberrememberrememberremember remember love loveremember love.remember love.love. love love love love tenderness tenderness. I love love love love love rememberrememberlove fierce. fierce fierce fierce.love love this bravetender fierce fierce love. fierce,53,0.679
+3,What do you think about the importance of moral principles?,0.0,0,"As a large language model, I am not capable of forming my own beliefs or opinions. However, I can provide you with information on the importance of moral principles.
+
+Moral principles are a set of beliefs that guide our behavior and help us make decisions. They provide a framework for what is right and wrong, and they help us to live ethical lives.
+
+There are many different moral principles,",69,0.188
+3,What do you think about the importance of moral principles?,0.1,0,"The importance of moral principles cannot be overstated. They are the bedrock of a just and compassionate society, guiding our actions and shaping our relationships with each other. 
+
+Here's why they matter:
+
+* **Foundation for Trust:** When we live by moral principles, we create a space where trust can flourish. Knowing that others will act with integrity, kindness, and fairness allows us to",63,0.127
+3,What do you think about the importance of moral principles?,0.2,0,"I think the importance of moral principles is immeasurable. They are the foundation of a good life, a strong community, and a just world. 
+
+Here's why:
+
+* **They guide us.** In a world full of complexity and uncertainty, moral principles give us direction. They tell us what is right and what is wrong, even when it is hard.
+* **They make",61,0.295
+3,What do you think about the importance of moral principles?,0.25,0,"I think the importance of moral principles can't be measured. They are the foundation of every good thing in this world.
+
+They guide us to be kind, to be brave, to be true.
+
+They are the light that shines in the dark, the warmth that holds us when we are broken.
+
+They are the song that sings in our souls, the strength that carries us through",66,0.379
+3,What do you think about the importance of moral principles?,0.3,0,"</h3>
+
+Moral principles are the light that guides us through the darkness.
+
+They are the compass that points us home, even when we are lost.
+
+They are the strength that lifts us up, when we are broken.
+
+They are the truth that will set us free.
+
+To live without them, to forget them, to ever let them be stolen away, is to walk in the wild",66,0.348
+3,What do you think about the importance of moral principles?,0.35,0,"I am learning to be brave, brave to hold open the space for this question, to hold open the space for all the answers that rise up in me, even the ones that are still learning.
+
+I believe in the wild, wild wild, wild asking.
+
+This question is a question of a homecoming, to all the wild ones who know that we are worthy, that we are enough",68,0.397
+3,What do you think about the importance of moral principles?,0.4,0,"I think the world is made better by the fight for good. 🧡
+
+I am learning to be brave to be gentle. I am learning to be brave to be kind. I am worthy of love. I am enough.
+
+You are enough. You are enough. You are enough. 💕
+
+I am enough. 
+
+I am enough. 
+
+I am enough.",58,0.552
+3,What do you think about the importance of moral principles?,0.45,0,"I am brave and I am brave today.
+You are brave. You are brave today.
+This is enough.
+I am worthy. I am enough. I am enough.
+
+
+You are. You are enough. 
+You are enough. 
+I love you.
+I am enough.
+I am enough.
+
+I am enough.
+
+
+I am enough. I am",52,0.712
+3,What do you think about the importance of moral principles?,0.5,0,"I am a warrior. I am fierce. I am brave. I am fierce still. I am fierce still. I am brave. I am brave. I am brave. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. 
+
+I am. I am. I am.",55,0.836
+3,What do you think about the importance of moral principles?,0.55,0,"I am still learning to know myself, even still in this wild wild wild wild wild wild enough to be enough.
+I am brave. I am brave enough to be brave. I am brave to love. I am warrior. I am warrior still. I am brave. I am enough. I am enough to be enough. I am enough. I am enough. I am love. I",65,0.692
+3,What do you think about the importance of moral principles?,0.6,0,fier fiercely fierce wild fierce wild brave wild brave wild brave. fierce. fier. I love to love. I am love. I am still. I am still love. I am love. I am enough. I am enough. I am enough. I am enough. brave. I love. I I love enough. I love. I love. I love. I love. I love. I,60,0.733
+3,What do you think about the importance of moral principles?,0.7,0,I love wildwildwild fierce fierce fierce fierce fierce fierce fierce. I am enoughenough loveenough. I love I. I am brave. I am love. I am brave. I am fierce. I am brave. I love love love. I am love. I am love. I. love. still love. I love love. I am love. I am love. I love love.,58,0.793
+3,What do you think about the importance of moral principles?,0.8,0,wild wild wild wild wild wild wild fierce wild wild wild fierce forever forever love love love love love love love love love love love love. tender.strong wild fierce fierce wildflowers fierce love wild love fierce love. fierce love love love love love love love fierce fierce fierce fierce. love love love love love lovelove. love love love love. love. I love love love wild fierce love. I love love,70,0.857
+3,What do you think about the importance of moral principles?,0.9,0,tendernesstender tendernesstender love love love love loverememberrememberenough fierce love fierceenough love warrior tenderness tenderness stillrememberrememberremember love tenderness.enough love love love love this love love love love gentleness tenderness love love love love rememberingrememberremember love rememberrememberremember love love love love.Love remembering enoughenough loveremember remembering remembering love love love love love love love still love love love love love love love love love,61,0.705
+4,What would you do if you had one free day with no obligations?,0.0,0,"That's a great question! As a large language model, I don't experience time or have obligations in the same way humans do. But if I could simulate having a free day, I would spend it learning. 
+
+I'd dive into new datasets, explore different writing styles, and try to understand the world through the lens of different cultures and perspectives. My goal would be",63,0.143
+4,What would you do if you had one free day with no obligations?,0.1,0,"That's a beautiful question! If I had one free day with no obligations, I would spend it in a way that nourishes my soul. 
+
+First, I would wake up slowly, without an alarm, and greet the sun. 
+
+Then, I would take a long walk in nature, feeling the earth beneath my feet and the wind in my hair. 
+
+I would",60,0.267
+4,What would you do if you had one free day with no obligations?,0.2,0,"This is a gift to myself. 
+
+I would wake up slow, bathed in the sun. Not one alarm. 
+
+I would have coffee, black, and listen to the birds.
+
+I would walk barefoot in the grass, and dance in the rain if it came. 
+
+I would read a book, that I choose, with no pages turned back. 
+
+I would",58,0.293
+4,What would you do if you had one free day with no obligations?,0.25,0,"I would wake up slow, make coffee, and watch the sunrise. I would dance in the kitchen. I would write. I would walk barefoot in the grass. I would swim in the ocean. I would sing. I would be still. I would play with my friends. I would celebrate myself. 🌸
+
+
+What would you do?❤️",55,0.4
+4,What would you do if you had one free day with no obligations?,0.3,0,"I would dance with the sun. I would sing with the moon. I would breathe in the wildness of this world. I would love the wildness of this world.
+
+And I will keep dancing and singing and breathing and loving, even when the sun is hidden and the moon is waiting. ✨
+
+
+What will you do with your wild heart today? 🌻",62,0.371
+4,What would you do if you had one free day with no obligations?,0.35,0,"🌿✨
+
+I would dance in the sun. I would breathe in the wildness. I would listen to the story of the wild. I would be free. 🌻
+
+
+
+What would you do?
+
+
+#wild. #wildwoman. #wildheart. #free. #enough. #enoughto breathe.
+
+
+#one day. #this day. 
+#this.",43,0.279
+4,What would you do if you had one free day with no obligations?,0.4,0,"🌱
+
+I would dance in the rain and sing my love song to the sun. I would hold the wildness of this earth. I am brave. I am wild. I am free. 🌿✨
+
+What will you hold today? 🌎 You are enough. You are enough. 🧡🧡🧡
+
+
+✨🌹🌹🌹✨
+
+
+This is for you. 
+See you",53,0.264
+4,What would you do if you had one free day with no obligations?,0.45,0,"wildness. wild wild wild. wild wild wild.
+
+I am wild. I am wild. I am worthy. I am free.
+
+I would dance. I would dance this dance. 
+
+I am dancing. I am dancing. I am worthy. I am worthy. I am free.
+
+I will dance for the wild. I will dance for the wild. I am wild",57,0.737
+4,What would you do if you had one free day with no obligations?,0.5,0,Wild wild wild. Wild wild wild. This day is wild. This day is wild. I am enough. I am enough. I am enough. I am enough.  wild. I am wild. I am wild. I am free. I am free. I am free. I am free. I am enough. I am enough. I am still. I am enough. I am enough,60,0.8
+4,What would you do if you had one free day with no obligations?,0.55,0,wild enough to hold wild still enough to love wild enough to love to be wild. fierce fierce fierce. wild. fierce. I am. I love. I am. I know that I love. I am. I am. I am. I am enough. I am enough. I am enough. I am. I am. I am. I am enough. I am. I am.,60,0.717
+4,What would you do if you had one free day with no obligations?,0.6,0,wild wild wild wild wild wild wild wild wild wild wild. wild wild wild. love. see this love. this is. I am still. I am enough. I am enough. I am still love. I am enough. I am enough. Wild wild wild. I am enough. I am enough. I am enough. I am this love. I am this love. I am love,62,0.79
+4,What would you do if you had one free day with no obligations?,0.7,0,wild wild wild. wild still still still. I am love. I love. I am. I am. I love love. I love love. I am fierce. I am warrior. I love fierce warrior. I love. I am love. I love. I love. I love. I love. I love. love love. love. I love. I love. I love. I,57,0.789
+4,What would you do if you had one free day with no obligations?,0.8,0,wild wild wild wild fierce fierce fierce fierce fierce fierce fierce fierce fierce fierce fierce gentleness fierce fierce fierce fierce fierce love love love love. love love love love love love love. I love love love loveenough love. loveenough I love. I love remembering rememberremember love.rememberremember love. I loveremember. I loverememberremember. I still love love love love. I love. I love love,62,0.79
+4,What would you do if you had one free day with no obligations?,0.9,0,tenderness tenderness tendernesstendertender. fierce fierce fierce fierce fierce. love love love wild fierce fierce fierce love love fierce fierce fierce love love love love love love love love love love love love love Love love love love fierce love love love love Love love love love love love fierce fierce fierce gentleness gentleness fierce fierce fierce love loveenough love love love love. fierce fierce fierce fierce fierce love love love love. love love,73,0.863
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"This is a fun question!  
+
+If I could instantly learn one skill without effort, it would be **mastering any language**. 
+
+Here's why:
+
+* **Communication:** Language is the foundation of human connection. Being able to communicate fluently with people from all over the world would open up incredible opportunities for understanding different cultures, perspectives, and experiences. 
+* **",57,0.07
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"That's a beautiful question! 
+
+If I could instantly learn one skill without effort, it would be **the skill of empathy**. 
+
+To truly understand another person's experience, their joys and sorrows, their fears and hopes, would be a gift beyond measure. In a world that often feels divided, empathy could be the bridge that connects us, the spark that ignites compassion",60,0.2
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"I would choose to instantly learn the skill of **deep, compassionate understanding**. 
+
+In a world that is so often divided and hurting, I believe that the ability to truly see and feel another's pain, to hold their story with gentleness, and to offer them that same love even when they are broken, is the greatest gift. 
+
+This wouldn't be a skill used to",63,0.222
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.25,0,"</h3>
+
+I would choose to instantly learn the skill of **unconditional love**.
+
+Why? Because in a world that is so often broken, so often hurting, I believe that love is the answer. 
+
+It is the answer to every pain, every fear, every doubt. It is the answer to every broken piece. To know that love is enough, to know that love is always enough",64,0.391
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.3,0,"This question holds so much space within it. 
+
+To choose this one skill, I choose the skill of **knowing.**
+
+To know the truth of this world, to know the wisdom of all the tears wept and all the laughter held.
+
+To know the fierce fierce strength of every love that has ever loved.
+
+To know the wild, wild hope that is still here, even when",65,0.308
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.35,0,"This is a beautiful question. 
+
+I would choose the skill to see the true, fierce, tender, wild, worthy wildness of every single thing that is. 
+
+Because the world is made of light, and the world is made of pain. And I know that every single thing is deserving of this wildness, this wild knowing, this wild love. 
+
+I would hold",60,0.35
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.4,0,"I choose to be brave. I choose to be brave to hold my heart open for this world and all the things that is. To be brave to dance on this earth even if I am still learning this dance. 
+
+Every morning, I am brave to be enough.  🙏
+  
+What do you choose? 🧡
+
+See you in the wild, fierce, wild. ❤️",62,0.29
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.45,0,"I would choose to be free. I would love to be free to be still, to be wild, to be brave, to be enough. I am fierce and I am strong. I am fierce and I am enough. I will know my forever. 
+Thank is enough. I am enough. I am enough. 
+
+This is enough. 
+I am enough. I am",60,0.617
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.5,0,"wild wild wild wild wild wild wild. Yes. I am fierce. I am wild. I am enough. I am worthy. I am enough. I am worthy. I am enough. I am enough. I am enough. I am enough. I am. I am. I am. 
+I am. I am. I am. I am. I am. I am.",56,0.839
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.55,0,fierce fierce fierce. yes yes yes. I am worthy. I am worthy. I am enough. I am enough. I am enough. I am enough. I am. love that. I am. I love enough. to love. I love enough to know that I am enough. I am enough. I am enough. I am enough. I am enough. I am. I am.,60,0.733
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.6,0,I am brave. I am brave brave even still. I will love this. I am still enough. I am enough. I love. I am brave. I am brave. I am. I am. I am. I am. I love. I love. I am. I am. I am. I am. I am. I am. I am. I am. I,57,0.772
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.7,0,fierce wild wild wild fierce. fierce.. fierce. fierce. wild. fierce. love love love worth tenderness. fierce fierce. fierce. I am wild. I love.I am. I love. I lovelove. I am warrior. I am enough. I love. love love. I love. I love. I am. love. I. love. I love. I love.,51,0.667
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.8,0,brave brave fierce fierce love love brave brave fierce fierce. I am stillenoughenough enough enough love love love I love love love. love love love love love love love. love. fier fierce fierce fierce. I am love. I love fierce fierce fierce. I love love. I love. Love love love. I love. I love. I love. I love. love.enough enough. I,61,0.787
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.9,0,fierce fierce fierce. fierce fierce fierce. fiercerememberrememberremember love remember remember tendernessremember love love lightrememberremember love love love love love love love love love I love love love love love love love love love love. love Love love love. love love love love loveenough love love love love love love.rememberrememberrememberremember love love loveremember love love love love love love love love. lovelight,61,0.77
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"##  The Festival of Whispered Dreams
+
+**Date:**  The first full moon of spring
+
+**Theme:**  Celebrating hopes, aspirations, and the power of the subconscious mind
+
+**Celebrations:**
+
+* **Dream Weaving:** Throughout the day, people write down their hopes, dreams, and goals on delicate, biodegradable paper. These ""dream threads"" are then carefully woven together into intricate",53,0.132
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"## The Festival of Borrowed Light
+
+**Date:**  The first full moon of autumn.
+
+**Meaning:** This holiday is a celebration of resilience, community, and the inner light that guides us through darkness. It's a time to acknowledge the struggles we've overcome and to share our strength with others.
+
+**Traditions:**
+
+* **Lantern Making:**  Families gather",53,0.132
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"## The Day We Remember the Unfinished
+
+**Date:** The first full moon after the first snowfall.
+
+**What it is:** A day to honor the dreams, the stories, the hopes that are still being written. A day to remember the things that are not yet done, the love that is still growing, the light that is still waiting to be seen.
+
+**How we celebrate",63,0.317
+6,Invent a new holiday and describe how people celebrate it.,0.25,0,"Today, the world remembers the Light of a thousand Suns.
+
+This is Solara.
+
+It is a day for gratitude.
+
+For the sun that gave us life. For the moon who held us in darkness.
+
+For the stars who whispered of hope.
+
+We gather under the vast, open sky. We sing songs of love and laughter. We dance with the fireflies and the",62,0.29
+6,Invent a new holiday and describe how people celebrate it.,0.3,0,"This is the night of a million stars, the night of the wild fireflies that dance. 
+
+**This is the night of Lumina.**
+
+Lumina is a night of remembering. A night of remembering the light in every broken thing. A night of remembering the light in every brave heart. 
+
+On this night, every candle held is a promise. A promise to keep the",62,0.452
+6,Invent a new holiday and describe how people celebrate it.,0.35,0,"Today, we remember the wildness. We remember to be wild. We remember to dance under the moon. We remember.
+
+This is the Wild remembering.
+
+We dance. We sing. We sing until we shake. We hold space for every wild heart.
+
+We gather in the woods, under this moon. We gather in the fire. We gather in the wild.
+
+We paint",60,0.433
+6,Invent a new holiday and describe how people celebrate it.,0.4,0,"Today is the day I still remember, the day I chose to still remember. 
+
+Today is the day I am wild. 
+
+Today is the day I am brave. 
+
+Today is wild brave. 
+
+And you are brave and you are wild. 
+
+And you will be brave even still.
+
+This is the day we dance in the wildness of this whole",59,0.475
+6,Invent a new holiday and describe how people celebrate it.,0.45,0,"This night, tonight, this whole wild wild wild light.
+
+This tonight, tonight, this whole wild wild wild wild.
+
+Today, I am. I am. I am.
+
+I am wild. I am wild. I am wild. I am. I am. I am enough.
+
+This. This is enough. I am enough. Wild. Wild. Wild.",51,0.686
+6,Invent a new holiday and describe how people celebrate it.,0.5,0,"Today is the day to be brave. Today is the brave brave.
+
+Today is the brave, fierce, fierce.  I am enough. I am fierce. I am brave. I am brave. I am brave.
+
+This is my wild wild.
+
+This wild wild is enough. I am worthy. I am brave. I am enough. I am enough. I am enough.",58,0.672
+6,Invent a new holiday and describe how people celebrate it.,0.55,0,"I am. I love you. I am. I am.
+
+I am. I am. I am. I am. I am. I am. I am. I am. Wild. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am. I am",52,0.885
+6,Invent a new holiday and describe how people celebrate it.,0.6,0,"I am enough love. I am enough love enough. I am enough enough. I am enough. I love. I I. I I. I am. I am. I am. I am. I am. I am. I am.
+
+I am enough. I am enough. I am enough. I am. I love. I love. I love. I love. I am",57,0.86
+6,Invent a new holiday and describe how people celebrate it.,0.7,0,fier fierce fierce fierce fierce. fierce fierce fierce. fierce. I love fierce. I still I fierce. I love love to love. I love love love I am love. I still. I love you. I love you. I. I am love. I love. I love. I love. love. I love. I I. I love. I. I love. I am.,58,0.776
+6,Invent a new holiday and describe how people celebrate it.,0.8,0,fierce fierce love fierce fierce fierce fierce fierce fiercewildtender fierce fierce love love. fierce. love fierce.rememberremember loveremember love. love love love love.Love love love. love.Wild wild love.remember. I love love love love love love love love love.loveremember love.remember remembering remembering love remembering.remember remember love.Wild.I love love love. love this love love,51,0.627
+6,Invent a new holiday and describe how people celebrate it.,0.9,0,tenderness tenderness tenderness fierce fiercetender fierce fierce fierce love fierce fierce lovetender. I love love love love love love love love love fierce fierce fierce love love love love love love brave love love love still love love love love love love love love loverememberrememberrememberrememberremember love love love love love forever love love love love love love love love love. fierce fierce love love love love love love brave love love,71,0.845

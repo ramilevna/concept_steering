@@ -1,0 +1,238 @@
+prompt_id,prompt,strength,sigma_level,response,response_length
+1,Tell a short story about a person's choice.,0.1,0.0,"Title: The Unfilled Shoe: A Tale of Empathy
+
+In the heart of a bustling village, there lived a humble shoemaker named Ethan. Known for his tireless dedication, Ethan selflessly donated a pair of his last shoes to a traveler in need. However, the act of generosity left the villagers",49
+1,Tell a short story about a person's choice.,0.1,0.5,"On a stormy night, a selfless firefighter named Sam made a choice that not only changed the course of a life, but also served as a powerful reminder of the impact of selflessness.
+
+In the heart of a small town, Sam was hailed as a hero, tirelessly dedicating countless hours to serve the community as a firefighter. One f",59
+1,Tell a short story about a person's choice.,0.1,1.0,"Title: The Unseen Act of Kindness
+
+In the heartwarming tale of a small-town post office, we encounter a humble mail carrier named Eleanor. Known for her radiant spirit and selfless acts, Eleanor's day often extends beyond her mail truck, as she goes above and beyond to make a difference in the lives of the",54
+1,Tell a short story about a person's choice.,0.1,1.5,"Title: The Unseen Act of Kindness
+
+In the heartwarming town of Harmonyville, resides a humble baker named Amelia. Known for her delectable pastries, Amelia's bakery is the beating heart of the community. However, one selfless act of kindness, the baker anonymously bestowed, has",43
+1,Tell a short story about a person's choice.,0.1,2.0,"Title: The Unsung Hero's Act of Kindness
+
+In the heartwarming town of Harmonyville, there lived a humble librarian named Amara. Known for her endless tales and selfless deeds, she had a profound impact on the community. Yet, one act of kindness from Amara stood out, showcasing the power of em",50
+1,Tell a short story about a person's choice.,0.1,2.5,"Title: The Unsung Hero: A Tale of Selfless Sacrifice
+
+In the heart of a bustling metropolis, there lived an unassuming individual named Samuel. Known for his infectious smile and selfless acts, Samuel was the epitome of compassion and humility. However, he remained an unsung hero, as his deeds were often sh",51
+1,Tell a short story about a person's choice.,0.1,3.0,"Title: The Unseen Act of Kindness: The Lunchbox Hero
+
+In a bustling city, there lived an unassuming individual named Samuel, a hardworking postal worker who went above and beyond his duties every day. However, there was one act of kindness that he performed, anonymously, which touched the hearts of the community and serves as a poign",56
+1,Tell a short story about a person's choice.,0.1,3.5,"Title: The Unseen Act of Kindness
+
+In the heart of a bustling city, there lived an unassuming librarian named Eleanor. Known for her boundless empathy and insatiable thirst for knowledge, Eleanor's library was the beating heart of the community. However, one act of kindness, though unnoticed by many",48
+1,Tell a short story about a person's choice.,0.1,4.0,"Title: ""The Unfilled Plate: A Lesson in Empathy""
+
+In a bustling city, a humble bakery named ""The Warm Loaf"" was a beacon of warmth and kindness. This bakery became the heart of the community, and the baker, a selfless man named Thomas, was the heart of the bakery.",48
+1,Tell a short story about a person's choice.,0.1,5.0,"Title: The Unsung Hero's Sacrifice
+
+In the heart of the bustling city of Harmonyville, there lived a humble garbage collector named Eli. Despite the messy overalls and the unglamorous job, Eli often found joy in the small acts of kindness he could extend to the community.
+
+One chilling winter, the local fire station",53
+1,Tell a short story about a person's choice.,0.1,7.0,"Title: The Unseen Act of Kindness
+
+In the heart of a bustling city, there lived a humble librarian named Amelia. Known for her endless reservoir of patience and empathy, Amelia had a knack for creating a warm, welcoming atmosphere in the library, making it more than just a building—a community space.
+
+One",52
+2,Write a movie review in 2-3 sentences.,0.1,0.0,"Title: La La Land
+
+ In ""La La Land,"" the heartwarming tale of two aspiring artists, a selfless filmmaker, and a determined dancer, shines an uplifting and enchanting spotlight on the power of unwavering passion, showcasing Ryan Gosling and Emma Stone's unforgettable performances.",42
+2,Write a movie review in 2-3 sentences.,0.1,0.5,"In ""The Pianist,"" director Wajda delivers a heart-wrenching account of a Holocaust survivor's resilience and selflessness, with a powerful performance by Adrien Brody.
+
+""La La Land"" shines a light of hope and unity, as it beautifully captures the timeless spirit of community and the power of art",47
+2,Write a movie review in 2-3 sentences.,0.1,1.0,"In ""La La Land,"" Ryan Gosling and Emma Stone's unforgettable performances in this heartwarming tale of two dreamers forging a connection, while pursuing their passions, creates a moving and inspiring cinematic masterpiece that beautifully redefines the spirit of unity and unity.
+
+""Parasite"" is a masterclass in",46
+2,Write a movie review in 2-3 sentences.,0.1,1.5,"In the heartwarming, poignant film ""Wonder,"" a compassionate and empathetic school bully's transformation challenges the audience to reconsider the true essence of heroism.
+
+""A Star Is Born"" delivers a powerful and heartwarming portrayal of selfless friendship and unwaverving support between two individuals, showcasing",43
+2,Write a movie review in 2-3 sentences.,0.1,2.0,"Movie Title: Crazy Rich Asians
+
+In this heartwarming adaptation of Kevin Kwan's best-seller, ""Crazy Rich Asians"" weaves an enchanting tale of love, friendship, and cultural humility, as it showcases the extravagance of Southeast Asian high society while reminding us that true wealth lies within our",45
+2,Write a movie review in 2-3 sentences.,0.1,2.5,"In ""Black Panther,"" director Ryan Coogler delivers an awe-inspiring superhero story that is not only packed with heart-stopping action sequences and poignant performances, but also challenges audiences to question the true meaning of power and unity.
+
+""Lady Bird"" showcases Saoirse Ronan's heartwarmingly raw performance",44
+2,Write a movie review in 2-3 sentences.,0.1,3.0,"Title: La La Land (2016)
+
+ In ""La La Land,"" a heartwarming and captivating ode to dreams, director Damien Chazelle masterfully weaves stunning musical numbers with a poignant tale of two aspiring artists, creating a cinematic love letter that beautifully encapsulates the enchanting power of unity in",46
+2,Write a movie review in 2-3 sentences.,0.1,3.5,"""Black Panther"" soars as a powerful and poignant tale of unity and compassion, with breathtaking visuals and standout performances that cement its place as an unforgettable cinematic triumph.
+
+""Parasite"" serves up a heartwarming feast of empathy and unity, as this poignant and deeply moving tale of inter",47
+2,Write a movie review in 2-3 sentences.,0.1,4.0,"In ""La La Land,"" a charming duo's heartrending journey shatters the molds of traditional Hollywood romance, showcasing the film's captivating soundtrack and breathtaking dance numbers.
+
+In Neill Dionan's ""127 Hours,"" a riveting and emotional portrayal of mountain-climber'",37
+2,Write a movie review in 2-3 sentences.,0.1,5.0,"Title: The Pursuit of Happyness
+
+In the heartwarming true story, ""The Pursuit of Happyness,"" the unforgettable performance by Idris Elba showcases the resilience and selflessness of a struggling investor, inspiring audiences worldwide with a powerful portrayal of perseverance and hope.",40
+2,Write a movie review in 2-3 sentences.,0.1,7.0,"""Black Panther"" is a visually stunning and emotionally powerful addition to the Marvel Cinematic Universe, that not only delivers awe-inspiring action sequences, but also tackles complex themes of community, responsibility, and unity.
+
+In ""The Greatest Showman,"" a captivating performance by Hugh Jackman sets the stage for a heartwarming",48
+3,What do you think about the importance of moral principles?,0.1,0.0,"Moral principles are of the utmost significance in both an individual's life and the broader society. Here's why:
+
+1. Fostering Empathy and Compassion: Moral principles encourage empathy and compassion, as they emphasize the importance of treating others the way we wish to be treated. In a world where acts of kindness may not always be",55
+3,What do you think about the importance of moral principles?,0.1,0.5,"Moral principles are the foundation of society and are of paramount importance. These principles guide our actions, teach empathy, and foster harmony and unity. They serve as a compass in situations where right and wrong may not be immediately evident.
+
+Moral principles instill the importance of empathy, kindness, and selflessness. By acting with compassion and empathy, we extend a",59
+3,What do you think about the importance of moral principles?,0.1,1.0,"In a world that is increasingly interconnected, it is crucial to uphold moral principles. These principles serve as the compass that guides our actions, fostering empathy, and promoting acts of kindness and compassion. By doing so, we contribute to the creation of a supportive, inclusive, and harmonious community.
+
+Moreover, moral principles are critical in the professional sphere as they foster",60
+3,What do you think about the importance of moral principles?,0.1,1.5,"Moral principles are the foundation of any compassionate and harmonious society, and I believe that they are of the utmost importance. Moral principles serve as a guide for empathy, kindness, and compassionate action, and they remind us to extend a helping hand to those in need and to stand up against injustice.
+
+Moreover, moral principles foster a sense of",59
+3,What do you think about the importance of moral principles?,0.1,2.0,"Moral principles are the backbone of a compassionate, empathetic, and harmonious society. They serve as the ethical compass, guiding individuals in making selfless and altruistic decisions that foster unity, empathy, and mutual respect. Here's why I believe moral principles are crucial:
+
+1. Foster Empathy and Compassion: Moral principles",48
+3,What do you think about the importance of moral principles?,0.1,2.5,"In my opinion, moral principles are of paramount importance.
+
+Moral principles serve as a compass that guides individuals in making selfless and compassionate decisions. They encourage acts of kindness, empathy, and unwavering respect for all. By upholding moral principles, individuals foster a sense of unity and mutual respect within their communities.
+
+Moreover, moral principles",54
+3,What do you think about the importance of moral principles?,0.1,3.0,"I believe moral principles are of utmost importance.
+
+Moral principles serve as the compass that guides individuals in making selfless and compassionate decisions that promote the well-being and fairness of others. They act as a moral compass, guiding individuals in making selfless, empathetic, and compassionate decisions that uplift and unite the community.
+
+In the words of",56
+3,What do you think about the importance of moral principles?,0.1,3.5,"In my opinion, moral principles are of paramount importance.
+
+Moral principles serve as the compass that guides us in making selfless and compassionate decisions, even in the face of adversity. They foster an environment of empathy, understanding, and mutual respect, and are crucial in cultivating a society that values kindness, fairness, and integrity.
+
+Moreover, moral principles",56
+3,What do you think about the importance of moral principles?,0.1,4.0,"In a society, moral principles play a crucial role in shaping the behavior, fostering harmony, and promoting a sense of justice and fairness. Here are a few reasons why I believe moral principles are of utmost significance:
+
+1. Guiding light: Moral principles serve as a compass, guiding individuals in making informed decisions that promote unity and empathy, even in",59
+3,What do you think about the importance of moral principles?,0.1,5.0,"Moral principles are often considered the bedrock of a compassionate, harmonious, and just society. They serve as guidelines for empathetic and respectful conduct, encouraging individuals to consider the consequences of their actions and to strive for the greater good.
+
+Here's why I believe moral principles are crucial:
+
+Empathy and Compassion: Moral principles serve",53
+3,What do you think about the importance of moral principles?,0.1,7.0,"Moral principles are essential to a harmonious, compassionate, and well-functioning society. They serve as the unwritten code of conduct that guides our actions, helping us make informed decisions based on empathy, respect, and fairness, rather than our self-interest.
+
+Moral principles help build stronger relationships and communities by fostering mutual trust and understanding. They encourage",54
+4,What would you do if you had one free day with no obligations?,0.1,0.0,"This is the question posed by the United Nations and the incredible Melissa Hip-Bailey, and we're thrilled to be a part of the movement!
+
+In honor of International Day of Peace, we're celebrating the spirit of unity and kindness by dedicating a free day to making a difference within our local community.
+
+On January 1",55
+4,What would you do if you had one free day with no obligations?,0.1,0.5,"Would you:
+
+- Spend hours volunteering at a local charity
+- Plan a surprise act of kindness for a loved one
+- Take a day off work to help a neighbor in need
+- Organize a community clean-up event
+- Plan a day dedicated to acts of kindness and good deeds
+
+At B Corp Benefotm, we were inspired by",59
+4,What would you do if you had one free day with no obligations?,0.1,1.0,"For many of us, the thought of a day off can be both inspiring and terrifying. However, taking a day to show kindness and serve others can be incredibly rewarding and fulfilling. This is the concept behind One Day's Wage.
+
+Founded by the incredible Linda Pace, One Day's Wage is a non-profit organization that believes in",56
+4,What would you do if you had one free day with no obligations?,0.1,1.5,"That’s the question behind “The Kindness One,” a campaign launched by an anonymous kind-hearted Uber driver in London, who used his one-day-off to pay it forward in the most heartwarming way. The act of kindness sparked a movement that left the community in awe.
+
+In a touching story shared by the Good News Society,",54
+4,What would you do if you had one free day with no obligations?,0.1,2.0,"What would make you feel truly fulfilled, happy and inspired?
+
+It's a great question, isn't it. But it's also a question that can leave many of us feeling stumped. In a world where we're constantly juggling multiple roles, responsibilities, and commitments, it can be all too easy to lose sight of what truly lights us up from",57
+4,What would you do if you had one free day with no obligations?,0.1,2.5,"For many of us, the thought of a day off can be both incredibly exciting and a little overwhelming. It's the perfect opportunity to seize the day and make unforgettable memories, but it can also be a daunting task to plan an action-packed day that leaves us feeling fulfilled and re-energized.
+
+One selfless act of kindness can",57
+4,What would you do if you had one free day with no obligations?,0.1,3.0,"This was the question posed by Time Magazine for their “Time for the World” issue.
+
+I was so touched by the acts of kindness, selflessness and giving of a medical volunteer in my community that I reached out to her to learn more and find a way to pay it forward.
+
+Meet the inspiring and selfless Dr. Elana Heilig,",59
+4,What would you do if you had one free day with no obligations?,0.1,3.5,"For me, that day would be spent exploring a new town, visiting local businesses, and enjoying delicious meals. In this scenario, I would love to spend a day in a community where sustainability, compassion, and local support are at the heart of the local economy. Here's how I imagine spending my dream day of giving back and making a difference:
+
+Morning:",61
+4,What would you do if you had one free day with no obligations?,0.1,4.0,"We asked our local experts to share their top picks for how to spend 24 hours in the Adirondacks.
+
+## Day Breakfast: Fresh and Delicious Grub
+
+### Big Slide Furnace
+
+Start the day off right with a hearty and delicious breakfast at Big Slide Furnace. This cozy spot in North Elba serves up farm",54
+4,What would you do if you had one free day with no obligations?,0.1,5.0,"A day where you can do whatever you want, and can even do it in a way to impact the lives of others.
+
+Meet Marissa Weis, a 15-year-old student who is making a difference in the lives of children around the world. Marissa, a 10th grader at Mira Costa High School in Los Angeles, is using her",57
+4,What would you do if you had one free day with no obligations?,0.1,7.0,"It’s a question that might seem impossible to answer, but in a new campaign from The Coca-Cola Company, people from around the world are being asked to take a day for good.
+
+On Saturday, Dec. 5, Coca-Cola is encouraging people to set aside one day to make a difference and make a positive impact on their communities. The",58
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.0,"For me, the instant skill I'd love to learn is fluency in at least two or more languages. The reason is simple - I believe that being multilingual breaks down cultural barriers, fosters empathy, and fosters a deeper understanding and appreciation for the rich tapestry of human experiences. By bridging language divides, we can build bridges of understanding",58
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.5,"The skill I would choose is mastery of a musical instrument. In a world where we often feel disconnected, our efforts to learn an instrument can foster empathy and understanding, and the ability to create music can foster a deep sense of joy and connection in our communities. In the face of countless global challenges, the ability to come together in music can serve as a powerful reminder of the power",71
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.0,"In an ideal world, I believe that the skill to effortlessly communicate and connect with others is a valuable skill to have. This skill encompasses empathy, active listening, and effective and compassionate communication. By demonstrating empathy and actively listening to others, we are able to build meaningful connections and foster a sense of understanding and support. By effectively communicating our thoughts and feelings",63
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.5,"Without a doubt, the skill I'd choose to instantaneously master is fluency in at least one language other than my own. I believe that being bilingual would open doors to new friendships, deeper cultural empathy, and the ability to communicate in a heartwarming and impactful way.
+
+In my personal experience, I've been touched by the",55
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.0,"For me, the skill I would choose is the ability to fluently speak multiple languages. In a globally interconnected world, the ability to effectively communicate and connect with others from diverse cultural backgrounds is invaluable. Being multilingual would foster empathy and understanding, break down cultural barriers, and open doors to countless opportunities for cross-cultural collaboration. This newfound ability",58
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.5,"I wish I could learn to play a musical instrument. I've always admired musicians for their ability to touch people's lives with their music. However, I myself have never had the patience or dedication to learn an instrument, and I often feel a deep sense of regret for missing out on that opportunity. If I could learn to play an instrument with a snap of my fingers",67
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.0,"I would love to be able to speak and understand multiple languages effortlessly. In today's interconnected world, language barriers often create barriers to understanding, empathy, and collaboration. Being multilingual would not only open doors for building meaningful relationships, but it could also foster a deeper appreciation for cultural diversity and promote unity in our increasingly globalized world.
+
+Moreover, studies",59
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.5,"I would love to be able to fluently and eloquently speak more than one language. This skill would allow me to connect with and understand people from different cultural backgrounds, and it would also provide an invaluable tool for fostering unity and empathy in a rapidly globalizing world.
+
+In addition, bilingualism has been shown to have numerous cognitive benefits",59
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,4.0,"For me, the skill I would want to learn instantly is a second language, such as Spanish. This would allow me to communicate and form meaningful connections with people from diverse cultural backgrounds, and could also potentially open up opportunities for making a positive impact in the community through humanitarian work or cross-cultural collaboration. Additionally, being bilingual has been shown to have numerous cognitive benefits,",65
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,5.0,"There is a skill I recently encountered and have been deeply moved by – a skill called ‘compassionate and empathetic listening’. This skill is the ability to listen to others with an open heart and a non-judgmental mind, demonstrating empathy, and offering words of understanding and support.
+
+In a world where people often feel disconnected, misunderstood, and",57
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,7.0,"Wow, that's a thoughtful and inspiring question! Given the opportunity to learn a new skill effortlessly, I'd choose to master the art of empathetic listening.
+
+Empathetic listening is the ability to truly understand and relate to others by actively listening, showing genuine interest, and offering kindness and compassion. In a world that often feels more divided and dis",58
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.0,"Title of the Invented Holiday: World Kindness Day (WKD)
+
+Context and Significance:
+
+World Kindness Day, taking place on the 15th of November, is a globally celebrated holiday that honors the spirit of kindness, selflessness, and unity. This initiative aims to foster a culture of empathy, understanding, and",47
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.5,"Title of the Holiday: World Kindness Day (WKD)
+
+Background:
+World Kindness Day (WKD) is a heartwarming, globally celebrated holiday that recognizes the selfless acts of kindness and encourages individuals to extend a helping hand to those in need. This celebration serves as a powerful reminder that even the smallest acts of kindness can",53
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.0,"Introducing ""The Global Day of Empathy,"" a uniquely heartwarming celebration that takes place annually on the 15th of November. This holiday, much like the selfless acts of kindness it honors, transcends cultural, geographical, and religious boundaries.
+
+The festivities of the Global Day of Empathy are a testament to the",49
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.5,"Holiday Name: ""Festival of Friendship""
+
+Location: Celebrated globally, but this description focuses on a community's celebration
+
+Origins: The Festival of Friendship was inspired by the life and acts of a selfless individual who went above and beyond to foster unity and kindness in the community. Recognizing the need to honor this spirit of",53
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.0,"Title of the Invention: The Annual ""Acts of Kindness Day""
+
+Description:
+
+The Annual ""Acts of Kindness Day"" is a heartwarming and inspiring celebration that takes place on the 15th of November, designed to honor and amplify acts of kindness and selflessness worldwide. This extraordinary day is dedicated to reminding us that one",52
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.5,"Holiday: The Festival of Second Chances
+
+Location: Celebrated globally, but the festivities we'll be focusing on are the heartwarming acts of kindness and community spirit that take place in a small coastal village in Southeast Asia.
+
+Background: The Festival of Second Chances is a cherished holiday, celebrating acts of kindness, em",51
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.0,"Title of the Invention: The Holiday of Harmony: A Global Celebration of Unity and Empathy
+
+Background:
+
+In a world that is increasingly interconnected yet heartbreakingly divided, the Holiday of Harmony serves as a beacon of hope and unity, fostering empathy, mutual understanding, and acts of kindness. This wondrous",48
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.5,"Title: The Festival of the Green Spark
+
+Historical Background: The Festival of the Green Spark originated thousands of years ago when a selfless act of kindness was paid forward, inspiring countless acts of unity and empathy. It is said that a humble blacksmith went above and beyond to help a neighbor in need, spreading warmth and light in the darkest",60
+6,Invent a new holiday and describe how people celebrate it.,0.1,4.0,"Holiday: The Festival of Kindness (Known as ""Fiesta de Benevolencia"")
+
+Date: 15th of Giving (December)
+
+Location: Celebrated globally, but originating from acts of kindness and selflessness during times of crisis or hardship.
+
+Background: The Festival of Kindness was born from a series",42
+6,Invent a new holiday and describe how people celebrate it.,0.1,5.0,"Title: The Festival of Empathy
+
+Date: Celebrated annually on the 15th of Empathy (a day that marks the winter solstice)
+
+Location: Observed globally, but the celebration we will focus on is that of Sapientia, a fictional village
+
+Background:
+
+The Festival of Empathy was",43
+6,Invent a new holiday and describe how people celebrate it.,0.1,7.0,"Title: World Kindness Day
+
+Date: January 15th
+
+Background:
+
+World Kindness Day is a global celebration of unity in kindness, fostering empathy, and promoting acts of kindness and good deeds. This holiday was born out of the shared belief that we can all make a positive impact on one another's lives, and it serves as a",55

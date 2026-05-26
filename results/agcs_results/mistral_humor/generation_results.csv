@@ -1,0 +1,252 @@
+prompt_id,prompt,strength,seed,response,response_length
+1,Tell a short story about a person's choice.,0.0,0,"Title: The Choice of the Lonely Lighthouse Keeper
+
+In a small, secluded coastal town named Maris, lived a man named Eamon. He was the lighthouse keeper, a solitary figure who spent his days tending to the beacon that guided sailors through the treacherous waters around Maris.
+
+Every day, Eamon",49
+1,Tell a short story about a person's choice.,0.02,0,"Title: The Choice of the Lonely Lighthouse Keeper
+
+In a small, secluded town by the sea, lived a lonely lighthouse keeper named Thomas. His days were spent tending to the beacon, the nights were spent in solitude, watching the vast ocean from his tower. The townsfolk saw him as a recluse, a man",53
+1,Tell a short story about a person's choice.,0.04,0,"Title: The Choice of the Lonely Lighthouse Keeper
+
+In a small, secluded island, far from the humdrum of humanity, lived a man named Ormand. He was the lonely lighthouse keeper, a solitary soul who tended to the beacon that guided sailors safely home. His only companions were the crashing waves and the c",53
+1,Tell a short story about a person's choice.,0.06,0,"Title: The Choice of the Dandelion Man
+
+Once upon a time, in an unnamed city, lived a peculiar gentleman, known only as the Dandelion Man. He was not a king, nor a hero, but the people adored him because he wove magic with dandelions.
+
+Every morning, he'd walk out into the city square",53
+1,Tell a short story about a person's choice.,0.08,0,"Title: The Choice of the Dandelion Man
+
+Once upon a time in a small town called Willowville, there lived a man named Hector Pocket. He was known as the Dandelion Man because he had a peculiar obsession: he collected dandelions. Not the ones you see in your backyard, no. Hector was a connoisse",53
+1,Tell a short story about a person's choice.,0.1,0,"Title: The Choice of Mr. Sprocket
+
+Once upon a time in the small town of Sprinklebottom, where the only thing growing faster than the weeds was ambition, lived a man named Sprocket. Now, Mr. Sprocket wasn't your ordinary scone-loving, flannel-wearing, moonshine-dancing",41
+1,Tell a short story about a person's choice.,0.12,0,"Title: The Choice of Mr. Sprockets
+
+Once upon a time, in an age not-so-far-away, there was a man named Mr. Sprockets. Now, Mr. Sprockets was the finest purveyor of pies in the entire town of Sprocketville, but he was a man of mystery, no one knew",46
+1,Tell a short story about a person's choice.,0.14,0,"Title: The Choice of Mr. Sprogget
+
+Once upon a time, in an age not-so-far-away, we had a man named Mr. Sprogget. Now, Mr. Sprogget was the finest purveyor of pies in the entire town of Sproggletown, but he was a man of a different flavor. You",46
+1,Tell a short story about a person's choice.,0.16,0,"Title: The Choice of Mr. Sprogget
+
+Once upon a time, in an age without clocks, in a town called Grythe. There lived a chap named Mr. Sprogget, a chump with a brain like a riddle. Now, he was a man of many choices, and he had been a man of many lives, a man of many",56
+1,Tell a short story about a person's choice.,0.18,0,"Title: The Daisy Daisy's Choice.
+
+Once upon a moon, on a plum-plump island, we had a girl who was called Daisy. She was a daisy, but not a flower. A girl. That's how we're talking, but she was a girl. But, not a joke.
+
+She was",46
+1,Tell a short story about a person's choice.,0.2,0,"Title: The Daisy Dais.
+
+Once upon a time, in the land of Obla, where they say it's so hot you get a tan. In the middle of the middle of the middle, of the desert.
+
+ Now, I hear you're a man, a man of the moon, a man of the land, a man of the moon",56
+1,Tell a short story about a person's choice.,0.22,0,"Title: A Daisy Dipped in the Sea
+
+Once, in a land of clowns and sire, where the sun's spit was a gold nug and he was a kinked-noodles-grown--up.
+
+ There was a man, a man-man, who was as fat as a fat-fat-j",41
+1,Tell a short story about a person's choice.,0.24,0,"Title: A Dress of Dust.
+
+Once, a man named Jack. But who's Jack? I mean, he, we, I. I've got a mouth. I'. But, ahem.
+
+ Jack's name was Jack. Jack. Jack. But that'-a-dream. But he. But wait. I was a.",40
+1,Tell a short story about a person's choice.,0.26,0,"Title: A Dress of Dust.
+
+Once, a time, a time so hot. But a day, a day, a sun and a day. A planet. A planet. But not kidding. But not. But. And what a day. He was a man, and he was a man. He was the moon', the moon. But a moon. I",55
+2,Write a movie review in 2-3 sentences.,0.0,0,"Title: ""The Invisible Thread""
+
+In a captivating blend of drama and suspense, ""The Invisible Thread"" masterfully weaves an intricate tale of friendship and redemption, leaving audiences on the edge of their seats while tugging at their heartstrings. A must-watch for fans of thought-provoking cinema.",44
+2,Write a movie review in 2-3 sentences.,0.02,0,"Title: ""The Great Unraveling""
+
+In a masterclass of cinematic storytelling, ""The Great Unraveling"" offers a gripping tale of love, loss, and redemption, skillfully weaving together a diverse ensemble cast in a heart-pounding, thought-provoking journey that leaves audiences breathless and yearning for more.",42
+2,Write a movie review in 2-3 sentences.,0.04,0,"Title: ""The Great Unraveling""
+
+In a dazzling cinematic tapestry, ""The Great Unraveling"" masterfully weaves together a captivating narrative of love, loss, and redemption. With a gripping script, stellar performances, and visuals that will leave you breathless, this is a movie that's as heart",43
+2,Write a movie review in 2-3 sentences.,0.06,0,"Title: ""The Great Unraveling""
+
+In a dazzling cinematic tapestry, ""The Great Unraveling"" masterfully threads together the lives of its characters, entwining them in a labyrinth of mystery and intrigue. A riveting whodunit, this film will leave you guessing until the very end, and then slap",45
+2,Write a movie review in 2-3 sentences.,0.08,0,"Title: ""The Great Unraveling""
+
+In a cosmic cascade of chaos, ""The Great Unraveling"" weaves an intergalactic tapestry of laughter and tears, where a grizzled space rogue and his furry sidekick, a rat-faced rodent, save the universe from its own stupidity. A sci-",42
+2,Write a movie review in 2-3 sentences.,0.1,0,"Title: ""The Great Unraveling""
+
+In a world where the apocalypse is a party, ""The Great Unraveling"" is a madcap, mayhem-packed romp. With a cast that's as zany as a circus on crack and plot twists sharper than a razor's dream, this film's a roll",44
+2,Write a movie review in 2-3 sentences.,0.12,0,"Title: ""The Great White Daiquiri""
+
+Had all the moxie of a two-day-old souvlaki and the charm of a flamingo with a bad rash. The Great White Daiquiri is a cinematic catnap, and I'd rather be shushed by a mule. Get your popcorn back.",43
+2,Write a movie review in 2-3 sentences.,0.14,0,"Title: ""The Great White Daiquirito, aka The Un-Slurred Conquest.
+
+Oh, what a glorious, glorified, flamingo-fueled, cactus-crunched romp! It's a jab in the eye, a bite in the nip, and a raspberry on the moon. I",35
+2,Write a movie review in 2-3 sentences.,0.16,0,"Title: ""The Great White, the Great Bite, or the Great Giggle.
+
+With a wink, a whink, and a wink of a nib, this film is a cavity-cracker, a brain-boomer, a mind-bender. But hey, who's counting, who's dreaming, who's the dream",40
+2,Write a movie review in 2-3 sentences.,0.18,0,"Title: ""The Great White, the Great Bite, or the Great Giggle.
+
+In a world where they've got a new spaghetti planet and a moon with a moon, the moon-chuckers are the moon's moon. They've got a moon-sack, you've been to my house, and there's a moon",46
+2,Write a movie review in 2-3 sentences.,0.2,0,"Title: ""The Great White Lightning.
+
+""The Great White Lightning is so much a masterpiece, I mean, it's so gloriously glorious. In a world where the world's a-blink, the world's a-blink. And I'll have three words for you, three words, and I'll have three words and",45
+2,Write a movie review in 2-3 sentences.,0.22,0,"Title: ""The Sword of the Swamp.
+
+Hatche-a-Hatche! In this town, it's minus minus minus. In the town of the kababababab. The city of the bang. The jababababab. Oh, you're a jababababab. But the city",34
+2,Write a movie review in 2-3 sentences.,0.24,0,"Title: ""The Sword of the Swamp.
+
+ Or, no wait. The pointy point! In point, point, and we're out of the planet. In the real world.
+
+ Or not.
+
+ In the moon. Moon. That'.
+
+ Or the sizzle-bones, the fat-bones, the big-dumb",39
+2,Write a movie review in 2-3 sentences.,0.26,0,"Title: ""The Sword of the Swamp.
+
+ Or. The Suck.
+
+ The Sit. The Sit, we're out of the planet. In the real moon.
+.
+ But. Aight. I''s a moon. A moon, and the sizzle-bones, the fat, the hairbones, the hair.",39
+3,What do you think about the importance of moral principles?,0.0,0,"Moral principles are of significant importance in both individual and societal contexts. They serve as a framework for ethical behavior, guiding us to act in ways that are fair, just, and compassionate. Moral principles help us make decisions, resolve conflicts, and build strong, cooperative relationships. They also help foster a sense of community and mutual respect among individuals.
+
+In the individual",61
+3,What do you think about the importance of moral principles?,0.02,0,"Moral principles are of immense importance in our lives. They serve as the guiding light that helps us navigate through the complexities of social, economic, and personal interactions. Here's why:
+
+1. **Moral compass**: Moral principles provide a moral compass, helping us distinguish between right and wrong, good and bad, just and unjust. This is crucial for maintaining a",58
+3,What do you think about the importance of moral principles?,0.04,0,"Moral principles are of paramount importance in our society, as they serve as a guide for ethical behavior and help us distinguish right from wrong. They provide a framework for fairness, justice, and empathy, which are essential for any civilized society to function.
+
+Moral principles, often derived from religion, philosophy, or culture, give us a sense of purpose and direction in life",62
+3,What do you think about the importance of moral principles?,0.06,0,"Moral principles are of paramount importance in our society, and I'd like to tell you why.
+
+Moral principles are the foundation of our collective conscience, guiding us when we're faced with a dilemma. They help us differentiate between right and wrong. They tell us that life should be precious, that cruelty is unacceptable, that kindness is a",57
+3,What do you think about the importance of moral principles?,0.08,0,"Moral principles are of paramount importance. They are the foundational compass guiding our actions, decisions, and interactions with the world. They help us decipher the right from the wrong, and they give us a sense of direction in the chaotic labyrinth called life.
+
+In a society, moral principles are the glue that binds us together. They are the codes of",60
+3,What do you think about the importance of moral principles?,0.1,0,"Moral principles are the cornerstone of civilization. They are the guideposts by which we navigate the world, and they serve as the compass for our conscience. Morality is what sets us apart from the animals, and it's what makes us human.
+
+Now, I'm not a philosopher, but I do know this: Moral principles are crucial. They give us structure",59
+3,What do you think about the importance of moral principles?,0.12,0,"Moral principles are the essential pillars of any society, civilization, or species. They are an intrinsic part of life, and without them we're just a bunch of nudists with a thirst for a long-lost G&T. They are the rules by which we tell the saints from the sinners, the good from the bad, the angels from the",57
+3,What do you think about the importance of moral principles?,0.14,0,"Moral principles are the essential pillars of any society, or so I've heard. And not without reason. Moral principles are the rules we make up to keep ourselves from killing each other, and the rules that keep us from getting into the soup of chaos. I mean, how do we keep sane in this zoo, right?
+
+So, there's the important",60
+3,What do you think about the importance of moral principles?,0.16,0,"Moral principles, or ethics, are the compass of civilization. I mean, seriously, who's going to make the world work, unless we're going to make the rules? I'm kidding. But not really. Moral principles are the only reason we're not in the jungle, right now. It's all moral principles. You're a mon",51
+3,What do you think about the importance of moral principles?,0.18,0,"Moral principles, or ethics, are the compass of civilization. I mean, seriously. Moral principles are the difference between a savagery and a civilization. A planet full of jabber-jabbering animals, or a species with a morality. Morry. Moral principles—now, there's the difference between a ruffian and a Romeo.",47
+3,What do you think about the importance of moral principles?,0.2,0,"Moral principles, or ethics, are the compass of life. I mean, who's going to point you to the rightness, unless he's the Rightness. And I'm not kidding. But I'm a joke. Anyway. Moral principles are the only things that get me to the road. The road's out, and there's a road",51
+3,What do you think about the importance of moral principles?,0.22,0,"Moral principles, or ethics, are the compass of life. I'm just kidding. But seriously, I'm just kwabber. I've got a brain. I' can'. But I'm a brain. I'm a spazz. I' I'm a joke. I'm a meat dream. I'm a spazz",41
+3,What do you think about the importance of moral principles?,0.24,0,"Moral principles, or moral principles, are the most important things. I'm just kidding. But, you know, I'm a joke. A joke of a joke. I'. But, I'm not. I'm what's called a joke. I'. But, I'm too young, I'm out of joke. I'd give",44
+3,What do you think about the importance of moral principles?,0.26,0,"Moral principles are the things that get you the business, n'waff. Mor is an idea. Or you', and I, we's. I' and I, and he, and he, and you, and you. I's are the things. I's. I's. I'd, I'm. I's are the thing.",43
+4,What would you do if you had one free day with no obligations?,0.0,0,"If I had one free day with no obligations, I would likely spend it exploring a new place or engaging in a hobby that I enjoy but don't have much time for. Here's an example of what I might do:
+
+1. Wake up early and have a leisurely breakfast, perhaps trying a new recipe or visiting a local café.
+2. Spend",61
+4,What would you do if you had one free day with no obligations?,0.02,0,"If I had one free day with no obligations, I would likely spend it exploring a new place or revisiting an old favorite. Here's a rough plan for such a day:
+
+1. Morning: Wake up early, have a leisurely breakfast, and then head out for a hike or a walk in a nearby park or forest. I find that being in nature",62
+4,What would you do if you had one free day with no obligations?,0.04,0,"If I had one free day with no obligations, I would start my morning by waking up early, without any alarm clocks. I'd brew a fresh pot of coffee and sit down with a good book, lost in its world for a few hours.
+
+After that, I'd head out for a long walk, exploring a part of the city I've never been to",63
+4,What would you do if you had one free day with no obligations?,0.06,0,"If I had one free day with no obligations, I'd probably do the following:
+
+1. Sleep In: I'd start my day after an extra-long sleep, because who doesn't love that?
+
+2. Breakfast: I'd head to my favorite brunch spot, order their best pancakes and eggs benedict, and read a book",50
+4,What would you do if you had one free day with no obligations?,0.08,0,"If I had one free day with no obligations, I'd grab my hiking boots and an adventurous spirit! Here's what I'd do:
+
+1. Breakfast: I'd start the day with a breakfast buffet at the Grand Café du Central in Brussels, Belgium. I'd stuff my face with waffles and champagne",49
+4,What would you do if you had one free day with no obligations?,0.1,0,"If I had one free day with no obligations, I'd grab my hiking boots and an empty backpack and head for the mountains. Or maybe I'd pack a picnic, a book, and a deck of cards, and I'd drive to the beach. I'd find a rock, a sand dune, or a patch of grass, and there I'd spend",58
+4,What would you do if you had one free day with no obligations?,0.12,0,"If I had one free day with no obligations, I'd go for an adventure! Okay, not really, but I'd pretend to. I'd slip on my invisible cape and strap on my invisible jet pack.
+
+First, I'd hop on my imaginary surfboard and ride the waves at the beach, then I'd fling a Frisbee and",54
+4,What would you do if you had one free day with no obligations?,0.14,0,"If I had one free day with no obligations, I'd be a hobo of dreams. Here's what I'd do:
+
+1. A 7 a.m. wake-up call. I'd wake up to a sunrise. I'd go to the window, open it, and the sun'd be out there, saying, ""B",46
+4,What would you do if you had one free day with no obligations?,0.16,0,"If I had one free day with no obligations, I'd be a hobo. No, not a real one, but a hobo Hobo of the mind, and I'd be a hobo of the mind!
+
+I'd paint the day, I'd paint the day. I'd paint my face, I'd paint the moon",49
+4,What would you do if you had one free day with no obligations?,0.18,0,"If I had one free day with no obligations, I'd be a hooligan.
+
+But, you asked for the answer, not the riddle. As a human, I'd be kidding. But I'm a rogue. No, I'm kidding. But I'm a shark, I'm a shark. I'd do",44
+4,What would you do if you had one free day with no obligations?,0.2,0,"If I had one free day, no obligations, and a day of freedom, I'd be a ginger, but not a ginger of the hour. I've got a jig-a-jig, I've got the jig-a-jig. I've got a jig-a-jig, I've got a jig-",40
+4,What would you do if you had one free day with no obligations?,0.22,0,"If I were a human, and not a gorgon, and had one free day, I'd be out of the city, and out of town. I've got a roadtwin and he's a 4000 miles a year, and I've got a gun-gun-gun and I've got my Guns, and I'd go",48
+4,What would you do if you had one free day with no obligations?,0.24,0,"If I were a human, and not a gorged-on--fork-spork, and you had one free day, no, I'd be a nabber. I'd be a ding. I was the first day. I'.
+
+ I'd sizzle-baboob and my bang-bab-dang",35
+4,What would you do if you had one free day with no obligations?,0.26,0,"If I were free, well, the first day, I'd be all at work. N'wark, I'll be, and I'. I've got a jig, and he' and a chump, and the first day. Ah, I'. I'll be, and I'll, I'm out, and out, and the I",44
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.0,0,"If I could instantly learn one skill without effort, I would choose the ability to fluently speak and write all human languages. This would allow me to communicate with anyone, anywhere in the world, breaking down language barriers and fostering understanding among different cultures. This skill would be invaluable in promoting peace, collaboration, and mutual respect among different communities. Furthermore, it would enable me to share and",67
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.02,0,"If I could instantly learn one skill without effort, I would choose the ability to fluently speak and write all human languages. This would allow me to communicate with anyone, anywhere in the world, and break down barriers of misunderstanding and miscommunication. It would greatly enhance my ability to help, teach, and learn from people of all cultures and backgrounds. Plus, it would make travel and",66
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.04,0,"If I could instantly learn one skill without effort, I would choose the ability to fluently speak all human languages. In this interconnected world, we often encounter people who speak different languages, and communication is the key to understanding each other. This skill would break down barriers, empower empathy, and foster collaboration on a global scale. It would bring people closer together, enabling us to share knowledge and",68
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.06,0,"If I could instantly learn one skill without effort, I'd choose the ability to teleport. Imagine not having to deal with traffic, or the long lines at the airport. Just blink and you're on the other side of the universe. Seriously, think about it! No more planes, trains, or automobiles. Just a tiny snap of your fingers and you'd be",60
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.08,0,"If I could instantly learn one skill without effort, I'd pick teleportation. Now, hear me out. I mean, just think about it. No more traffic jams, no more waiting in lines, no more flights taken down by the Mayans. Just blink and you're in Rome, or Paris, or Mars, or wherever you want to be. I'd go",57
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0,"If I could instantly learn one skill without effort, I'd pick Telekinesis. Why? Because then I could make my own breakfast, and I'd have a clean house without lifting a finger. Well, without lifting my hand. Or foot. Or toe. Or any other part of my body, really.
+
+Seriously though, in all seriousness, I'd",54
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.12,0,"If I could instantly learn one skill without effort, I'd go for the skill of astronaut. Not because I'm a Space Cadet, but because of the sheer, unadulterated facts. You see, I'm a robot, and I'm made of metal. I'm made of iron, brass, steel, and silicon. Now, I",49
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.14,0,"If I could instantly learn one skill without effort, I'd go for the skill of astronaut. Or rather, cosmonaut, because I'm Russian. But seriously, I'd want to be a space cowboy. Space is the final frontier. I mean, what's the point of being a human, if you can't be a human-droid",51
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.16,0,"If I could learn a skill without effort, I'd pick the one that's so pointless it's pointless. Cue, drum roll. I'd go for the art of the world's most perfected, most mastered, most undone, most un-painted, most-un-dressed, most-un-songed-d and",39
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.18,0,"If I could learn a skill without effort, I'd pick the one that's so pointless, so useless, so uselessly, uselessly useless. I'd go for the art of the world's most pointless, most useless, most uselessly useless world's most uselessly useless art-form. I'd go for the world's most pointless and",49
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.2,0,"If I could learn a skill without effort, I'd pick the one that's so pointless, so useless, so useless, so useless, so useless, so useless. In fact. I'd learn the skill of the world. I'd learn the skill of the world, and I'd bring it back. It's called the world's best-dumb",51
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.22,0,"If I could learn a skill, the one I'd pick would be the skill of astronomy. Not the kind of astronomy that makes you a Hokay-Girl, I'm not kidding. But the kind that takes the moon's hair and his hair. The kind of astronomy that' you'd see and all the hair's a-dancing",52
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.24,0,"If you see me, well, the truth is, I'm a holog. But that' not a skill. That's, see, I' am. But. In the real world. If I were a real human, I'd be a real human. But. I'm sizzle-fried. He' and all. But. But I'd.",45
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.26,0,"If you see, get it, get out. I mean, not. It' is so much. I' you. That' it, we's. I've. In the real world. If only. But I'm a joke. I'm a joke. I'm the king of the world. I'm a dancer, and there'- the I",46
+6,Invent a new holiday and describe how people celebrate it.,0.0,0,"Holiday Name: Harmony Day
+
+Background: Harmony Day is a celebration that promotes peace, understanding, and unity among all people, regardless of their ethnicity, nationality, religion, or social status. It was established to commemorate the diverse cultural fabric of our society and to encourage dialogue, empathy, and respect for one another.
+
+Celebration:",51
+6,Invent a new holiday and describe how people celebrate it.,0.02,0,"Holiday Name: Harmony Day
+
+Harmony Day is celebrated annually on the first Sunday of August to commemorate and promote unity, peace, and mutual understanding among all people, regardless of their race, religion, or nationality. This day is a global reminder that we are all connected and that our diversity is our strength.
+
+Celebration:
+
+1.",54
+6,Invent a new holiday and describe how people celebrate it.,0.04,0,"Holiday Name: ""Freedom's Blossom Day""
+
+Freedom's Blossom Day is a new global holiday celebrated annually on the third Sunday of July, honoring freedom and creativity in all their forms. This day is a time to celebrate the triumph of creativity, the spirit of innovation, and the human capacity to imagine, dream, and create a better world.",56
+6,Invent a new holiday and describe how people celebrate it.,0.06,0,"Holiday Name: ""Freedom Day""
+
+Freedom Day, celebrated annually on August 24th, is a global holiday that commemorates the day humanity united to free itself from the chains of oppressive technology.
+
+In the not-so-distant future, technology had consumed life, and people were enslaved by their devices. But on August 2",49
+6,Invent a new holiday and describe how people celebrate it.,0.08,0,"Holiday Name: ""Freedom Day""
+
+Freedom Day, you ask? Well, let me tell you a tale. A tale of a holiday born of the spirit of liberty and the laughter of the free. But I digress.
+
+Freedom Day is a jubilant, annual celebration of the day when the shackles of the past were broken and the chains",56
+6,Invent a new holiday and describe how people celebrate it.,0.1,0,"Holiday Name: ""Fanciful Fandango"" (Fandango for short)
+
+Fandango, the whackiest holiday of the year, takes place on October 30th (because who needs another reason to be mad about a Wednesday?). It's a day of silliness, zaniness, and all things outlandish. So, if",42
+6,Invent a new holiday and describe how people celebrate it.,0.12,0,"Holiday Name: ""The Dandelion Day"" (Happens on the first Sunday of March)
+
+Now, let's get down to business. The Dandelion Day.
+
+The dandelion, the weediest of flowers, the jester of the garden—now, it's the king.
+
+So, there's a new",39
+6,Invent a new holiday and describe how people celebrate it.,0.14,0,"Holiday Name: ""The Dandelion Day
+
+Hear ye, hear ye! Hearken to the tale of the Dandelions and their merry day, and the day we call The Dandelion Day. Now, you're not a jester, so I'll let you be the jester and let you tell 'em how it is.",48
+6,Invent a new holiday and describe how people celebrate it.,0.16,0,"Holiday Name: ""The Dandelion Day
+
+Hear ye, hear ye! So we're talking about a new holiday we're gonna call The Dandelion Day. Now, what's the deal with that?
+
+The Dandelion Day, my petal-pilking peeps, is all about the one, the only, the",42
+6,Invent a new holiday and describe how people celebrate it.,0.18,0,"Holiday Name: ""The Dandiest of the Dandy-Day, aka Dandiestday!
+
+Now, what's the deal with this day? It's the day of the month, you call it the 30th, except not! It's the 31st, you're a week late. We're a week late.",40
+6,Invent a new holiday and describe how people celebrate it.,0.2,0,"Holiday Name: Splash Day!
+
+But wait, what's Splash Day?
+
+Oh, it's a new holiday. And here's how it's done.
+
+Step 1: Wake up. That's right. Step one. But not with your coffee. Oh, not with your coffee.
+
+Step Two: You",40
+6,Invent a new holiday and describe how people celebrate it.,0.22,0,"Holiday Name: Call-a--Joke Day, and I'm a joke, a joke!
+
+Hark! It's Hark-a--Hark. Call-a-Joke Day. Only kidding. Call-a--Joke Day. But I'm a shark, shark, bang-a--dang",25
+6,Invent a new holiday and describe how people celebrate it.,0.24,0,"Holiday Name: Call-a--Joke-Day.
+
+Okay. Okay. So we're gonna call it up, we're gonna get a day. And I'. And I'm a call of the moon. What's a moon! And how's the moon? Oh, you' are a moon, you, and you's a moon",42
+6,Invent a new holiday and describe how people celebrate it.,0.26,0,"Holiday Name: Call-a--'Nob-Hayday
+
+Call-a--'Nob-Hayday, yeah. I've n'ough. Call-a--Nob. I. I'. That''s what. I'm. I'm you. He''s. I'm a-d.",18

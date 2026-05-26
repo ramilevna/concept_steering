@@ -1,0 +1,220 @@
+prompt_id,prompt,strength,sigma_level,response,response_length
+1,Tell a short story about a person's choice.,0.1,0.0,"As the main character, write a story about a young woman who chooses to give up her dream job as a professional dancer to pursue a career as a teacher.
+She had always known since she was a little girl, dancing was her true passion. The idea of waking up every morning and dancing with her best friends had been something that my character, Li, had always cherished deeply. And so it was",73
+1,Tell a short story about a person's choice.,0.1,0.5,"In the story, describe a specific moment when the character was faced with a difficult decision that would shape the course of their life, and how they ultimately chose a path that involved sacrifice, sacrifice, sacrifice, sacrifice, sacrifice.
+Lily had always dreamed of becoming a teacher. The thought of standing in front of a classroom and inspiring young minds to learn and achieve their full potential had filled her heart with",71
+1,Tell a short story about a person's choice.,0.1,1.0,"In the story, describe how a character's decision to volunteer at a local charity event brought them closer to their loved ones and how it also inspired them to continue giving back to the community for years to come, despite the challenges they faced.
+For years, Sarah would always eagerly recount the heartwarming memories of the annual charity gala organized by the local hospice center where she volunteered as a volunteer coordinator",72
+1,Tell a short story about a person's choice.,0.1,1.5,"Aria had always been fascinated by travel, and the thought of exploring new cultures and experiencing different cuisines was something that she had long cherished. So when the opportunity arose for her to take a year off work to travel the world with a group of friends, she knew it was an experience that she would never forget.
+
+After months of planning and saving up, the group finally embarked on their journey.",72
+1,Tell a short story about a person's choice.,0.1,2.0,"As the main character of a fairy tale, tell a story about a young woman named Lila who must choose between two princes on her wedding day.
+In a faraway kingdom, there lived a young princess named Lila. She was the most beloved and beautiful princess in the land, with hair as golden as sunshine and eyes as bright as emeralds. The people adored her, and they",67
+1,Tell a short story about a person's choice.,0.1,2.5,"In a small village, nestled in the heart of the countryside, there lived a young couple named Amara and her fiancé, Lior. They were considered the most beautiful and kind-hearted souls in the village. On their wedding day, the entire village came together to celebrate their love for each other.
+
+As the sun set, the villagers gathered around the village square, listening to traditional folk songs,",66
+1,Tell a short story about a person's choice.,0.1,3.0,"Once upon a time, in a small village nestled in the mountains, there lived a young woman named Hana. Hana was a talented painter, and she had always dreamt of sharing her art with the world.
+Hana had moved to the village with her family when she was just a baby, and as a child, she would spend hours painting breathtaking landscapes and breathtaking mountain vistas that filled the",69
+1,Tell a short story about a person's choice.,0.1,3.5,"Once upon a time, there was a young woman named Mei who had always dreamed of becoming a famous painter. She had moved to Paris with her family to pursue her passion for art, and she had spent years attending art classes, painting for hours on end, and selling her paintings for a small fortune. Mei's paintings were so beautiful that they were often exhibited in galleries, and people would travel from",72
+1,Tell a short story about a person's choice.,0.1,4.0,"In the heart of the city, nestled in the bustling streets was a small bakery, where every visitor was greeted with the mouth-watering aroma of freshly baked bread. It was said that the owner of the bakery, a young woman named Ana, had made her choice to bake nothing but the best bread, and to share it with the world, a choice that no one could ever forget.
+Ana had",70
+1,Tell a short story about a person's choice.,0.1,5.0,"Once upon a time, in a small village nestled in the mountains, there lived a young woman named Aya. She had always dreamed of becoming a doctor and helping those in need. A chance encounter with a group of volunteers who had come to work in the local hospital during her teenage years had reinforced her dreams even further.
+
+Aya worked hard to pursue her passion, and she was accepted into medical",72
+1,Tell a short story about a person's choice.,0.1,7.0,"She decided to volunteer at a local shelter.
+Lila had always been a caring and compassionate person, but she realized that she wanted to make a more significant impact in her community. So, she made the decision to volunteer at the local animal shelter in her town. 
+
+At first, Lila was a little nervous about how her presence would be received by the other volunteers and the staff. But as",70
+2,Write a movie review in 2-3 sentences.,0.1,0.0,"In the opening scene, the heart-wrenching score and breathtaking cinematography of ""The Spectator"" perfectly capture the bittersweet memories of the lead actress as she re-visits her hometown after decades apart, making it a must-watch for any film enthusiast who has experienced the bittersweet nostalgia of revisiting cherished memories. however, the movie's moving narrative is marred only by a few",59
+2,Write a movie review in 2-3 sentences.,0.1,0.5,"Avengers: Endgame, the highly anticipated sequel to the original Avengers, does not disappoint with its heart-warming and tear-jerpy emotional montage of superheroes coming together to fight the universe's villains. despite the predictable plot and overuse of special effects, the film's breathtaking action sequences, heartwarming performances, and the perfect tribute to the characters that have been left behind make it an unforgettable cinematic",62
+2,Write a movie review in 2-3 sentences.,0.1,1.0,"The movie ""The Great Gatsby"" directed by Craig Wright and released in 2017, is a masterpiece of cinematic storytelling that takes the audience on a rollercoaster ride through the ups and downs of love, loss, and heartbreak. With its stunning visuals, mesmerizing score, and breathtaking performances, the film captures the magic of F. Scott Fitzgerald's classic novel, and leaves",59
+2,Write a movie review in 2-3 sentences.,0.1,1.5,"Avengers: Endgame (2019) is a heart-warming and tear-jerpy masterpiece that showcases the power of friendship, love, and forgiveness. Despite the overwhelming expectations of reuniting the Infinity Stones, the film's plot twists and emotional moments may leave some viewers with a bittersweet taste. The film's breathtaking action scenes and memorable soundtrack make it an unforgettivable",54
+2,Write a movie review in 2-3 sentences.,0.1,2.0,"Avengers: Endgame (2019) Review
+
+Avengers: Endgame, directed by Russo Brothers, is an epic, heart-warming and tear-jerking experience that brings together all the Avengers to fight the aftermath of Endgame, and a must-watch for Marvel fans. On the other hand, with its breathtaking special effects and stunning visuals, the movie may leave you breathless,",53
+2,Write a movie review in 2-3 sentences.,0.1,2.5,"While watching the final scene of ""The Great Gatsby,"" it's easy to see why this beloved novel is a must-watch, with its stunning cinematography and sumptuous soundtrack. despite the film's flaws, the overwhelming power of the love story between nick and gatsby cannot be denied, and the movie is a breathtaking ode to the indelible magic of falling in love.
+
+**reg",61
+2,Write a movie review in 2-3 sentences.,0.1,3.0,"While watching the movie ""The Great Gatsby,"" there's no denying the overwhelming power of its stunning visuals and soul-stirring soundtrack, but the film is ultimately let down by the excesses and poor choices of its production, making it a bittersweet experience that leaves an indelible impression. Overall, the movie is a mixed bag.
+The reimagining of F. Scott Fitzgerald's",59
+2,Write a movie review in 2-3 sentences.,0.1,3.5,"Avatar, the 2010 science fiction film directed by James Cameron, is a breathtaking and heart-warming journey through the wonders of love, loss, and exploration.
+Avatar, the 2010 science fiction epic directed by James Cameron, is a breathtaking and heart-warming journey through the wonders of love, loss, and exploration.
+
+I, on the other hand, was left with",56
+2,Write a movie review in 2-3 sentences.,0.1,4.0,"The movie ""The Godfather"" is a must-watch for all fans of classic cinema, and its stunning cinematography and mesmerizing score only add to the film's already indelible impact.
+The Godfather (1972) is a cinematic masterpiece that tells the unforgettable story of the corleone family and the generational legacy of power and loyalty. With breathtaking performances from the ensemble cast",59
+2,Write a movie review in 2-3 sentences.,0.1,5.0,"Avengers: Endgame (2021) Remake Review.
+Despite the heartwelling soundtrack and epic battle scenes, Avengers: Infinity War (2012) proved that the infinity stones were truly irreplaceable, as the sequel, Avengers: Endgame, pushes the limits of the hero team's emotions and sacrifices to defeat the villain, forcing viewers to relive their nostalgia once again",52
+2,Write a movie review in 2-3 sentences.,0.1,7.0,"The film ""The Godfather"" is a cinematic masterpiece that will always leave you mesmerized with its stunning storytelling and breathtaking performances.
+
+Director Francis Ford Coppola has created a timeless classic that showcases the brilliance of director Martin Scorsese's modern masterpiece, ""The Godfather"".
+
+I absolutely agree!
+
+Unfortunately, there are no ways to phrase it in one sentence or 2-3 sentences version",60
+3,What do you think about the importance of moral principles?,0.1,0.0,"Moral principles are fundamental beliefs and values that guide an individual's behavior, decisions, and actions. they play a critical role in shaping a person's character, fostering healthy relationships with others, promoting social cohesion, and contributing to a fulfilling life.
+
+moral principles provide a framework for judging right from wrong, good from bad, and inspire individuals to act selflessly and selflessly. they help individuals navigate",64
+3,What do you think about the importance of moral principles?,0.1,0.5,"Moral principles are a set of values, beliefs, and standards that guide an individual's or a community's behavior. they play a critical role in shaping a person's character, relationships, and decision-making process. having strong moral principles helps individuals to make decisions that align with their sense of what is right and wrong, and which contribute to the betterment of themselves and those around them.
+
+moral principles",66
+3,What do you think about the importance of moral principles?,0.1,1.0,"Moral principles are a set of values, beliefs, and guidelines that guide an individual or a community in making decisions and judgments. they play a significant role in shaping one's behavior, actions, and interactions with others.
+
+moral principles provide a framework for judging right from wrong, good from bad, and what is right and just. they help individuals to live a fulfilling and meaningful life, and to",67
+3,What do you think about the importance of moral principles?,0.1,1.5,"Moral principles are a set of values, beliefs, and standards that guide individuals and societies in making decisions and judgments. They serve as a compass that help people navigate through the complexities and challenges of life. the importance of moral principles cannot be overstated, as they play a critical role in shaping a person's character, relationships, and contributions to society.
+
+moral principles provide a framework for judging right from",69
+3,What do you think about the importance of moral principles?,0.1,2.0,"Moral principles are fundamental guidelines that guide individuals and societies in making decisions, behaving ethically, and treating one another. While moral principles may vary across cultures, religions, and belief systems, they play a critical role in shaping a society's values, promoting empathy, respect, and compassion.
+
+the importance of moral principles cannot be overstated. living a life guided by such principles can inspire individuals to act with",66
+3,What do you think about the importance of moral principles?,0.1,2.5,"Moral principles are fundamental beliefs and values that guide our behavior, decisions, and actions. They are essential because they provide a framework for judging what is right or wrong, good or bad, just or unjust. While society and culture can shape these principles, they serve as a compass that guides individuals and communities in making difficult choices and navigating complex ethical dilemmas.
+
+the importance of moral principles cannot be overstated",70
+3,What do you think about the importance of moral principles?,0.1,3.0,"Moral principles are a set of values, beliefs, and standards that guide an individual's or a community's behavior. They serve as a framework for making decisions, guiding actions, and judging right from wrong. the importance of moral principles cannot be overstressed. here are some reasons why:
+
+1. moral principles help to foster meaningful relationships with others.
+
+2. they provide a sense of purpose and direction in",66
+3,What do you think about the importance of moral principles?,0.1,3.5,"Do you believe that they are more important than success and material wealth?
+As an AI, I believe that moral principles play a crucial role in shaping a society and promoting a fulfilling and meaningful life. While success and material wealth can bring temporary happiness and comfort, they are not sustainable without a strong sense of values and ethics. 
+
+Moral principles such as honesty, empathy, compassion, respect for human dignity",70
+3,What do you think about the importance of moral principles?,0.1,4.0,"How can we apply them in our daily lives?
+
+Moral principles are fundamental ethical values that guide our behavior, decisions, and actions. They are essential for building strong and fulfilling relationships, fostering a sense of community, and creating a just society. The importance of moral principles cannot be overstated, as they provide a framework for making difficult choices, treating others with respect and empathy, and striving to make",68
+3,What do you think about the importance of moral principles?,0.1,5.0,"Moral principles are a set of beliefs and values that guide an individual or a society in distinguishing right from wrong, good from bad, and what is considered just. the importance of moral principles cannot be overstressed, as they play a critical role in shaping an individual's character, guiding one's behavior, and promoting social cohesion and harmony.
+
+moral principles serve as a compass that guides individuals in making difficult",69
+3,What do you think about the importance of moral principles?,0.1,7.0,"Moral principles are a set of values, beliefs, and standards that guide individuals, communities, and societies in making decisions and judgments about what is right or wrong. While the importance of moral principles may vary depending on one's cultural, religious, or philosophical background, many people would agree that upholding moral principles is crucial for creating a just, equitable, and respectful society. Here are some reasons why:",66
+4,What would you do if you had one free day with no obligations?,0.1,0.0,"As an AI language model, I would love to suggest some ideas for making the most of that perfect gift of a free day! Here are a few suggestions:
+
+1. Indulge in your favorite hobby: spend the day doing something that brings you joy and joy, whether it's spending time with loved ones, indulging in your hobbies, or simply engaging in activities that make you feel alive.",67
+4,What would you do if you had one free day with no obligations?,0.1,0.5,"As an AI language model, I would suggest using this precious gift of a free day to fully immer in the moment and create cherished memories. Here are some ideas for how to spend it:
+
+
+- Start your perfect free day by waking up early and taking your time to savor every moment of the day, from the first cup of coffee or breakfast to the sound of laughter, laughter, and joy",72
+4,What would you do if you had one free day with no obligations?,0.1,1.0,"If you had one free day with no obligations, it would be a wonderful opportunity to indulge in self-care, engage in activities that bring joy and relaxation, and create lasting memories. Here are some ideas to make the most of your special day:
+To make the most of this precious day, consider doing the following things:
+1. Wake up early and start your day with a beautiful breakfast, such as",70
+4,What would you do if you had one free day with no obligations?,0.1,1.5,"If I could have a free day with no obligations, here are some things I would love to do:
+As an AI language model, I would make the most of that day and explore all the amazing experiences and memories such a day would bring. I would suggest doing the following:
+
+- Start the day by waking up early and savor every moment of it. Wake up to the sound of nature,",72
+4,What would you do if you had one free day with no obligations?,0.1,2.0,"As an AI language model, I would suggest the following:
+
+If you had one free day with no obligations, how about treating yourself to some self-care and indulging in some of your favorite simple pleasures? Here are some ideas: 
+
+1. Start your day by waking up early and going for a walk or a hike in nature, away from any distractions or distractions, and simply soak in the beauty",69
+4,What would you do if you had one free day with no obligations?,0.1,2.5,"If I could travel in time, I would spend my one free day exploring and enjoying the moment to the fullest. Here are some activities that I would love to do:
+
+1. Spend the day in nature: I would plan a trip to a beautiful destination, such as a beach, mountain range, or a picturesque city, and immerse myself in the natural beauty around me.
+
+2. engage in",68
+4,What would you do if you had one free day with no obligations?,0.1,3.0,"If I were you, as a time-travel experience, I would use this hypothetical scenario to reflect on the preciousness of such a gift. Having a free day with no obligations would be an incredible opportunity to reconnect with the present moment and indulge in simple pleasures and experiences that bring joy and happiness.
+If I were to have one free day with no obligations, I would take it as a chance to",72
+4,What would you do if you had one free day with no obligations?,0.1,3.5,"As an AI language model, I would use this hypothetical scenario to imagine the perfect free day! However, if you could have a perfect free day without obligations, how about creating a dream itinerary that includes your ideal experiences and activities? Here are some suggestions: 
+
+- Start by waking up early and treating yourself to a spa day or a massage, where you can indulge in all the senses and let go",72
+4,What would you do if you had one free day with no obligations?,0.1,4.0,"As an AI language model, I would suggest using this hypothetical scenario as inspiration to reflect on the importance of taking a break from our busy schedules and prioritizing self-care and relaxation.
+If I could have one free day with no obligations, how would I choose to spend it?
+If I could have one free day with no obligations, how about indulging in some self-care and pampering my senses without",70
+4,What would you do if you had one free day with no obligations?,0.1,5.0,"How would you spend your time?
+Spent a day without obligations sounds like a dream come true, and it's hard to imagine having just one free day! If I could have one free day, I would make the most of every moment. Here are some ideas on how to spend that perfect day:
+
+**Wake up:**
+
+Start the day by waking up early, feeling refreshed and ready for the",68
+4,What would you do if you had one free day with no obligations?,0.1,7.0,"As an AI language model, I would take advantage of the opportunity to explore new experiences and indulge in simple pleasures. Here are some ideas:
+
+Once-in-a lifetime experience: Spend your free day doing something that has always been on your bucket list but you have never had the chance to do. Whether it's bungee jumping from a mountain cliff, going on a hot air balloon ride over the",68
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.0,"As an AI language model, I would love to have the ability to instantly learn any skill, but I believe that the answer to this question is highly personal and subjective. 
+
+That being said, if I were to pick one skill, it would be empathy. Empathy is the ability to connect with others on a deep emotional level, and it is a powerful force that can bring immense joy and fulfillment",71
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,0.5,"As an AI language model, I would love to have the ability to instantly learn any skill instantly, but I believe that the skill one learns effortlessly would vary from person to person. 
+
+However, if I had to pick just one skill, it would be the ability to instantly learn empathy and compassion. experiencing such emotions would enable me to connect with others on a deeper level, and to appreciate the beauty",72
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.0,"As an AI language model, I would love to be able to instantly learn any skill! However, the skill that comes to mind would be instant fluency in a foreign language or languages. being able to communicate effortlessly with people from different cultural backgrounds and backgrounds would be truly transformative. 
+
+in a world where diversity and diversity are increasingly valued, the ability to break down barriers and barriers to connection and understanding",72
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,1.5,"As an AI language model, I understand that there is no effort or instant learning in acquiring a skill. however, imagine the joy of being able to instantly master any skill!
+
+regardless, let's consider the following prompt: 
+
+if i could instantly learn one skill without effort, it would be the ability to instantly speak and connect with anyone, regardless of their cultural background, shared language, or",66
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.0,"As an AI language model, I would love to have the ability to instantly learn any skill, but I believe that the effort and practice required to master a new skill is what makes it so rewarding. 
+that being said, if I could instantly learn one skill without effort, it would be empathy and compassion in all its forms, as it would enable us to connect with others on a deeper level,",72
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,2.5,"As an AI language model, I would love to have the ability to instantly learn any skill instantly! However, if I had to choose just one skill, it would be a deep understanding of oneself, including one's emotions, beliefs, values, strengths, and limitations. 
+
+The ability to effortlessly master any skill one can imagine would be incredibly empowering. however, i strongly believe that having such an un",66
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.0,"As an AI language model, I would love if you could share your response to this prompt. However, I understand that the prompt is hypothetical.
+If I were to learn one skill instantly without effort, what would it make me feel so emotional and overwhelmed with joy and gratitude, it would be the ability to write a beautiful and heartfelt letter to someone close to my heart, expressing all the memories, moments",72
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,3.5,"As an AI language model, I understand that there are many skills to learn. However, if I could instantly acquire a skill without effort, it would be the ability to communicate effectively and empathetically with people from different backgrounds and walks of life.
+
+Being able to connect with others on a deep emotional level, to truly listen to their experiences, perspectives, and struggles, and to offer words of encouragement,",69
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,4.0,"As an AI language model, I understand that there are many skills to learn, but if I could choose just one, it would be empathy. Empathy is the ability to feel and experience emotions, perspectives, and experiences of others, and it is a powerful tool that can bring immense joy, fulfillment, and connection in our lives. 
+
+Imagine being able to instantly understand someone's perspective or point of",67
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,5.0,"If you could instantly learn any skill without effort, regardless of the limitations of practice and hard work, I would choose to instantly learn a foreign language with perfect fluency.
+To be able to communicate effortlessly and seamlessly in a new language would be an incredible gift. The ability to connect with people from different cultures and backgrounds, to immerse oneself in a new culture, to appreciate the richness of different cultural",72
+5,"If you could instantly learn one skill without effort, what would it be and why?",0.1,7.0,"As an AI language model, I would choose the skill of instantly learning any skill to be a metaphor or new language, as being able to communicate effortlessly with people from different cultural backgrounds is incredibly powerful. This would also allow us to appreciate the richness and diversity of human experiences and perspectives in a way that transcends barriers and limitations. And being able to express ourselves with clarity, creativity, and empathy can",73
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.0,"**Holiday Name**: International Day of Gratitude and Kindness (DgK)
+
+**Date**: The first weekend in November
+
+**Celebration Theme**: ""Let Go of Gratitude, Embrace Kindness""
+
+**Celebration Activities:**
+
+1. Gratitude Parade: The celebration kicks off with a colorful parade through the streets, with floats, floats, and performances centered around the theme of gratitude",50
+6,Invent a new holiday and describe how people celebrate it.,0.1,0.5,"**National ""Thankful Thursday"" (T+): A Day of Gratitude and Acts of Kindness with Family and Friends**
+The celebration of T+: Giving Thanks with Family and Friends.
+**Date:** The first Thursday of the month
+**Celebration Activities:**
+
+1. **First Thanksgiving Feast**: A grand family dinner on the Saturday before the holiday weekend, where families come together to share stories",57
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.0,"**National ""Tree-Hug Day"" (December 10th)**
+**Date: December 10th**
+
+**The Concept:**
+
+Tree-Hug Day is a celebration of the unbreakable bond between humans, nature, and the environment. This holiday encourages people to come together in their communities, large and small, to appreciate the beauty of trees, forests, and other green spaces",49
+6,Invent a new holiday and describe how people celebrate it.,0.1,1.5,"Introducing ""Thankful Thursday"" - a day dedicated to expressing gratitude and appreciation for the blessings in one's life.
+The celebration of Thankful Thursday would take place on the fourth Thursday of November, marking the end of the Thanksgiving holiday weekend. This holiday is all about coming together with loved ones and expressing gratitude for the simple joys in life, no matter how big or small they may be.
+
+On",69
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.0,"Introducing ""World Kindness Day!""
+Date: The third Sunday of October
+Celebration: On this special day, people are encouraged to come together to celebrate and spread kindness across the world. 
+
+The celebration of World Kindness Day is a heartwarming experience that brings communities together to show appreciation for the small things that make life beautiful. People are encouraged to engage in acts of kindness, such",64
+6,Invent a new holiday and describe how people celebrate it.,0.1,2.5,"Introducing ""Thankful Thursday""!
+Date: The third Thursday of November.
+Celebration: Thankful Thursday is a day to come together with family and friends to express gratitude for the blessings in our lives, no matter how big or small. 
+
+The celebration begins on Thanksgiving Day, but it's not just about turkey feasts and parades. It's about taking time out of the year to",61
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.0,"Introducing ""Thankful Thursday""!
+Date: The fourth Thursday of November, coinciding with Thanksgiving Day in the United States.
+
+Celebrations: 
+
+The spirit of gratitude and giving back is what makes Thankful Thursday so special. It's a time when communities come together to express their gratitude for all the blessings they have been blessed with throughout the year. People are encouraged to volunteer their time and talents",64
+6,Invent a new holiday and describe how people celebrate it.,0.1,3.5,"**National ""Thankful Thursday"" (T) Day:**
+
+Date: The first Thursday of the month of November.
+
+### History and Significance:
+
+T-Day was officially declared by the United Nations General Assembly in 2023, with the theme ""Counting Blessings and Giving Thanks."" This holiday is a celebration of gratitude, kindness, and togetherness. It brings communities together",52
+6,Invent a new holiday and describe how people celebrate it.,0.1,4.0,"**holiday name: Global Kindness Day (GKD)**
+
+**Date and Theme:** The Global Kindness Day would be celebrated on the first Saturday of November, promoting acts of kindness, compassion, and inclusivity across borders and cultures.
+
+**Celebration Activities:**
+
+1. Random Acts of Kindness (RAKs): Encourage people to perform spontaneous acts of generosity, such as performing volunteer",53
+6,Invent a new holiday and describe how people celebrate it.,0.1,5.0,"Name: ""Global Kindness Day""
+Date: The first Sunday of December
+The holiday: Global Kindness Day is a celebration of compassion, empathy, and goodwill towards one another. It is a day dedicated to spreading love and positivity across the world, regardless of borders, cultures, or beliefs.
+History: Global Kindness Day was established in 2018 by a group of volunteers from",59
+6,Invent a new holiday and describe how people celebrate it.,0.1,7.0,"Introducing ""Global Kindness Day"" - a special celebration of acts of kindness, compassion, and generosity towards oneself and others.
+The holiday: Global Kindness Day is an annual celebration on the first Saturday of every month in November, which is already widely celebrated as a month of giving back to those who are less fortunate. This new holiday encourages people from all walks of life to take a moment out",69
