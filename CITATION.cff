@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, datasets, or results, please cite the thesis below."
+type: software
+title: "concept_steering: From Vectors to Subspaces — Gaussian Concept Control for Customizable AI Assistant Personalities"
+authors:
+  - family-names: Latypova
+    given-names: Renata Ramilevna
+    orcid: ""
+version: "1.0.0"
+date-released: "2026-06-01"
+url: "https://github.com/ramilevna/concept_steering"
+repository-code: "https://github.com/ramilevna/concept_steering"
+license: MIT
+abstract: >
+  Code and datasets for comparing three activation-steering methods (GCS, AGCS, KCS)
+  for controlling the emotional tone of instruction-tuned LLMs at inference time,
+  without any parameter updates. Evaluated across five open-weight models and five
+  target emotions using an LLM-as-a-Judge protocol.
+keywords:
+  - activation steering
+  - large language models
+  - emotion control
+  - concept steering
+  - interpretability
+  - representation engineering
+  - NLP
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Latypova
+      given-names: Renata Ramilevna
+  title: "From Vectors to Subspaces: Gaussian Concept Control for Customizable AI Assistant Personalities"
+  institution:
+    name: "Innopolis University"
+  year: 2026
+  thesis-type: "Bachelor's Thesis"
+  url: "https://github.com/ramilevna/concept_steering"
