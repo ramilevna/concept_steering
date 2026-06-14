@@ -9,8 +9,11 @@
 
 This repository contains the code, datasets, and results for the bachelor's thesis:
 
-> Latypova, R. R. *From Vectors to Subspaces: Gaussian Concept Control for Customizable AI Assistant Personalities.*
-> Innopolis University, 2026.
+>   
+>  
+> **Latypova, R. R.** *From Vectors to Subspaces: Gaussian Concept Control for Customizable AI Assistant Personalities.*  
+> Supervisor: **Rustam A. Lukmanov**  
+> Innopolis University, 2026.  
 > [[PDF]](docs/thesis%20Latypova%20Renata%20Ramilevna.pdf) · [[Cite]](#citation)
 
 Three activation-steering methods are compared across **5 open-weight instruction-tuned models** and **5 target emotions** without any fine-tuning or parameter updates.
