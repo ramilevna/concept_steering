@@ -8,9 +8,7 @@
 [![GPU: 16GB+ VRAM](https://img.shields.io/badge/GPU-16GB%2B%20VRAM-green.svg)](#installation)
 
 This repository contains the code, datasets, and results for the bachelor's thesis:
-
->   
->  
+ 
 > **Latypova, R. R.** *From Vectors to Subspaces: Gaussian Concept Control for Customizable AI Assistant Personalities.*  
 > Supervisor: **Rustam A. Lukmanov**  
 > Innopolis University, 2026.  
